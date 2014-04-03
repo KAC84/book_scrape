@@ -22,6 +22,11 @@ urls = ['http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/dp/B
 'http://www.amazon.com/George-Martins-Thrones-5-Book-Boxed-ebook/dp/B00957T6X6/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1396397396&sr=1-3&keywords=george+rr+martin',
 ]
 
+
+#Kim should be nicer to Danny 
+
+
+
 #print url 
 
 #f = urllib.urlretrieve(url,'query_'+queryurl+'min'+minVal+'max'+maxVal+'.html') 
