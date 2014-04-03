@@ -20,7 +20,9 @@ urls = ['http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/dp/B
 'http://www.amazon.com/Tie-Me-Down-Loveswept-Contemporary-ebook/dp/B00DTEMWQY/ref=pd_sim_kstore_4?ie=UTF8&refRID=0G9XQ6XHQA35XPKRNXM3',
 'http://www.amazon.com/Addicted-Ethan-Frost-Loveswept-Romance-ebook/dp/B00IHMEBR6/ref=pd_cp_kstore_1',
 'http://www.amazon.com/George-Martins-Thrones-5-Book-Boxed-ebook/dp/B00957T6X6/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1396397396&sr=1-3&keywords=george+rr+martin',
+'http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1396495954&sr=1-1&keywords=michael+lewis'
 ]
+
 
 
 #Kim should be nicer to Danny 

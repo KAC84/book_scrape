@@ -3756,7 +3756,7 @@ table.roundedPlatformBox td.bottomRight {
 
 
 
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/navbarCSS-global/navbarCSS-global-min-1710585973._V1_.css' rel='stylesheet'>
+<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/navbarCSS-global/navbarCSS-global-min-1689515832._V1_.css' rel='stylesheet'>
 <link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/kicsDetail/kicsDetail-4224556157._V1_.css' rel='stylesheet'>
 <link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/kicsDetailCountdown/kicsDetailCountdown-1973931520._V1_.css' rel='stylesheet'>
 
@@ -3872,7 +3872,7 @@ window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
 
 </script>
 
-<!-- navp-c9wTI7SvbTKXoZCbM815uOP7GfYllyZ+Cp//x3cCat1v6Ar1NEcvyn0L6s9SAVA9uaWnhb6ikL0= rid-1Q6370WQB8QDYG3GQ7FT (Tue Apr  1 17:10:33 2014) -->
+<!-- navp-z3+2kmLSF6Z2q3YE48oHpysmi6xY8iJfZ+b9gXkf68U33RKNvbaYsmz/P6kKdgJsaBZG28f1n4A= rid-1YGKD8VW5NZ3S0ZED8GN (Wed Apr  2 20:33:04 2014) -->
 
   
 
@@ -3927,9 +3927,9 @@ window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
 
       
         <div id='welcomeRowTable' style='height:50px'>
-        <div id='nav-ad-background-style' style='background-position: -800px 0px; background-image: url(http://g-ecx.images-amazon.com/images/G/01/AMAZON_FASHION/2014/CLOTHING/SHOPS/EASTER/EASTER_swm_300x50._V341313321_.png);  height: 56px; margin-bottom: -6px; position: relative;background-repeat: no-repeat;'>
+        <div id='nav-ad-background-style' style='background-position: -800px 0px; background-image: url(http://g-ecx.images-amazon.com/images/G/01/kindle/merch/2014/campaign/KB/KB-SWMS1-300x50._V340360927_.jpg);  height: 56px; margin-bottom: -6px; position: relative;background-repeat: no-repeat;'>
           <div id='navSwmSlot'>
-            <div id="navSwmHoliday" style="background-image: url(http://g-ecx.images-amazon.com/images/G/01/AMAZON_FASHION/2014/CLOTHING/SHOPS/EASTER/EASTER_swm_300x50._V341313321_.png); width: 300px; height: 50px; overflow: hidden;"><img alt='Easter Shop' src='http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif' border='0' width='300px' height='50px' usemap='#nav-swm-holiday-map' /></div><div style="display: none;"><map id="nav-swm-holiday-map" name="nav-swm-holiday-map"><area shape="rect" coords="1,2,300,50" href ="/b?ie=UTF8&node=1267339011" alt ="Easter Shop" /></map></div>
+            <div id="navSwmHoliday" style="background-image: url(http://g-ecx.images-amazon.com/images/G/01/kindle/merch/2014/campaign/KB/KB-SWMS1-300x50._V340360927_.jpg); width: 300px; height: 50px; overflow: hidden;"><img alt='Amazon Fire TV' src='http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif' border='0' width='300px' height='50px' usemap='#nav-swm-holiday-map' /></div><div style="display: none;"><map id="nav-swm-holiday-map" name="nav-swm-holiday-map"><area shape="rect" coords="1,2,300,50" href ="/dp/B00CX5P8FC" alt ="Amazon Fire TV" /></map></div>
           </div>
         </div>
       </div>
@@ -4019,8 +4019,8 @@ window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
         
 </div><div id="nav-subnav-container" >          <!-- nav-linktree-category -->
           <!-- nav-linktree-subnav -->
-          <ul id='nav-subnav' data-category='digital-text' data-digest='Mv6GjqstyrXMbxWPyyJHcaIJnj8'>
-<li class="nav-subnav-item nav-category-button"><a href="/gp/product/B007HCCNJU" class="nav_a">Buy a Kindle</a></li><li class="nav-subnav-item"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=1286228011" class="nav_a">Kindle eBooks</a></li><li class="nav-subnav-item"><a href="/b?ie=UTF8&amp;node=2735182011" class="nav_a">Advanced Search</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000677541" class="nav_a">Daily Deals</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000493771" class="nav_a">Free Reading&nbsp;Apps</a></li><li class="nav-subnav-item"><a href="/b?ie=UTF8&amp;node=2486013011" class="nav_a">Kindle Singles</a></li><li class="nav-subnav-item"><a href="/gp/digital/fiona/redirect/newsstand/home" class="nav_a">Newsstand</a></li><li class="nav-subnav-item"><a href="/Kindle-Accessories/b?ie=UTF8&amp;node=1268192011" class="nav_a">Accessories</a></li><li class="nav-subnav-item"><a href="/b?ie=UTF8&amp;node=8497978011" class="nav_a">Kindle Outlet</a></li><li class="nav-subnav-item"><a href="/tag/kindle/forum" class="nav_a">Discussions</a></li><li class="nav-subnav-item"><a href="/gp/digital/fiona/manage" class="nav_a">Manage Your&nbsp;Kindle</a></li><li class="nav-subnav-item"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200127470" class="nav_a">Kindle Support</a></li>          </ul>
+          <ul id='nav-subnav' data-category='digital-text' data-digest='q6jS80NDTyZDfCbZ+wZF1dZ1k6E'>
+<li class="nav-subnav-item nav-category-button"><a href="/gp/product/B007HCCNJU" class="nav_a">Buy a Kindle</a></li><li class="nav-subnav-item"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=1286228011" class="nav_a">Kindle eBooks</a></li><li class="nav-subnav-item"><a href="/b?ie=UTF8&amp;node=2735182011" class="nav_a">Advanced Search</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000677541" class="nav_a">Daily Deals</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000493771" class="nav_a">Free Reading&nbsp;Apps</a></li><li class="nav-subnav-item"><a href="/b?ie=UTF8&amp;node=2486013011" class="nav_a">Kindle Singles</a></li><li class="nav-subnav-item"><a href="/gp/digital/fiona/redirect/newsstand/home" class="nav_a">Newsstand</a></li><li class="nav-subnav-item"><a href="/Kindle-Accessories/b?ie=UTF8&amp;node=1268192011" class="nav_a">Accessories</a></li><li class="nav-subnav-item"><a href="/b?ie=UTF8&amp;node=8497978011" class="nav_a">Kindle Outlet</a></li><li class="nav-subnav-item"><a href="/tag/kindle/forum" class="nav_a">Discussions</a></li><li class="nav-subnav-item"><a href="/gp/digital/fiona/manage" class="nav_a">Manage&nbsp;Your Content&nbsp;and&nbsp;Devices</a></li><li class="nav-subnav-item"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200127470" class="nav_a">Kindle Support</a></li>          </ul>
       </div>
     </div>
 
@@ -4051,7 +4051,7 @@ window.$Nav && $Nav.declare('config.subnavFlyoutUrl',
 window.$Nav && $Nav.declare('config.readyOnATF', false);
 
 window.$Nav && $Nav.declare('config.dynamicMenuArgs',
-  {"rid":"1Q6370WQB8QDYG3GQ7FT","isPrime":0,"primeMenuWidth":310});
+  {"rid":"1YGKD8VW5NZ3S0ZED8GN","isPrime":0,"primeMenuWidth":310});
 
 window.$Nav && $Nav.declare('config.signOutText',
   null);
@@ -4329,7 +4329,7 @@ window.$Nav && $Nav.declare('config.doubleCart',false);
 
 
    <div class="kindleBanner" style="text-align:center;">
-        Start reading <i>One Perfect Night (Contemporary Romance)</i> on your Kindle <b>in under a minute</b>. Don't have a Kindle? <a href="/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ref=dp_kinw_strp_0/190-1780109-8255437">Get your Kindle here</a>.
+        Start reading <i>One Perfect Night (Contemporary Romance)</i> on your Kindle <b>in under a minute</b>. Don't have a Kindle? <a href="/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ref=dp_kinw_strp_0">Get your Kindle here</a>.
    </div>
 
 
@@ -4842,7 +4842,7 @@ window.$Nav && $Nav.declare('config.doubleCart',false);
 
 
 <input type="hidden" name="ASIN.0" value="B00AXTM8G2" />
-<input type="hidden" name="offerListingID.0" value="DDXvMqk%2BHDivWX7oS94568rfzYDCYdY9dZMPbKukS1sRfFERssd7PvwHENaBGOi9gDk1U1Twj2vxgh9aVtrvDM0ymTA8MT%2FV3DHNAPtHh1jaDWF4Cg2fP2UNg%2BQWJXML6lmnPjzaKyVEvA4EeGJ416bSapeZA5L2" />
+<input type="hidden" name="offerListingID.0" value="7wd633qH9MK9huJ1zB4qwMprVtcwOvBf1di2ZT5dFa9cIXYxnl205qK0bsqSV07BGI0WvjkFpZDTzBVVSM8E78cyIRsKMpWIl1zZk1k14QzeP0l%2BmkFdp3SV%2FBbNsHbf7vd6onuNe8oOd00k7UDlNYsZ7v%2FZOFkT" />
 <input type="hidden" name="t" value="fiona" />
 <input type="hidden" name="itemCount" value="1" />
 <input type="hidden" name="cor.0" value="US" />
@@ -5083,7 +5083,7 @@ window.$Nav && $Nav.declare('config.doubleCart',false);
 
   <form name="buyItem" action="https://www.amazon.com/gp/digital/fiona/buy.html" method="POST">
   <input type="hidden" name="ASIN.0" value="B00AXTM8G2" />
-  <input type="hidden" name="offerListingID.0" value="DDXvMqk%2BHDivWX7oS94568rfzYDCYdY9dZMPbKukS1sRfFERssd7PvwHENaBGOi9gDk1U1Twj2vxgh9aVtrvDM0ymTA8MT%2FV3DHNAPtHh1jaDWF4Cg2fP2UNg%2BQWJXML6lmnPjzaKyVEvA4EeGJ416bSapeZA5L2" />
+  <input type="hidden" name="offerListingID.0" value="7wd633qH9MK9huJ1zB4qwMprVtcwOvBf1di2ZT5dFa9cIXYxnl205qK0bsqSV07BGI0WvjkFpZDTzBVVSM8E78cyIRsKMpWIl1zZk1k14QzeP0l%2BmkFdp3SV%2FBbNsHbf7vd6onuNe8oOd00k7UDlNYsZ7v%2FZOFkT" />
   <input type="hidden" name="t" value="fiona" />
   <input type="hidden" name="subtype.0" value="FREE_CHAPTER" />
   <input type="hidden" name="itemCount" value="1" />
@@ -5335,7 +5335,7 @@ window.$Nav && $Nav.declare('config.doubleCart',false);
         </div>
 <div id='main-image-caption' class='tiny'>&nbsp;</div><div id = 'thumbs-image' class='thumbs bottom'  customFunctionName = 'ImageBlock.TwisterReArchModule.getAltsImageMarkup'><a href='http://www.amazon.com/gp/product/images/B00AXTM8G2' class='altThumb' target='AmazonHelp' onclick='return amz_js_PopWin(this.href,"AmazonHelp","width=700,height=600,resizable=1,scrollbars=1,toolbar=0,status=1");' /><img class='border thumb0 selected' src='http://ecx.images-amazon.com/images/I/515yLenIjzL._SS30_.jpg' data-index='0'></a></div>
     <div class="amiLinkRow">
-        <a href="/gp/customer-media/upload/B00AXTM8G2?ie=UTF8&amp;rnd=1396397433">Share your own customer images</a>
+        <a href="/gp/customer-media/upload/B00AXTM8G2?ie=UTF8&amp;rnd=1396495985">Share your own customer images</a>
     </div>
         <div id="prodImageCell" style="display:none"></div>
     </div>
@@ -5955,7 +5955,7 @@ window.$Nav && $Nav.declare('config.doubleCart',false);
 
 
 
-<li class="listItem">Don't have a Kindle? <a href="/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ref=dp_kinw_ae_1/175-7959394-3102762">Get your Kindle here</a>.</li>
+<li class="listItem">Don't have a Kindle? <a href="/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ref=dp_kinw_ae_1">Get your Kindle here</a>.</li>
 
 
 
@@ -6329,10 +6329,15 @@ var disableWinnerPopup;
   <div class="cBoxInner">        
         <span style="font-size: 0.82em;"> 
           
-<span class="qpHeadline">20 Kindle Books for $2 Each</span><br>
 
-Treat yourself to a new book. These 20 Kindle titles are just $2 each through April 30, 2014. <a href="/gp/feature.html?ie=UTF8&docId=1000858781">Learn more</a>.
+<div class="qpImage">
+<a href="/b?ie=UTF8&node=8584457011"><img src="http://g-ecx.images-amazon.com/images/G/01/kindle/merch/apub/shortreads/US-KindleShortReads-HQP-50x50._SL75_V340980385_.jpg" width="50" align="left" alt="ShortReads" height="50" border="0" /></a>
+</div>
 
+<span class="qpHeadline">Explore Short Reads</span><br>
+
+ 
+Short on time? Explore great stories in one sitting in the <a href="/b?ie=UTF8&node=8584457011">Short Reads</a> store for more new stories that are 100 pages or less.
 
  
         <div class="hqpDiv" name="heroQuickPromoDiv" id="heroQuickPromoDiv">
@@ -6872,7 +6877,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 <a href="http://www.amazon.com/Bella-Andre/e/B001JS38XI">Bella Andre</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00FEIXAQ4"><a href="http://www.amazon.com/Kissing-Under-The-Mistletoe-Contemporary-ebook/product-reviews/B00FEIXAQ4?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="auiTestSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Kissing-Under-The-Mistletoe-Contemporary-ebook/product-reviews/B00FEIXAQ4?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">210</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00FEIXAQ4"><a href="http://www.amazon.com/Kissing-Under-The-Mistletoe-Contemporary-ebook/product-reviews/B00FEIXAQ4?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="auiTestSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Kissing-Under-The-Mistletoe-Contemporary-ebook/product-reviews/B00FEIXAQ4?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">210</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
@@ -6938,7 +6943,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 <a href="http://www.amazon.com/Bella-Andre/e/B001JS38XI">Bella Andre</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00GGRBCNU"><a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="auiTestSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">179</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00GGRBCNU"><a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="auiTestSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">180</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
@@ -6977,73 +6982,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 <li>
-  <div class="new-faceout p13nimp"  id="purchase_B00B28BR6U" data-asin="B00B28BR6U" data-ref="pd_sim_kstore_3">
-    
-
-
-
-
-
-
-<a href="/Always-On-My-Mind-Sullivans-ebook/dp/B00B28BR6U"  class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51-VK1H-eZL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
-                    </div>
-                    Always On My Mind: The Sullivans </a>
-
-    <div class="byline">
-        <span class="carat">&#8250</span> 
-
-
-
-
-
-
-
-
-
-<a href="http://www.amazon.com/Bella-Andre/e/B001JS38XI">Bella Andre</a>
-    </div>
-    <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00B28BR6U"><a href="http://www.amazon.com/Always-On-My-Mind-Sullivans-ebook/product-reviews/B00B28BR6U?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="auiTestSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Always-On-My-Mind-Sullivans-ebook/product-reviews/B00B28BR6U?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">299</a>)</span></span>
-    </div>
-    <div class="binding-platform">
-        Kindle Edition
-    </div>
-    <div class="pricetext">
-        <span class="price" style="margin-right:5px">$4.99</span>
-    </div>
-  </div>
-</li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-  <div class="new-faceout p13nimp"  id="purchase_B00DGVFUJG" data-asin="B00DGVFUJG" data-ref="pd_sim_kstore_4">
+  <div class="new-faceout p13nimp"  id="purchase_B00DGVFUJG" data-asin="B00DGVFUJG" data-ref="pd_sim_kstore_3">
     
 
 
@@ -7070,7 +7009,73 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 <a href="http://www.amazon.com/Bella-Andre/e/B001JS38XI">Bella Andre</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00DGVFUJG"><a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="auiTestSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">461</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00DGVFUJG"><a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="auiTestSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">462</a>)</span></span>
+    </div>
+    <div class="binding-platform">
+        Kindle Edition
+    </div>
+    <div class="pricetext">
+        <span class="price" style="margin-right:5px">$4.99</span>
+    </div>
+  </div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <div class="new-faceout p13nimp"  id="purchase_B00B28BR6U" data-asin="B00B28BR6U" data-ref="pd_sim_kstore_4">
+    
+
+
+
+
+
+
+<a href="/Always-On-My-Mind-Sullivans-ebook/dp/B00B28BR6U"  class="sim-img-title" > <div class="product-image">
+                       <img src="http://ecx.images-amazon.com/images/I/51-VK1H-eZL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+                    </div>
+                    Always On My Mind: The Sullivans </a>
+
+    <div class="byline">
+        <span class="carat">&#8250</span> 
+
+
+
+
+
+
+
+
+
+<a href="http://www.amazon.com/Bella-Andre/e/B001JS38XI">Bella Andre</a>
+    </div>
+    <div class="rating-price">
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00B28BR6U"><a href="http://www.amazon.com/Always-On-My-Mind-Sullivans-ebook/product-reviews/B00B28BR6U?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="auiTestSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Always-On-My-Mind-Sullivans-ebook/product-reviews/B00B28BR6U?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">299</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
@@ -7136,7 +7141,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 <a href="http://www.amazon.com/Bella-Andre/e/B001JS38XI">Bella Andre</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00AEVVJD2"><a href="http://www.amazon.com/Come-Little-Bit-Closer-Sullivans-ebook/product-reviews/B00AEVVJD2?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="auiTestSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Come-Little-Bit-Closer-Sullivans-ebook/product-reviews/B00AEVVJD2?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">252</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00AEVVJD2"><a href="http://www.amazon.com/Come-Little-Bit-Closer-Sullivans-ebook/product-reviews/B00AEVVJD2?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="auiTestSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Come-Little-Bit-Closer-Sullivans-ebook/product-reviews/B00AEVVJD2?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">253</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
@@ -7202,7 +7207,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 <a href="http://www.amazon.com/Bella-Andre/e/B001JS38XI">Bella Andre</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B0093OD9D4"><a href="http://www.amazon.com/Let-The-One-Sullivans-Contemporary-ebook/product-reviews/B0093OD9D4?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="auiTestSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Let-The-One-Sullivans-Contemporary-ebook/product-reviews/B0093OD9D4?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">238</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B0093OD9D4"><a href="http://www.amazon.com/Let-The-One-Sullivans-Contemporary-ebook/product-reviews/B0093OD9D4?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="auiTestSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Let-The-One-Sullivans-Contemporary-ebook/product-reviews/B0093OD9D4?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">238</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
@@ -7222,7 +7227,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<div id="purchaseSimsData" class="sims-data" style="display:none" data-baseAsin="B00AXTM8G2" data-featureId="pd_sim" data-pageId="B00AXTM8G2" data-pageRequestId="1Q6370WQB8QDYG3GQ7FT" data-reftag="pd_sim_kstore" data-vt="B00AXTM8G2" data-wdg="ebooks_display_on_website" data-widgetName="purchase">B00FEIXAQ4,B00GGRBCNU,B00B28BR6U,B00DGVFUJG,B00AEVVJD2,B0093OD9D4,B00IJI2RH4,B00822SVHM,B007BW34BM,B005KB9WJO,B006L73G7A,B0055UZO9M,B003U6ZK06,B004G8QZ6U,B0036S4DNS,B000FCKKZ8,B000P1KPR2,B003BIGFZW,B001NLL6IK,B002SME1YE,B0048WQDJI,B001FA0HT8,B00HZ3P0OG,B000NY11RY,B00HZ3QXRO,B00DYXAA4G,B00HZ3Q2KM,B00HTNMNCE,B00ILWP2NO,B00IWYXUEE,B00FIWMMJ2,B00ET55NGS,B00E83TA4C,B00HZ3PEJC,B00IWTYY1C,B00F93X884,B00IWTYVG0,B00G495S5I,B00IWU47PE,B00DSX2K18,B00FWYBQPM,B00D9CMLNA,B00GJ5ZX3Y,B00IX9UTLU,B00HUMPZTM,B003FK5QAG,B00IN8A2CM,B00GKBIRVM,B00GQ6FODK,B00IWAATKG,B00DD30P2O,B00IP8459G,B00I8VPYEA,B00GTQ2JEE,B00ED27A04,B006YFQS6K,B00ICL9X0C,B00H3O68Y8,B00IGUOMGY,B00GPDYJ2Q,B00FKERWFC,B00BMHUDP2,B00BNRHIPO,B00II7DB44,B00J1SGHWW,B00FBZKZLS,B00BNRJATG,B00FNJVSX6,B00GK8N1WU,B00FKERW1Q,B00CRPGAJQ,B00HQSOB72,B00IBDKQIO,B00IYH97UU,B00DB3AANA,B00ED26RSU,B00H7K5UB0,B006YAUGU4,B00EV8ETK4,B00HZCQAK0,B00H93BSPC,B00HJ70K2U,B00J0CAR16,B00DSTIN4K,B00CO7FN6S,B00IMHS4JC,B00F24NJY8,B00GMWZH7G,B00ES2P6UK,B0088PM2GE,B009DMG762,B00HVMNJI0,B00HRH6HVU,B00HLX9Z3C,B007HD4RFM,B00HQ2N2LE,B00BNRHISG,B00ARZ1JC6,B00HLOZAGC,B00FW5TSJC</div>
+<div id="purchaseSimsData" class="sims-data" style="display:none" data-baseAsin="B00AXTM8G2" data-featureId="pd_sim" data-pageId="B00AXTM8G2" data-pageRequestId="1YGKD8VW5NZ3S0ZED8GN" data-reftag="pd_sim_kstore" data-vt="B00AXTM8G2" data-wdg="ebooks_display_on_website" data-widgetName="purchase">B00FEIXAQ4,B00GGRBCNU,B00DGVFUJG,B00B28BR6U,B00AEVVJD2,B0093OD9D4,B00IJI2RH4,B00822SVHM,B007BW34BM,B006L73G7A,B005KB9WJO,B0055UZO9M,B003U6ZK06,B004G8QZ6U,B0036S4DNS,B000FCKKZ8,B001NLL6IK,B003BIGFZW,B000P1KPR2,B0048WQDJI,B002SME1YE,B001FA0HT8,B00HZ3P0OG,B00HZ3QXRO,B00DYXAA4G,B00HZ3Q2KM,B00HTNMNCE,B00E83TA4C,B00ILWP2NO,B000NY11RY,B00FIWMMJ2,B00ET55NGS,B00FWYBQPM,B00HZ3PEJC,B00DD30P2O,B00IWYXUEE,B00IWAATKG,B00D9CMLNA,B00GKBIRVM,B003RWS5ZA,B00IWTYVG0,B00F93X884,B00IWU47PE,B00H3O68Y8,B00GMWZH7G,B003FK5QAG,B00IX9UTLU,B00BMHUDP2,B00DB3FRSI,B00IWTYY1C,B00GTQ2JEE,B00HUMPZTM,B00H93BSPC,B00I8VPYEA,B00ICL9X0C,B00G495S5I,B00ER55JX2,B00FKERWFC,B007HD4RFM,B00BNRHIPO,B00II7DB44,B006YAUGU4,B00A6ROZ12,B00IP8459G,B00IGUOMGY,B00B00BASU,B00GK8N1WU,B00HQSOB72,B00IBDKQIO,B00FNJVSX6,B00ED27A04,B00F24NJY8,B00IN8A2CM,B00CRPGAJQ,B0088PM2GE,B009DMG762,B00HJ70K2U,B00FGHYLD4,B00ED26RSU,B00DB3AANA,B00IYH97UU,B00HRH6HVU,B00FBZKZLS,B00ADSENS4,B00HLX9Z3C,B006YFQS6K,B00EV8ETK4,B00IASX5M4,B00FKERW1Q,B00DSTIN4K,B005OZIG16,B00HG1SIVY,B00HVMNJI0,B00GPDYJ2Q,B00FQYJPXS,B00GJ5ZX3Y,B00IMHS4JC,B00ISEI4H6,B0084ZZOJA,B00BNRJATG</div>
 
 
 
@@ -7234,7 +7239,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<div style="display:none;" class="p13n-session"  data-marketplaceId="ATVPDKIKX0DER" data-mkt="US" data-pageId="B00AXTM8G2" data-requestId="1Q6370WQB8QDYG3GQ7FT" data-session="000-0000000-0000000"></div>
+<div style="display:none;" class="p13n-session"  data-marketplaceId="ATVPDKIKX0DER" data-mkt="US" data-pageId="B00AXTM8G2" data-requestId="1YGKD8VW5NZ3S0ZED8GN" data-session="000-0000000-0000000"></div>
 
 
 
@@ -7261,7 +7266,9 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 <!--AMZNJQSECTION-->
 
+    
 
+    
 
 
 
@@ -7412,7 +7419,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 <li><b>Text-to-Speech: </b>
 <a href='#' id='ttsPop' class='kicsPopover'>
   <span>Enabled</span>
-  <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif"/>
+  <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif" border="0" />
 </a>
 </li>
 
@@ -7447,7 +7454,7 @@ amznJQ.onReady('popover', function() {
     <div>
       <a href='#' id='xrayPop' class='kicsPopover'>
         <span>Enabled</span>
-        <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif"/>
+        <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif" border="0" />
       </a>
     </div>
   </div>
@@ -7513,7 +7520,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-#3,065 Paid in Kindle Store (<a href="http://www.amazon.com/gp/bestsellers/digital-text">See Top 100 Paid in Kindle Store</a>)
+#3,201 Paid in Kindle Store (<a href="http://www.amazon.com/gp/bestsellers/digital-text">See Top 100 Paid in Kindle Store</a>)
   
 
 
@@ -7606,15 +7613,15 @@ amznJQ.onReady('popover', function() {
 
 <ul class="zg_hrsr">
     <li class="zg_hrsr_item">
-    <span class="zg_hrsr_rank">#5</span> 
+    <span class="zg_hrsr_rank">#6</span> 
     <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/8584457011">Kindle Short Reads</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/8584462011">90 minutes (44-64 pages)</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/8624220011">Romance</a></b></span>
     </li>
     <li class="zg_hrsr_item">
-    <span class="zg_hrsr_rank">#65</span> 
+    <span class="zg_hrsr_rank">#68</span> 
     <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/23">Romance</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/12827">Anthologies</a></b></span>
     </li>
     <li class="zg_hrsr_item">
-    <span class="zg_hrsr_rank">#76</span> 
+    <span class="zg_hrsr_rank">#78</span> 
     <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/158566011">Romance</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/6190486011">Collections & Anthologies</a></b></span>
     </li>
 </ul>
@@ -7698,96 +7705,6 @@ amznJQ.onReady('popover', function() {
     
     
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -8952,7 +8869,7 @@ amznJQ.onReady('popover', function() {
 
     </div>
     <div class="pr7 mb30" style="width: 305px;" id="revMRLContainer">
-      <div style="padding-bottom: 20px" id="ADPlaceholder"><script type='text/javascript'>var paCusRevAllURL = "http://product-ads-portal.amazon.com/gp/synd/?asin=B00AXTM8G2&pAsin=&gl=351&sq=&sa=&se=&noo=&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=1Q6370WQB8QDYG3GQ7FT&ts=1396397433&h=4EAB75FB546D5DAC9BBCE0BA86D6FA74B7FBCB07";</script></div>
+      <div style="padding-bottom: 20px" id="ADPlaceholder"><script type='text/javascript'>var paCusRevAllURL = "http://product-ads-portal.amazon.com/gp/synd/?asin=B00AXTM8G2&pAsin=&gl=351&sq=&sa=&se=&noo=&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=1YGKD8VW5NZ3S0ZED8GN&ts=1396495985&h=67386DA85AD8B51469A64D1CE077D3C996E74193";</script></div>
       <div>
 
 
@@ -8983,7 +8900,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 5 days ago by ssmommie75</span>
+<span class="gry txtsmall">Published 6 days ago by ssmommie75</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by BenzieBox" >  <div id="rev-dpReviewsMostRecent-R1RG5ND9MAGD9K" class="block">    <div class="ttl"><span class="swSprite s_star_2_0 " title="2.0 out of 5 stars" ><span>2.0 out of 5 stars</span></span>
 
@@ -9006,7 +8923,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 7 days ago by BenzieBox</span>
+<span class="gry txtsmall">Published 8 days ago by BenzieBox</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by Roberta" >  <div id="rev-dpReviewsMostRecent-R221EBEGDM0JB9" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
@@ -9029,7 +8946,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 8 days ago by Roberta</span>
+<span class="gry txtsmall">Published 9 days ago by Roberta</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by Tete-a-tete" >  <div id="rev-dpReviewsMostRecent-R30CX3VVYP5JHA" class="block">    <div class="ttl"><span class="swSprite s_star_3_0 " title="3.0 out of 5 stars" ><span>3.0 out of 5 stars</span></span>
 
@@ -9052,7 +8969,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 9 days ago by Tete-a-tete</span>
+<span class="gry txtsmall">Published 10 days ago by Tete-a-tete</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by hilla" >  <div id="rev-dpReviewsMostRecent-R2AYN64YPIBFSU" class="block">    <div class="ttl"><span class="swSprite s_star_4_0 " title="4.0 out of 5 stars" ><span>4.0 out of 5 stars</span></span>
 
@@ -9075,7 +8992,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 9 days ago by hilla</span>
+<span class="gry txtsmall">Published 10 days ago by hilla</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by Tami M Silvara" >  <div id="rev-dpReviewsMostRecent-RZMS4HM8YGMQN" class="block">    <div class="ttl"><span class="swSprite s_star_3_0 " title="3.0 out of 5 stars" ><span>3.0 out of 5 stars</span></span>
 
@@ -9098,7 +9015,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 16 days ago by Tami M Silvara</span>
+<span class="gry txtsmall">Published 17 days ago by Tami M Silvara</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by Franchesca Faustino" >  <div id="rev-dpReviewsMostRecent-R318C8B3ISR11B" class="block">    <div class="ttl"><span class="swSprite s_star_1_0 " title="1.0 out of 5 stars" ><span>1.0 out of 5 stars</span></span>
 
@@ -9121,7 +9038,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 21 days ago by Franchesca Faustino</span>
+<span class="gry txtsmall">Published 22 days ago by Franchesca Faustino</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by Anthony" >  <div id="rev-dpReviewsMostRecent-R25VRKSHA91JMA" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
@@ -9144,7 +9061,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 26 days ago by Anthony</span>
+<span class="gry txtsmall">Published 27 days ago by Anthony</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by DTO" >  <div id="rev-dpReviewsMostRecent-R70KPYIG2BP5Z" class="block">    <div class="ttl"><span class="swSprite s_star_4_0 " title="4.0 out of 5 stars" ><span>4.0 out of 5 stars</span></span>
 
@@ -9167,7 +9084,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="gry txtsmall">Published 26 days ago by DTO</span>
+<span class="gry txtsmall">Published 27 days ago by DTO</span>
 </div>  </div></a>
 <a href="http://www.amazon.com/One-Perfect-Night-Contemporary-Romance-ebook/product-reviews/B00AXTM8G2" class="reviewTitle inlineblock mt17" title="Read the full review by teresa" >  <div id="rev-dpReviewsMostRecent-R1287RFW3KUISJ" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
@@ -12316,6 +12233,7 @@ span.kar_beta {
 
 
 
+
 <div class="kindleAuthorRank">
     <h3>Amazon Author Rank<span class="kar_beta">beta</span>&nbsp;</h3>
     <span class="tiny">(<a id="karWhatsThis" href="#">What's this?</a>)</span>
@@ -12324,15 +12242,6 @@ span.kar_beta {
         <div class="nodeRank">
         <span class="rank">#17</span>
         <span>in</span>
-                <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
-                <span>></span>
-                <a href="http://www.amazon.com/author-rank/Romance/digital-text/158566011">Romance</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Contemporary/digital-text/158568011">Contemporary</a></b>
-        </div>
-        <div class="nodeRank">
-        <span class="rank">#19</span>
-        <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
                 <a href="http://www.amazon.com/author-rank/Romance/books/23">Romance</a>
@@ -12340,7 +12249,16 @@ span.kar_beta {
                 <b><a href="http://www.amazon.com/author-rank/Contemporary/books/13354">Contemporary</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#20</span>
+        <span class="rank">#18</span>
+        <span>in</span>
+                <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
+                <span>></span>
+                <a href="http://www.amazon.com/author-rank/Romance/digital-text/158566011">Romance</a>
+                <span>></span>
+                <b><a href="http://www.amazon.com/author-rank/Contemporary/digital-text/158568011">Contemporary</a></b>
+        </div>
+        <div class="nodeRank">
+        <span class="rank">#26</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
                 <span>></span>
@@ -12349,14 +12267,14 @@ span.kar_beta {
                 <b><a href="http://www.amazon.com/author-rank/Contemporary-Fiction/digital-text/157052011">Contemporary Fiction</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#39</span>
+        <span class="rank">#41</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
                 <span>></span>
                 <b><a href="http://www.amazon.com/author-rank/Romance/digital-text/158566011">Romance</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#41</span>
+        <span class="rank">#42</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
@@ -12365,15 +12283,6 @@ span.kar_beta {
         <div class="nodeRank">
         <span class="rank">#17</span>
         <span>in</span>
-                <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
-                <span>></span>
-                <a href="http://www.amazon.com/author-rank/Romance/digital-text/158566011">Romance</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Contemporary/digital-text/158568011">Contemporary</a></b>
-        </div>
-        <div class="nodeRank">
-        <span class="rank">#19</span>
-        <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
                 <a href="http://www.amazon.com/author-rank/Romance/books/23">Romance</a>
@@ -12381,7 +12290,16 @@ span.kar_beta {
                 <b><a href="http://www.amazon.com/author-rank/Contemporary/books/13354">Contemporary</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#20</span>
+        <span class="rank">#18</span>
+        <span>in</span>
+                <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
+                <span>></span>
+                <a href="http://www.amazon.com/author-rank/Romance/digital-text/158566011">Romance</a>
+                <span>></span>
+                <b><a href="http://www.amazon.com/author-rank/Contemporary/digital-text/158568011">Contemporary</a></b>
+        </div>
+        <div class="nodeRank">
+        <span class="rank">#26</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
                 <span>></span>
@@ -12390,14 +12308,14 @@ span.kar_beta {
                 <b><a href="http://www.amazon.com/author-rank/Contemporary-Fiction/digital-text/157052011">Contemporary Fiction</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#39</span>
+        <span class="rank">#41</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
                 <span>></span>
                 <b><a href="http://www.amazon.com/author-rank/Romance/digital-text/158566011">Romance</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#41</span>
+        <span class="rank">#42</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
@@ -12628,7 +12546,7 @@ span.kar_beta {
                     <span class="cpAsinTitle">Just To Be With You: The Sullivans</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Bella Andre</span>&nbsp;Kindle Edition</span>
     <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00IJI2RH4"><a href="http://www.amazon.com/Just-To-With-You-Sullivans-ebook/product-reviews/B00IJI2RH4?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="swSprite s_star_5_0 " title="4.8 out of 5 stars" ><span>4.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Just-To-With-You-Sullivans-ebook/product-reviews/B00IJI2RH4?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">106</a>)</span></span><br>
+    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00IJI2RH4"><a href="http://www.amazon.com/Just-To-With-You-Sullivans-ebook/product-reviews/B00IJI2RH4?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="swSprite s_star_5_0 " title="4.9 out of 5 stars" ><span>4.9 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Just-To-With-You-Sullivans-ebook/product-reviews/B00IJI2RH4?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">110</a>)</span></span><br>
   <div class="price">$4.99</div>
   </div>
 </li>
@@ -12663,7 +12581,7 @@ span.kar_beta {
                     <span class="cpAsinTitle">It Must Be Your Love: The Sullivans</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Bella Andre</span>&nbsp;Kindle Edition</span>
     <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00GGRBCNU"><a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">179</a>)</span></span><br>
+    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00GGRBCNU"><a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/It-Must-Your-Love-Sullivans-ebook/product-reviews/B00GGRBCNU?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">180</a>)</span></span><br>
   <div class="price">$4.99</div>
   </div>
 </li>
@@ -12694,46 +12612,46 @@ span.kar_beta {
 
 
 
-<a href="/The-Way-You-Look-Tonight-ebook/dp/B00DGVFUJG"   id="pd_cp_kstore_2_B00DGVFUJG" > <img src="http://ecx.images-amazon.com/images/I/511Aq9Y18dL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
-                    <span class="cpAsinTitle">The Way You Look Tonight: The Sullivans</span> </a>
-<span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Bella Andre</span>&nbsp;Kindle Edition</span>
-    <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00DGVFUJG"><a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="swSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">461</a>)</span></span><br>
-  <div class="price">$4.99</div>
-  </div>
-</li>
-<div class="vtp-clear"> </div>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-  <div class="asinDetails">
-  
-
-
-
-
-
-
-<a href="/The-Look-Love-Sullivans-Contemporary-ebook/dp/B0055UZO9M"   id="pd_cp_kstore_3_B0055UZO9M" > <img src="http://ecx.images-amazon.com/images/I/514p6yWkN4L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="/The-Look-Love-Sullivans-Contemporary-ebook/dp/B0055UZO9M"   id="pd_cp_kstore_2_B0055UZO9M" > <img src="http://ecx.images-amazon.com/images/I/514p6yWkN4L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">The Look of Love: The Sullivans, Book 1 (Contemporary Romance)</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Bella Andre</span>&nbsp;Kindle Edition</span>
     <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B0055UZO9M"><a href="http://www.amazon.com/The-Look-Love-Sullivans-Contemporary-ebook/product-reviews/B0055UZO9M?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT"><span class="swSprite s_star_3_5 " title="3.7 out of 5 stars" ><span>3.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Look-Love-Sullivans-Contemporary-ebook/product-reviews/B0055UZO9M?ie=UTF8&refRID=1Q6370WQB8QDYG3GQ7FT">415</a>)</span></span><br>
+    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B0055UZO9M"><a href="http://www.amazon.com/The-Look-Love-Sullivans-Contemporary-ebook/product-reviews/B0055UZO9M?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="swSprite s_star_3_5 " title="3.7 out of 5 stars" ><span>3.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Look-Love-Sullivans-Contemporary-ebook/product-reviews/B0055UZO9M?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">415</a>)</span></span><br>
+  <div class="price">$4.99</div>
+  </div>
+</li>
+<div class="vtp-clear"> </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <div class="asinDetails">
+  
+
+
+
+
+
+
+<a href="/The-Way-You-Look-Tonight-ebook/dp/B00DGVFUJG"   id="pd_cp_kstore_3_B00DGVFUJG" > <img src="http://ecx.images-amazon.com/images/I/511Aq9Y18dL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+                    <span class="cpAsinTitle">The Way You Look Tonight: The Sullivans</span> </a>
+<span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Bella Andre</span>&nbsp;Kindle Edition</span>
+    <br>
+    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00DGVFUJG"><a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN"><span class="swSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Way-You-Look-Tonight-ebook/product-reviews/B00DGVFUJG?ie=UTF8&refRID=1YGKD8VW5NZ3S0ZED8GN">462</a>)</span></span><br>
   <div class="price">$4.99</div>
   </div>
 </li>
@@ -12954,14 +12872,14 @@ span.kar_beta {
     
 
       <input type="hidden" name="ASIN" value="B00AXTM8G2" />
-      <input type="hidden" name="cdBirth" value="1396397433" />
+      <input type="hidden" name="cdBirth" value="1396495984" />
       <input type="hidden" name="cdClientIP" value="72.225.198.134" />
       <input type="hidden" name="cdSFormFields" value="ASIN:cdBirth:cdClientIP:cdSFormFields:originInstanceID:originTypeID:redirectTarget:threadType" />
       <input type="hidden" name="originInstanceID" value="B00AXTM8G2" />
       <input type="hidden" name="originTypeID" value="1" />
       <input type="hidden" name="redirectTarget" value="aHR0cDovL3d3dy5hbWF6b24uY29tL09uZS1QZXJmZWN0LU5pZ2h0LUNvbnRlbXBvcmFyeS1Sb21hbmNlLWVib29rL2RwL0IwMEFYVE04RzI_X2VuY29kaW5nPVVURjgmY2RQYWdlPTEmbm9MTD0x" />
       <input type="hidden" name="threadType" value="Normal" />
-    <input type="hidden" name="cdSecureFormToken" value="gE/W69WX8TR6PyqAHW90zk98e3fiuJOCG6g786AAAAADAAAAAFM7VXlyYXcAAAAA" />
+    <input type="hidden" name="cdSecureFormToken" value="gGJ7Ds5pIIzbFcmrOIWrYIBgc4KDegdGx8rrNqsAAAADAAAAAFM81nByYXcAAAAA" />
 
 
         <div class="cdFormRow" 
@@ -13202,17 +13120,19 @@ span.kar_beta {
     <div id="nav_subcats">
       <div id="nav_subcats_0" data-nav-promo-id="instant-video"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Unlimited Instant Videos</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/Instant-Video/b?ie=UTF8&amp;node=2858778011" class="nav_a nav_item">Amazon Instant Video</a><div class="nav_tag">All movies and TV shows</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/Prime-Instant-Video/b?ie=UTF8&amp;node=2676882011" class="nav_a nav_item">Prime Instant Video</a><div class="nav_tag">Unlimited streaming of movies and TV shows</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/Shop-Instant-Video/b?ie=UTF8&amp;node=7589478011" class="nav_a nav_item">Shop Instant Video</a><div class="nav_tag">Rent or buy movies and TV shows</div></li><li class="nav_taglined nav_subcat_link nav_pop_li nav_divider_before"><a href="/gp/video/watchlist/" class="nav_a nav_item">Your Watchlist</a><div class="nav_tag">Add videos to watch later</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/video/library" class="nav_a nav_item">Your Video Library</a><div class="nav_tag">Your purchases and rentals</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1001423601" class="nav_a nav_item">Watch Anywhere</a><div class="nav_tag">Tablets, game consoles, TVs and more</div></li></ul></div>
 <div id="nav_subcats_1" data-nav-promo-id="mp3"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">MP3s & Cloud Player</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/MP3-Music-Download/b?ie=UTF8&amp;node=163856011" class="nav_a nav_item">MP3 Store</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Best-Sellers-MP3-Downloads/zgbs/dmusic" class="nav_a nav_item">Best Sellers</a></li><li class="nav_subcat_link nav_pop_li"><a href="/New-Future-Releases-MP3-Downloads/b?ie=UTF8&amp;node=307026011" class="nav_a nav_item">New Releases</a></li><li class="nav_subcat_link nav_pop_li"><a href="/MP3-Deals/b?ie=UTF8&amp;node=678551011" class="nav_a nav_item">Deals</a></li><li class="nav_taglined nav_subcat_link nav_pop_li nav_divider_before"><a href="/gp/feature.html?ie=UTF8&amp;docId=1001316131" class="nav_a nav_item">Play your music on the go</a><div class="nav_tag">Cloud Player for your phone, tablet, or car</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1001422531" class="nav_a nav_item">Play your music at home</a><div class="nav_tag">Cloud Player for your PC, Mac, Roku, Sonos, or Samsung devices</div></li></ul></div>
-<div id="nav_subcats_2" data-nav-promo-id="cloud-drive"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Amazon Cloud Drive</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/clouddrive" class="nav_a nav_item" target="_blank">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000796781" class="nav_a nav_item">Cloud Drive for PC and Mac</a><div class="nav_tag">Get the app for your computer</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000848741" class="nav_a nav_item">Cloud Drive Photos for Android</a><div class="nav_tag">Get the app for your phone or tablet</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1001206201" class="nav_a nav_item">Cloud Drive Photos for iOS</a><div class="nav_tag">Get the app for your iPhone and iPad</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1001429341" class="nav_a nav_item">Cloud Drive and Kindle</a><div class="nav_tag">Enjoy photos on your Kindle Fire</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000796931" class="nav_a nav_item">Learn More About Cloud Drive</a></li></ul></div>
-<div id="nav_subcats_3" data-nav-promo-id="kindle-reader"  class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head"> Kindle E-readers</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B007HCCNJU" class="nav_a nav_item">Kindle</a><div class="nav_tag">Small, light, perfect for reading</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00AWH595M" class="nav_a nav_item">Kindle Paperwhite</a><div class="nav_tag">The best device for reading, period.</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00BTI6HBS" class="nav_a nav_item">Kindle Paperwhite 3G</a><div class="nav_tag">With free 3G wireless</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=5916440011" class="nav_a nav_item">Kindle E-reader Accessories</a><div class="nav_tag">Covers, chargers, sleeves and more</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Store</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=1286228011" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/digital/fiona/redirect/newsstand/home/" class="nav_a nav_item">Newsstand</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/redirect.html?ie=UTF8&amp;location=%2Fkindlelendinglibrary" class="nav_a nav_item">Kindle Owners' Lending Library</a><div class="nav_tag">With Prime, Kindle owners read for free</div></li></ul>
+<div id="nav_subcats_2" data-nav-promo-id="cloud-drive"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Amazon Cloud Drive</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/clouddrive" class="nav_a nav_item" target="_blank">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000796781" class="nav_a nav_item">Cloud Drive for PC and Mac</a><div class="nav_tag">Get the app for your computer</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000848741" class="nav_a nav_item">Cloud Drive Photos for Mobile</a><div class="nav_tag">Get the app for your phone or tablet</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1002403711" class="nav_a nav_item">Cloud Drive Photos for TV</a><div class="nav_tag">See your photos on the big screen</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1001429341" class="nav_a nav_item">Cloud Drive and Kindle</a><div class="nav_tag">Enjoy photos on your Kindle Fire</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000796931" class="nav_a nav_item">Learn More About Cloud Drive</a></li></ul></div>
+<div id="nav_subcats_3" data-nav-promo-id="android"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Appstore for Android</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/mobile-apps/b?ie=UTF8&amp;node=2350149011" class="nav_a nav_item">Apps</a><div class="nav_tag">Shop over 100,000 apps and games</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2478844011" class="nav_a nav_item">Games</a><div class="nav_tag">Shop new, bestselling, and free games</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/mobile-apps/b?ie=UTF8&amp;node=2350149011" class="nav_a nav_item">Free App of the Day</a><div class="nav_tag">Get a new paid app for free every day</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=3071729011" class="nav_a nav_item">Test Drive Apps and Games</a><div class="nav_tag">Try thousands of apps and games right now</div></li><li class="nav_taglined nav_subcat_link nav_pop_li nav_divider_before"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000626391" class="nav_a nav_item">Download Amazon Appstore</a><div class="nav_tag">Install on your Android phone or tablet</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000645111" class="nav_a nav_item">Amazon Apps</a><div class="nav_tag">Kindle, Shopping, MP3, IMDb, and more</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/mas/your-account/myapps" class="nav_a nav_item">Your Apps and Devices</a><div class="nav_tag">View your apps and manage your devices</div></li></ul></div>
+<div id="nav_subcats_4" data-nav-promo-id="kindle-reader"  class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head"> Kindle E-readers</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B007HCCNJU" class="nav_a nav_item">Kindle</a><div class="nav_tag">Small, light, perfect for reading</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00AWH595M" class="nav_a nav_item">Kindle Paperwhite</a><div class="nav_tag">The best device for reading, period.</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00BTI6HBS" class="nav_a nav_item">Kindle Paperwhite 3G</a><div class="nav_tag">With free 3G wireless</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=5916440011" class="nav_a nav_item">Kindle E-reader Accessories</a><div class="nav_tag">Covers, chargers, sleeves and more</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Store</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=1286228011" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/digital/fiona/redirect/newsstand/home/" class="nav_a nav_item">Newsstand</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/redirect.html?ie=UTF8&amp;location=%2Fkindlelendinglibrary" class="nav_a nav_item">Kindle Owners' Lending Library</a><div class="nav_tag">With Prime, Kindle owners read for free</div></li></ul>
 <ul class="nav_browse_ul nav_browse_cat2_ul">
 <li class="nav_pop_li nav_browse_cat_head">Apps & Resources</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000493771" class="nav_a nav_item">Free Kindle Reading Apps</a><div class="nav_tag">For PC, iPad, iPhone, Android, and more</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="https://www.amazon.com:443/gp/redirect.html?location=https://read.amazon.com/&amp;token=34AD60CFC4DCD7A97D4E2F4A4A7C4149FBEEF236" class="nav_a nav_item">Kindle Cloud Reader</a><div class="nav_tag">Read your Kindle books in a browser</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/digital/fiona/manage" class="nav_a nav_item">Manage Your Kindle</a></li></ul></div>
-<div id="nav_subcats_4" data-nav-promo-id="kindle-fire-tablet" data-nav-wt='25085:25087:25086' class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head"> Kindle Fire Tablets</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CU0NSCU" class="nav_a nav_item">Kindle Fire HD</a><div class="nav_tag">All new - 60% faster than Kindle Fire</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00DOPNO4M" class="nav_a nav_item">Kindle Fire HDX</a><div class="nav_tag">7" HDX display, powerful 2.2 GHz processor</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00DOPNLJ0" class="nav_a nav_item">Kindle Fire HDX 8.9"</a><div class="nav_tag">Largest HDX display, 8MP rear camera</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=5916439011" class="nav_a nav_item">Kindle Fire Accessories</a><div class="nav_tag">Cases, chargers, sleeves and more</div></li></ul>
+<div id="nav_subcats_5" data-nav-promo-id="kindle-fire-tablet" data-nav-wt='25085:25087:25086' class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head"> Kindle Fire Tablets</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CU0NSCU" class="nav_a nav_item">Kindle Fire HD</a><div class="nav_tag">All new - 60% faster than Kindle Fire</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00DOPNO4M" class="nav_a nav_item">Kindle Fire HDX</a><div class="nav_tag">7" HDX display, powerful 2.2 GHz processor</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00DOPNLJ0" class="nav_a nav_item">Kindle Fire HDX 8.9"</a><div class="nav_tag">Largest HDX display, 8MP rear camera</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=5916439011" class="nav_a nav_item">Kindle Fire Accessories</a><div class="nav_tag">Cases, chargers, sleeves and more</div></li></ul>
 <ul class="nav_browse_ul nav_browse_cat2_ul">
 <li class="nav_pop_li nav_browse_cat_head">Content & Resources</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000739191" class="nav_a nav_item">Instant Video</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=3427287011" class="nav_a nav_item">Apps & Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000825251" class="nav_a nav_item">MP3 Downloads</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=154606011" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/digital/fiona/redirect/newsstand/home/" class="nav_a nav_item">Newsstand</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=7258776011" class="nav_a nav_item">Audible Audiobooks</a></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/digital/fiona/manage" class="nav_a nav_item">Manage Your Kindle Fire</a></li></ul></div>
-<div id="nav_subcats_5" data-nav-promo-id="android"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Appstore for Android</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/mobile-apps/b?ie=UTF8&amp;node=2350149011" class="nav_a nav_item">Apps</a><div class="nav_tag">Shop over 100,000 apps and games</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2478844011" class="nav_a nav_item">Games</a><div class="nav_tag">Shop new, bestselling, and free games</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/mobile-apps/b?ie=UTF8&amp;node=2350149011" class="nav_a nav_item">Free App of the Day</a><div class="nav_tag">Get a new paid app for free every day</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=3071729011" class="nav_a nav_item">Test Drive Apps and Games</a><div class="nav_tag">Try thousands of apps and games right now</div></li><li class="nav_taglined nav_subcat_link nav_pop_li nav_divider_before"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000626391" class="nav_a nav_item">Download Amazon Appstore</a><div class="nav_tag">Install on your Android phone or tablet</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000645111" class="nav_a nav_item">Amazon Apps</a><div class="nav_tag">Kindle, Shopping, MP3, IMDb, and more</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/mas/your-account/myapps" class="nav_a nav_item">Your Apps and Devices</a><div class="nav_tag">View your apps and manage your devices</div></li></ul></div>
-<div id="nav_subcats_6" data-nav-promo-id="digital-games-software"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Digital Games & Software</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/Game-Downloads/b?ie=UTF8&amp;node=979455011" class="nav_a nav_item">Digital Games</a><div class="nav_tag">For PlayStation, PC, and Mac</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=5267605011" class="nav_a nav_item">Free-to-Play Games</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=6923534011" class="nav_a nav_item">Indie Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/PlayStation-Network/b?ie=UTF8&amp;node=1289533011" class="nav_a nav_item">PlayStation</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/pc-mac-software-downloads/b?ie=UTF8&amp;node=1233514011" class="nav_a nav_item">Digital Software</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/swvgdtt/your-account/manage-downloads.html" class="nav_a nav_item">Your Games & Software Library</a></li></ul></div>
+<div id="nav_subcats_6" data-nav-promo-id="fire-tv"  class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Watch and Play</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CX5P8FC" class="nav_a nav_item">Amazon Fire TV</a><div class="nav_tag">Streaming 1080p media player with voice search</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00DU0ZI8Q" class="nav_a nav_item">Amazon Fire Game Controller</a><div class="nav_tag">Dedicated wireless controller</div></li></ul>
+<ul class="nav_browse_ul nav_browse_cat2_ul">
+<li class="nav_pop_li nav_browse_cat_head">Movies, TV, and Games</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Prime-Instant-Video/b?ie=UTF8&amp;node=2676882011" class="nav_a nav_item">Prime Instant Video</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Instant-Video/b?ie=UTF8&amp;node=2858778011" class="nav_a nav_item">Amazon Instant Video</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=7031433011" class="nav_a nav_item">Games for Fire TV</a></li></ul></div>
 <div id="nav_subcats_7" data-nav-promo-id="books"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Books</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=283155" class="nav_a nav_item">Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=1286228011" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Childrens-Books/b?ie=UTF8&amp;node=4" class="nav_a nav_item">Children's Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/New-Used-Textbooks-Books/b?ie=UTF8&amp;node=465600" class="nav_a nav_item">Textbooks</a></li><li class="nav_subcat_link nav_pop_li"><a href="/magazines/b?ie=UTF8&amp;node=599858" class="nav_a nav_item">Magazines</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/Sell-Books/b?ie=UTF8&amp;node=2205237011" class="nav_a nav_item">Sell Us Your Books</a></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Audible Audiobooks</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/audible/signup/display.html" class="nav_a nav_item">Audible Membership</a><div class="nav_tag">Get to know Audible</div></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2402172011" class="nav_a nav_item">Audible Audiobooks & More</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=5744819011" class="nav_a nav_item">Whispersync for Voice</a><div class="nav_tag">Switch between reading and listening</div></li></ul></div>
-<div id="nav_subcats_8" data-nav-promo-id="movies-music-games"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Movies, Music & Games</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/movies-tv-dvd-bluray/b?ie=UTF8&amp;node=2625373011" class="nav_a nav_item">Movies & TV</a></li><li class="nav_subcat_link nav_pop_li"><a href="/movies-tv-bluray-bluray3d/b?ie=UTF8&amp;node=2901953011" class="nav_a nav_item">Blu-ray</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Instant-Video/b?ie=UTF8&amp;node=2858778011" class="nav_a nav_item">Amazon Instant Video</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/music-rock-classical-pop-jazz/b?ie=UTF8&amp;node=5174" class="nav_a nav_item">Music</a></li><li class="nav_subcat_link nav_pop_li"><a href="/MP3-Music-Download/b?ie=UTF8&amp;node=163856011" class="nav_a nav_item">MP3 Downloads</a></li><li class="nav_subcat_link nav_pop_li"><a href="/musical-instruments-accessories-sound-recording/b?ie=UTF8&amp;node=11091801" class="nav_a nav_item">Musical Instruments</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Entertainment-Collectibles/b?ie=UTF8&amp;node=5088769011" class="nav_a nav_item">Entertainment Collectibles</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/computer-video-games-hardware-accessories/b?ie=UTF8&amp;node=468642" class="nav_a nav_item">Video Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Game-Downloads/b?ie=UTF8&amp;node=979455011" class="nav_a nav_item">Digital Games</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/Trade-In/b?ie=UTF8&amp;node=2242532011" class="nav_a nav_item">Trade In Movies, Music & Games</a></li></ul></div>
+<div id="nav_subcats_8" data-nav-promo-id="movies-music-games"  class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Movies, Music & Games</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/movies-tv-dvd-bluray/b?ie=UTF8&amp;node=2625373011" class="nav_a nav_item">Movies & TV</a></li><li class="nav_subcat_link nav_pop_li"><a href="/movies-tv-bluray-bluray3d/b?ie=UTF8&amp;node=2901953011" class="nav_a nav_item">Blu-ray</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Instant-Video/b?ie=UTF8&amp;node=2858778011" class="nav_a nav_item">Amazon Instant Video</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/music-rock-classical-pop-jazz/b?ie=UTF8&amp;node=5174" class="nav_a nav_item">Music</a></li><li class="nav_subcat_link nav_pop_li"><a href="/MP3-Music-Download/b?ie=UTF8&amp;node=163856011" class="nav_a nav_item">MP3 Downloads</a></li><li class="nav_subcat_link nav_pop_li"><a href="/musical-instruments-accessories-sound-recording/b?ie=UTF8&amp;node=11091801" class="nav_a nav_item">Musical Instruments</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/computer-video-games-hardware-accessories/b?ie=UTF8&amp;node=468642" class="nav_a nav_item">Video Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Game-Downloads/b?ie=UTF8&amp;node=979455011" class="nav_a nav_item">Digital Games</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/Entertainment-Collectibles/b?ie=UTF8&amp;node=5088769011" class="nav_a nav_item">Entertainment Collectibles</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Trade-In/b?ie=UTF8&amp;node=2242532011" class="nav_a nav_item">Trade In Movies, Music & Games</a></li></ul></div>
 <div id="nav_subcats_9" data-nav-promo-id="electronics-computers" data-nav-wt='21811' class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Electronics</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Televisions-Video/b?ie=UTF8&amp;node=1266092011" class="nav_a nav_item">TV & Video</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Home-Audio-Electronics/b?ie=UTF8&amp;node=667846011" class="nav_a nav_item">Home Audio & Theater</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Camera-Photo-Film-Canon-Sony/b?ie=UTF8&amp;node=502394" class="nav_a nav_item">Camera, Photo & Video</a></li><li class="nav_subcat_link nav_pop_li"><a href="/cell-phones-service-plans-accessories/b?ie=UTF8&amp;node=2335752011" class="nav_a nav_item">Cell Phones & Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/computer-video-games-hardware-accessories/b?ie=UTF8&amp;node=468642" class="nav_a nav_item">Video Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/MP3-Players-Audio-Video/b?ie=UTF8&amp;node=172630" class="nav_a nav_item">MP3 Players & Portable Speakers</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Car-Electronics/b?ie=UTF8&amp;node=1077068" class="nav_a nav_item">Car Electronics & GPS</a></li><li class="nav_subcat_link nav_pop_li"><a href="/musical-instruments-accessories-sound-recording/b?ie=UTF8&amp;node=11091801" class="nav_a nav_item">Musical Instruments</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Tech-Accessories-Electronics/b?ie=UTF8&amp;node=5745855011" class="nav_a nav_item">Electronics Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Electronics-Trade-In/b?ie=UTF8&amp;node=2226766011" class="nav_a nav_item">Trade In Your Electronics</a></li></ul>
 <ul class="nav_browse_ul nav_browse_cat2_ul">
 <li class="nav_pop_li nav_browse_cat_head">Computers</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Laptops-Tablets/b?ie=UTF8&amp;node=2956501011" class="nav_a nav_item"> Laptops & Tablets</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Desktops/b?ie=UTF8&amp;node=4972214011" class="nav_a nav_item">Desktops & Monitors</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/Computer-Accessories/b?ie=UTF8&amp;node=2956536011" class="nav_a nav_item">Computer Accessories & Peripherals</a><div class="nav_tag">External drives, mice, networking & more</div></li><li class="nav_subcat_link nav_pop_li"><a href="/PC-Parts-Components/b?ie=UTF8&amp;node=193870011" class="nav_a nav_item">Computer Parts & Components</a></li><li class="nav_subcat_link nav_pop_li"><a href="/design-download-business-education-software/b?ie=UTF8&amp;node=229534" class="nav_a nav_item">Software</a></li><li class="nav_subcat_link nav_pop_li"><a href="/pc-mac-software-downloads/b?ie=UTF8&amp;node=1233514011" class="nav_a nav_item">Digital Software</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2445220011" class="nav_a nav_item">PC Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Printers-Office-Electronics/b?ie=UTF8&amp;node=172635" class="nav_a nav_item">Printers & Ink</a></li><li class="nav_subcat_link nav_pop_li"><a href="/office-products-supplies-electronics-furniture/b?ie=UTF8&amp;node=1064954" class="nav_a nav_item">Office & School Supplies</a></li></ul></div>
@@ -13231,7 +13151,7 @@ span.kar_beta {
   </div>
   <div id="nav_cats_wrap" class="nav_browse_wrap">
     <ul id="nav_cats" class="nav_browse_ul">
-      <li class="nav_first nav_pop_li nav_cat" id="nav_cat_0">Unlimited Instant Videos</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_1">MP3s & Cloud Player<div class="nav_tag">20 million songs, play anywhere</div></li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_2">Amazon Cloud Drive<div class="nav_tag">5 GB of free storage</div></li><li class="nav_pop_li nav_cat" id="nav_cat_3">Kindle E-readers & Books</li><li class="nav_pop_li nav_cat" id="nav_cat_4"> Kindle Fire Tablets</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_5">Appstore for Android<div class="nav_tag">Get a premium app for free today<span id="nav_amabotandroid-tagline"></span></div></li><li class="nav_pop_li nav_cat" id="nav_cat_6">Digital Games & Software</li><li class="nav_pop_li nav_cat nav_divider_before" id="nav_cat_7">Books & Audible</li><li class="nav_pop_li nav_cat" id="nav_cat_8">Movies, Music & Games</li><li class="nav_pop_li nav_cat" id="nav_cat_9">Electronics & Computers</li><li class="nav_pop_li nav_cat" id="nav_cat_10">Home, Garden & Tools</li><li class="nav_pop_li nav_cat" id="nav_cat_11">Beauty, Health & Grocery</li><li class="nav_pop_li nav_cat" id="nav_cat_12">Toys, Kids & Baby</li><li class="nav_pop_li nav_cat" id="nav_cat_13">Clothing, Shoes & Jewelry</li><li class="nav_pop_li nav_cat" id="nav_cat_14">Sports & Outdoors</li><li class="nav_pop_li nav_cat" id="nav_cat_15">Automotive & Industrial</li><li class="nav_last nav_pop_li nav_divider_before nav_a_carat" id="nav_cat_16"><span class="nav_a_carat">&rsaquo;</span><a href="/gp/site-directory" class="nav_a">Full Store Directory</a></li>
+      <li class="nav_first nav_pop_li nav_cat" id="nav_cat_0">Unlimited Instant Videos</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_1">MP3s & Cloud Player<div class="nav_tag">20 million songs, play anywhere</div></li><li class="nav_pop_li nav_cat" id="nav_cat_2">Amazon Cloud Drive</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_3">Appstore for Android<div class="nav_tag">Get a premium app for free today<span id="nav_amabotandroid-tagline"></span></div></li><li class="nav_pop_li nav_cat" id="nav_cat_4">Kindle E-readers & Books</li><li class="nav_pop_li nav_cat" id="nav_cat_5"> Kindle Fire Tablets</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_6">Amazon Fire TV<div class="nav_tag">Movies, TV & more on your HDTV</div></li><li class="nav_pop_li nav_cat nav_divider_before" id="nav_cat_7">Books & Audible</li><li class="nav_pop_li nav_cat" id="nav_cat_8">Movies, Music & Games</li><li class="nav_pop_li nav_cat" id="nav_cat_9">Electronics & Computers</li><li class="nav_pop_li nav_cat" id="nav_cat_10">Home, Garden & Tools</li><li class="nav_pop_li nav_cat" id="nav_cat_11">Beauty, Health & Grocery</li><li class="nav_pop_li nav_cat" id="nav_cat_12">Toys, Kids & Baby</li><li class="nav_pop_li nav_cat" id="nav_cat_13">Clothing, Shoes & Jewelry</li><li class="nav_pop_li nav_cat" id="nav_cat_14">Sports & Outdoors</li><li class="nav_pop_li nav_cat" id="nav_cat_15">Automotive & Industrial</li><li class="nav_last nav_pop_li nav_divider_before nav_a_carat" id="nav_cat_16"><span class="nav_a_carat">&rsaquo;</span><a href="/gp/site-directory" class="nav_a">Full Store Directory</a></li>
     </ul>
     <div id="nav_cat_indicator" class="nav-sprite"></div>
   </div>
@@ -13253,7 +13173,7 @@ span.kar_beta {
     </a></div>
   <div class="nav_pop_new_cust">New customer? <a href="https://www.amazon.com/ap/register?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_newcust" rel="nofollow" class="nav_a">Start here.</a></div>
 </li>
-<li class="nav_first nav_pop_li"><a href="https://www.amazon.com/gp/css/homepage.html" class="nav_a">Your Account</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-history&amp;pageId=webcs-yourorder&amp;showRmrMe=1" class="nav_a" id="nav_prefetch_yourorders">Your Orders</a></li><li class="nav_pop_li"><a href="/gp/registry/wishlist?ie=UTF8&amp;requiresSignIn=1" class="nav_a">Your Wish List</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore" class="nav_a">Your Recommendations</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fsubscribe-and-save%2Fmanager%2Fviewsubscriptions" class="nav_a">Your Subscribe & Save Items</a></li><li class="nav_pop_li" id="nav_ya_your_collections"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcustomers%2Fme%2Fcollections" class="nav_a">Your Collections</a></li><li class="nav_pop_li nav_divider_before"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Ffiona%2Fmanage" class="nav_a">Manage Your Kindle</a></li><li class="nav_taglined nav_pop_li"><a href="/gp/dmusic/mp3/player" class="nav_a">Your Cloud Player</a><div class="nav_tag">Play from any browser</div></li><li class="nav_taglined nav_pop_li"><a href="/clouddrive" class="nav_a">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_taglined nav_pop_li"><a href="/Prime-Instant-Video/b?ie=UTF8&amp;node=2676882011" class="nav_a">Your Prime Instant Video</a><div class="nav_tag">Unlimited streaming of thousands<br />of movies and TV shows</div></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fwatchlist" class="nav_a">Your Watchlist</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Flibrary" class="nav_a">Your Video Library</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fswvgdtt%2Fyour-account%2Fmanage-downloads.html" class="nav_a">Your Games & Software Library</a></li><li class="nav_last nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fmas%2Fyour-account%2Fmyapps" class="nav_a">Your Android Apps & Devices</a></li>   </ul>   <!--[if IE ]>      <div class='nav-ie-min-width' style='width: 160px; height: 1px;'></div>    <![endif]-->  </div>
+<li class="nav_first nav_pop_li"><a href="https://www.amazon.com/gp/css/homepage.html" class="nav_a">Your Account</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-history&amp;pageId=webcs-yourorder&amp;showRmrMe=1" class="nav_a" id="nav_prefetch_yourorders">Your Orders</a></li><li class="nav_pop_li"><a href="/gp/registry/wishlist?ie=UTF8&amp;requiresSignIn=1" class="nav_a">Your Wish List</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore" class="nav_a">Your Recommendations</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fsubscribe-and-save%2Fmanager%2Fviewsubscriptions" class="nav_a">Your Subscribe & Save Items</a></li><li class="nav_pop_li" id="nav_ya_your_collections"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcustomers%2Fme%2Fcollections" class="nav_a">Your Collections</a></li><li class="nav_taglined nav_pop_li nav_divider_before"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Ffiona%2Fmanage" class="nav_a">Manage Your Content and Devices</a><div class="nav_tag">Previously Manage Your Kindle</div></li><li class="nav_taglined nav_pop_li"><a href="/gp/dmusic/mp3/player" class="nav_a">Your Cloud Player</a><div class="nav_tag">Play from any browser</div></li><li class="nav_taglined nav_pop_li"><a href="/clouddrive" class="nav_a">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_taglined nav_pop_li"><a href="/Prime-Instant-Video/b?ie=UTF8&amp;node=2676882011" class="nav_a">Your Prime Instant Video</a><div class="nav_tag">Unlimited streaming of thousands<br />of movies and TV shows</div></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fwatchlist" class="nav_a">Your Watchlist</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Flibrary" class="nav_a">Your Video Library</a></li><li class="nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fswvgdtt%2Fyour-account%2Fmanage-downloads.html" class="nav_a">Your Games & Software Library</a></li><li class="nav_last nav_pop_li"><a href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fmas%2Fyour-account%2Fmyapps" class="nav_a">Your Android Apps & Devices</a></li>   </ul>   <!--[if IE ]>      <div class='nav-ie-min-width' style='width: 160px; height: 1px;'></div>    <![endif]-->  </div>
 
 
 
@@ -13306,6 +13226,30 @@ span.kar_beta {
   </ul>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="nav-signin-tooltip">
+  <a href="https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_custrec_signin" class="nav-action-button nav-sprite"><span class="nav-action-inner nav-sprite">
+    Sign in
+  </span></a>
+  <div class="nav-signin-tooltip-footer">
+      New customer? <a class="nav-a" href="https://www.amazon.com/ap/register?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_custrec_newcust">Start here.</a>
+  </div>
+</div>
 
 
 
@@ -13403,10 +13347,10 @@ span.kar_beta {
     </div>
   <# } #>
 </script>
-ARRAY(0xa10d0e58)
+ARRAY(0xae643954)
   </div>
   <script type='text/javascript'>
-      window.$Nav && $Nav.declare('config.prefetchUrls', ["http://z-ecx.images-amazon.com/images/G/01/browser-scripts/registriesCSS/US-combined-545184966._V376148880_.css","http://z-ecx.images-amazon.com/images/G/01/browser-scripts/tmpMasterDPMergedCSS-US/tmpMasterDPMergedCSS-US-9624502664._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amazon_logo_no-org_mid._V153387053_.png","https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amznbtn-sprite03._V395592492_.png","https://images-na.ssl-images-amazon.com/images/G/01/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.0._V393733149_.js","https://images-na.ssl-images-amazon.com/images/G/01/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.1._V343920894_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/navbarCSS-global/navbarCSS-global-min-1710585973._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-1968712395._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-3515399030._V1_.js","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-order-history-beaconized/wcs-ya-order-history-beaconized-1154085490._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01-fw._V355247711_.png","https://images-na.ssl-images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/buttons/sign-in-secure._V192194766_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._V342128453_.js","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V369764580_.png","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/css/images/amznbtn-sprite03._V387356454_.png","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/help/images/spotlight/kindle-family-02b._V354814520_.jpg","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/acorn._V192250692_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/amazon-gc-100._V192250695_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/amazon-gcs-100._V192250695_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/btn-close._V192250694_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/projects/text-trace/texttrace_typ._V353754787_.js","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/ya/images/new-link._V192250664_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/ya/images/shipment_large_lt._V192250661_.gif"]);
+      window.$Nav && $Nav.declare('config.prefetchUrls', ["http://z-ecx.images-amazon.com/images/G/01/browser-scripts/registriesCSS/US-combined-545184966._V376148880_.css","http://z-ecx.images-amazon.com/images/G/01/browser-scripts/tmpMasterDPMergedCSS-US/tmpMasterDPMergedCSS-US-9624502664._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amazon_logo_no-org_mid._V153387053_.png","https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amznbtn-sprite03._V395592492_.png","https://images-na.ssl-images-amazon.com/images/G/01/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.0._V393733149_.js","https://images-na.ssl-images-amazon.com/images/G/01/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.1._V343920894_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/navbarCSS-global/navbarCSS-global-min-1689515832._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-1968712395._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-3515399030._V1_.js","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-order-history-beaconized/wcs-ya-order-history-beaconized-1154085490._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01-fw._V355247711_.png","https://images-na.ssl-images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/buttons/sign-in-secure._V192194766_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._V342128453_.js","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V369764580_.png","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/css/images/amznbtn-sprite03._V387356454_.png","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/help/images/spotlight/kindle-family-02b._V354814520_.jpg","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/acorn._V192250692_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/amazon-gc-100._V192250695_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/amazon-gcs-100._V192250695_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/orders/images/btn-close._V192250694_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/projects/text-trace/texttrace_typ._V353754787_.js","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/ya/images/new-link._V192250664_.gif","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/ya/images/shipment_large_lt._V192250661_.gif"]);
 window.$Nav && $Nav.declare('config.prefetch',function() {
     var pUrls = window.$Nav.getNow('config.prefetchUrls');
     if (window.amznJQ) amznJQ.addPL(pUrls);
@@ -14153,7 +14097,6 @@ text-decoration:none !important;
 })();
 </script>
 
-  
 
 
 
@@ -14429,8 +14372,8 @@ text-decoration:none !important;
 
 <div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><ul><li class="nav_first"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088" class="nav_a">Conditions of Use</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" class="nav_a">Privacy Notice</a></li><li><a href="/interestbasedads" class="nav_a">Interest-Based Ads</a></li><li class="nav_last">© 1996-2014, Amazon.com, Inc. or its affiliates</li></ul></div>
 </div>
-<!-- whfh-8nHtFGIiB2iKbh/P4oDuMfI0xtRqkTjeKrPEnmHFc1/ez0m+NRqqpRO0dGQqQ56e rid-1Q6370WQB8QDYG3GQ7FT -->
-<div id="sis_pixel_r2" style="height:1px;"></div><script>(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&old_oo=0&cb=1396397434069" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});</script>
+<!-- whfh-3S8AywK3kgVtjqCtsj1pFexBLAIw2sXrbmobowpAi3RyD64Cbs+4xkwdcDWJdKhI rid-1YGKD8VW5NZ3S0ZED8GN -->
+<div id="sis_pixel_r2" style="height:1px;"></div><script>(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&old_oo=0&cb=1396495985314" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});</script>
 
 
 

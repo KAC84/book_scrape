@@ -98,7 +98,7 @@
 
 <html>
 <head>
-<script type="text/javascript">var loadState = false;(function(){var i=new Image;i.onload = function(){ loadState = true; };i.src = "http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg";})();</script>
+<script type="text/javascript">var loadState = false;(function(){var i=new Image;i.onload = function(){ loadState = true; };i.src = "http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg";})();</script>
 
 
 
@@ -351,13 +351,13 @@ function amz_js_PopWin(url,name,options){
 
 
 
-<link rel="canonical" href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/dp/B00957T6X6" />
-<link rel="alternate" media="handheld" href="http://www.amazon.com/gp/aw/d/B00957T6X6" />
-<meta name="description" content="George R. R. Martin&#39;s A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons - Kindle edition by George R.R. Martin. Download it once and read it on your Kindle device, PC, phones or tablets. Use features like bookmarks, note taking and highlighting while reading George R. R. Martin&#39;s A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons." />
-<meta name="title" content="Amazon.com: George R. R. Martin&#39;s A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons eBook: George R.R. Martin: Kindle Store" />
+<link rel="canonical" href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM" />
+<link rel="alternate" media="handheld" href="http://www.amazon.com/gp/aw/d/B00HVJB4VM" />
+<meta name="description" content="Flash Boys: A Wall Street Revolt - Kindle edition by Michael Lewis. Download it once and read it on your Kindle device, PC, phones or tablets. Use features like bookmarks, note taking and highlighting while reading Flash Boys: A Wall Street Revolt." />
+<meta name="title" content="Amazon.com: Flash Boys: A Wall Street Revolt eBook: Michael Lewis: Kindle Store" />
 
-<meta name="keywords" content="ebook,George R.R. Martin,George R. R. Martin&#39;s A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons,Bantam,Fantasy,Fantasy fiction,Fiction - General,Fiction,Action &amp; Adventure,Fiction / Action &amp; Adventure,Fiction / Fantasy / Epic,Fiction / Media Tie-In,Media Tie-In - General,Action &amp; Adventure,Fiction / Action &amp; Adventure,Fiction / Fantasy / Epic,Fiction / Media Tie-In,Media Tie-In - General,Fantasy - Epic,Action &amp; Adventure,Fantasy,Fantasy - Epic,Fantasy fiction,Fiction,Fiction - General,Fiction / Action &amp; Adventure,Fiction / Fantasy / Epic,Fiction / Media Tie-In,Media Tie-In - General" />
-<title>Amazon.com: George R. R. Martin&#39;s A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons eBook: George R.R. Martin: Kindle Store</title>
+<meta name="keywords" content="ebook,Michael Lewis,Flash Boys: A Wall Street Revolt,W. W. Norton &amp; Company,Business/Economics,21st century,Finance,History,Stockbrokers,United States,Business / Economics / Finance,Business &amp; Economics,Business &amp; Economics / Economic Conditions,Business &amp; Economics / Economic Conditions,Economics,Economic Conditions,Investments &amp; Securities - Analysis &amp; Trading Strategies,Economics: Professional &amp; General,21st century,Business &amp; Economics,Business &amp; Economics / Economic Conditions,Business / Economics / Finance,Business/Economics,Contemporary Economic Situations And Conditions,Economic Conditions,Economics,Economics: Professional &amp; General,Finance,Futures And Options Trading,History,Investments &amp; Securities - Analysis &amp; Trading Strategies,Stockbrokers,United States,Contemporary Economic Situations And Conditions,Futures And Options Trading" />
+<title>Amazon.com: Flash Boys: A Wall Street Revolt eBook: Michael Lewis: Kindle Store</title>
 
 
 
@@ -3872,7 +3872,7 @@ window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
 
 </script>
 
-<!-- navp-InvZiutk+5DeYPYdIapnFdo4zNmFKpZxFhwqmV3a4BLxlI+4dbKoqMwG9uKgiTqv3ibTpXTFuV4= rid-1BHXNQ8EC0BR1NE7XHY9 (Wed Apr  2 20:33:11 2014) -->
+<!-- navp-CKJn0JBlRYNTkyH+beZYeS8LbRHsBpHHeuJlPrZcrf9FqKB6X6r0GBC1wq2M6mbSQ2RRrWz/pCU= rid-17JJBBQEYZ51RTX0V1B9 (Wed Apr  2 20:33:12 2014) -->
 
   
 
@@ -4051,7 +4051,7 @@ window.$Nav && $Nav.declare('config.subnavFlyoutUrl',
 window.$Nav && $Nav.declare('config.readyOnATF', false);
 
 window.$Nav && $Nav.declare('config.dynamicMenuArgs',
-  {"rid":"1BHXNQ8EC0BR1NE7XHY9","isPrime":0,"primeMenuWidth":310});
+  {"rid":"17JJBBQEYZ51RTX0V1B9","isPrime":0,"primeMenuWidth":310});
 
 window.$Nav && $Nav.declare('config.signOutText',
   null);
@@ -4320,16 +4320,41 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+   <div class="kindleBanner" style="text-align:center;">
+        Start reading <i>Flash Boys: A Wall Street Revolt</i> on your Kindle <b>in under a minute</b>. Don't have a Kindle? <a href="/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ref=dp_kinw_strp_0">Get your Kindle here</a>.
+   </div>
+
+
+
+
+
+
+
+
+
 <div>
 </div>
 <div id="rwImages_hidden" style="display:none;">
-<img src="http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg" style="display:none;"/>
+<img src="http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg" style="display:none;"/>
 </div>
 
 
  
 
     
+
 
 
 
@@ -4821,14 +4846,14 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 <form id="kicsBuyBoxForm" class="buyBoxForm" name="buyItem" action="https://www.amazon.com/gp/digital/fiona/buy.html" method="POST" >
 
 
-<input type="hidden" name="ASIN.0" value="B00957T6X6" />
-<input type="hidden" name="offerListingID.0" value="SKLEu%2FpAbQ%2BsD4WPWDIXPdtE7Y2PvASb0wyS81pOb1drTUJzB4Wo%2FUF5kAB6dG40v4tSBjacgnI1nLUTEDfkayl12c%2BIxbFiiUklgTulmmMNkrCgCRGfd%2FWBokmi%2ByOlrkE9QZgVwFqxCfp%2FG16cnQ%3D%3D" />
+<input type="hidden" name="ASIN.0" value="B00HVJB4VM" />
+<input type="hidden" name="offerListingID.0" value="nPi6CX7KNc7owU0%2Fj8X0Kx6IQAtBdENe4nYwdAI%2BU9milIdbpfyuEwC29t6LnKBfGH9rc%2BCNsQN9LcS71FqxFNDzW7ktKDnkQF5pHLEsOMHXKCOOcVVrhpPTPMgYrFMtWohhn0TOT6c70nyyR%2Bw4zi%2FhIWehlqGu" />
 <input type="hidden" name="t" value="fiona" />
 <input type="hidden" name="itemCount" value="1" />
 <input type="hidden" name="cor.0" value="US" />
-      <input type="hidden" name="displayedPrice" value="19.99"/>
+      <input type="hidden" name="displayedPrice" value="9.18"/>
       <input type="hidden" name="displayedPriceCurrencyCode" value="USD"/>
-      <input type="hidden" name="displayedGiftPrice" value="19.99"/>
+      <input type="hidden" name="displayedGiftPrice" value="9.18"/>
       <input type="hidden" name="displayedGiftPriceCurrencyCode" value="USD"/>
 
 <input type="hidden" name="transactionMode" id ='transactionMode' value="one-click">
@@ -4878,7 +4903,7 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 
 
 
-<a href="/gp/sign-in.html?ie=UTF8&path=%2Fgp%2Fproduct%2FB00957T6X6&redirectProtocol=current&useRedirectOnSuccess=1" id="kindle_redeem_promo_link" />Enter a promotion code<br>or gift card</a>
+<a href="/gp/sign-in.html?ie=UTF8&path=%2Fgp%2Fproduct%2FB00HVJB4VM&redirectProtocol=current&useRedirectOnSuccess=1" id="kindle_redeem_promo_link" />Enter a promotion code<br>or gift card</a>
 
 
 
@@ -4888,7 +4913,7 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
     </tr>
         </tbody></table></form>
         <form name="addToWishlist" action="https://www.amazon.com/gp/digital/fiona/add-to-wish-list.html" method="POST" style="margin:0px">
-          <input type="hidden" name="ASIN.0" value="B00957T6X6" />
+          <input type="hidden" name="ASIN.0" value="B00HVJB4VM" />
           <input type="hidden" name="itemCount" value="1" />
           <table class="buybox" border="0" cellpadding="0" cellspacing="0" style="width: 100%">
             <tbody>
@@ -5062,8 +5087,8 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 
 
   <form name="buyItem" action="https://www.amazon.com/gp/digital/fiona/buy.html" method="POST">
-  <input type="hidden" name="ASIN.0" value="B00957T6X6" />
-  <input type="hidden" name="offerListingID.0" value="SKLEu%2FpAbQ%2BsD4WPWDIXPdtE7Y2PvASb0wyS81pOb1drTUJzB4Wo%2FUF5kAB6dG40v4tSBjacgnI1nLUTEDfkayl12c%2BIxbFiiUklgTulmmMNkrCgCRGfd%2FWBokmi%2ByOlrkE9QZgVwFqxCfp%2FG16cnQ%3D%3D" />
+  <input type="hidden" name="ASIN.0" value="B00HVJB4VM" />
+  <input type="hidden" name="offerListingID.0" value="nPi6CX7KNc7owU0%2Fj8X0Kx6IQAtBdENe4nYwdAI%2BU9milIdbpfyuEwC29t6LnKBfGH9rc%2BCNsQN9LcS71FqxFNDzW7ktKDnkQF5pHLEsOMHXKCOOcVVrhpPTPMgYrFMtWohhn0TOT6c70nyyR%2Bw4zi%2FhIWehlqGu" />
   <input type="hidden" name="t" value="fiona" />
   <input type="hidden" name="subtype.0" value="FREE_CHAPTER" />
   <input type="hidden" name="itemCount" value="1" />
@@ -5291,8 +5316,8 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
                     <div id="main-image-wrapper" class="main" >
                         <div id="holderMainImage" class="holder image">
                             <div id="twister-main-image" customFunctionName ="ImageBlock.TwisterReArchModule.getMainImageMarkup" style = "display:none"></div>
-                            <noscript><a href="/gp/reader/B00957T6X6#reader-link"><img id="main-image-nonjs" src="http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg" alt="" ></a></noscript>
-                            <img id="main-image" src="http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg" alt=""  rel="http://ecx.images-amazon.com/images/I/91-rbDuvMoL._SL1500_.jpg" onload="; ; if(typeof setCSMReq=='function'){setCSMReq('af');if (typeof addlongPoleTag === 'function') { addlongPoleTag('af', 'desktop-image-atf-marker');};setCSMReq('cf');}else if (typeof uet=='function'){uet('af');uet('cf'); amznJQ.completedStage('amznJQ.AboveTheFold');}">
+                            <noscript><a href="/gp/reader/B00HVJB4VM#reader-link"><img id="main-image-nonjs" src="http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg" alt="" ></a></noscript>
+                            <img id="main-image" src="http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg" alt=""  rel="http://ecx.images-amazon.com/images/I/71UPH4iWCAL._SL1500_.jpg" onload="; ; if(typeof setCSMReq=='function'){setCSMReq('af');if (typeof addlongPoleTag === 'function') { addlongPoleTag('af', 'desktop-image-atf-marker');};setCSMReq('cf');}else if (typeof uet=='function'){uet('af');uet('cf'); amznJQ.completedStage('amznJQ.AboveTheFold');}">
                         </div>
                     </div>
                 </div>
@@ -5313,17 +5338,17 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
                 Flash Player<span class ="swSprite s_extLink"></span></a>
             </p>
         </div>
-<div id='main-image-caption' class='tiny'>&nbsp;</div><div id = 'thumbs-image' class='thumbs bottom'  customFunctionName = 'ImageBlock.TwisterReArchModule.getAltsImageMarkup'><a href='http://www.amazon.com/gp/product/images/B00957T6X6' class='altThumb' target='AmazonHelp' onclick='return amz_js_PopWin(this.href,"AmazonHelp","width=700,height=600,resizable=1,scrollbars=1,toolbar=0,status=1");' /><img class='border thumb0 selected' src='http://ecx.images-amazon.com/images/I/51OMI4Jez3L._SS30_.jpg' data-index='0'></a></div>
+<div id='main-image-caption' class='tiny'>&nbsp;</div><div id = 'thumbs-image' class='thumbs bottom'  customFunctionName = 'ImageBlock.TwisterReArchModule.getAltsImageMarkup'><a href='http://www.amazon.com/gp/product/images/B00HVJB4VM' class='altThumb' target='AmazonHelp' onclick='return amz_js_PopWin(this.href,"AmazonHelp","width=700,height=600,resizable=1,scrollbars=1,toolbar=0,status=1");' /><img class='border thumb0 selected' src='http://ecx.images-amazon.com/images/I/41C3LHEK5TL._SS30_.jpg' data-index='0'></a></div>
     <div class="amiLinkRow">
-        <a href="/gp/customer-media/upload/B00957T6X6?ie=UTF8&amp;rnd=1396495991">Share your own customer images</a>
+        <a href="/gp/customer-media/upload/B00HVJB4VM?ie=UTF8&amp;rnd=1396495993">Share your own customer images</a>
     </div>
         <div id="prodImageCell" style="display:none"></div>
     </div>
 </div>
 
 <script type="text/javascript">
-    var imageSrc = "http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg";
-    var colorImages = {"initial":[{"large":"http://ecx.images-amazon.com/images/I/51OMI4Jez3L.jpg","landing":["http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg"],"hiRes":"http://ecx.images-amazon.com/images/I/91-rbDuvMoL._SL1500_.jpg","thumb":"http://ecx.images-amazon.com/images/I/51OMI4Jez3L._SS30_.jpg","main":["http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg","http://ecx.images-amazon.com/images/I/51OMI4Jez3L._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX318_SY318_PIkin4,BottomRight,1,22_AA318_AA300_SH20_OU01_.jpg"]}]};
+    var imageSrc = "http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg";
+    var colorImages = {"initial":[{"large":"http://ecx.images-amazon.com/images/I/41C3LHEK5TL.jpg","landing":["http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg"],"hiRes":"http://ecx.images-amazon.com/images/I/71UPH4iWCAL._SL1500_.jpg","thumb":"http://ecx.images-amazon.com/images/I/41C3LHEK5TL._SS30_.jpg","main":["http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg","http://ecx.images-amazon.com/images/I/41C3LHEK5TL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg"]}]};
 
     (function(doc) {
         var mi = doc.getElementById("main-image");
@@ -5392,7 +5417,7 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 
 
 <h1 class="parseasinTitle ">
-<span id="btAsinTitle" >George R. R. Martin's A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons <span  style="text-transform: capitalize; font-size: 16px;">[Kindle Edition]</span></span>
+<span id="btAsinTitle" >Flash Boys: A Wall Street Revolt <span  style="text-transform: capitalize; font-size: 16px;">[Kindle Edition]</span></span>
 
 
 </h1>
@@ -5409,7 +5434,7 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 
 <span >  
 
-<a href="http://www.amazon.com/George-R.R.-Martin/e/B000APIGH4">George R.R. Martin</a> <span class="byLinePipe">(Author)</span>
+<a href="http://www.amazon.com/Michael-Lewis/e/B000APZ33E">Michael Lewis</a> <span class="byLinePipe">(Author)</span>
 
 
 
@@ -5567,9 +5592,9 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
     });
   });
 </script>
-<span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary acr-popover non-lazy" name="B00957T6X6" ref="dp_top_cm_cr_acr_pop_" >
-             <a style="cursor:pointer;text-decoration:none" href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" name="reviewHistoPop_B00957T6X6__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
-          style="margin-left:-3px"><a style="text-decoration:none" href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" name="reviewHistoPop_B00957T6X6__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" >1,419 customer reviews</a>)</span></span>
+<span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary acr-popover non-lazy" name="B00HVJB4VM" ref="dp_top_cm_cr_acr_pop_" >
+             <a style="cursor:pointer;text-decoration:none" href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" name="reviewHistoPop_B00HVJB4VM__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_0 " title="3.9 out of 5 stars" ><span>3.9 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
+          style="margin-left:-3px"><a style="text-decoration:none" href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" name="reviewHistoPop_B00HVJB4VM__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" >53 customer reviews</a>)</span></span>
 </div>
 
 <hr noshade="noshade" size="1" />
@@ -5639,13 +5664,37 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 <table class="product ">
 
 
+  <tr>
+    <td class="productBlockLabel">
+      Digital List Price:
+    </td>
+    <td class="digitalListPrice" colspan="1">
+      <span class="listprice" >$26.23</span>
+      <a href="#" id="popsource" class="kicsPopover">
+        <span class='tiny'>What's this?</span>
+        <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif" width="11" height="11" border="0" />
+      </a>
+      <script type="text/javascript">
+        amznJQ.onReady('popover', function() {
+          jQuery('#popsource').amazonPopoverTrigger({
+            showOnHover: true,
+            showCloseButton: false,
+            width: 246,
+            literalContent: "<div style='font-size:11px'><b>Digital List Price</b> is the suggested retail price set by the publisher</div>",
+            openEventInclude: "CLICK_TRIGGER"
+          });
+        });
+      </script>
+    </td>
+  </tr>
+
 
   <tr>
     <td class="productBlockLabel">
       Print List Price:
     </td>
     <td class="listPrice" colspan="1">
-      $49.95
+      $27.95
     </td>
   </tr>
 
@@ -5658,7 +5707,7 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
     </td>
     <td>
       <b class="priceLarge" >
-        $19.99
+        $9.18
       </b>
 
       
@@ -5675,57 +5724,12 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
     <td>
       <span class="price">
 
-      $29.96
-      (60%)
+      $18.77
+      (67%)
       </span>
     </td>
   </tr>
 
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr>
-  <td class="productBlockLabel">
-    Sold by:
-  </td>
-  <td>
-    Random House LLC
-  </td>
-</tr>
 
 
 
@@ -5995,14 +5999,13 @@ window.$Nav && $Nav.declare('config.signInTooltip',false);
 <ul>
 <li class="listItem"> Length:
 <a href='#' id='pageCountAvailable' class='kicsPopover'>
-  <span> 4272 pages   </span>
+  <span> 289 pages  (Contains Real Page Numbers) </span>
   <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif" />
 </a>
 </li>
 
 
 
-<li class="listItem">Due to its large file size, this book may take longer to download</li>
 
 
 <li class="listItem">Don't have a Kindle? <a href="/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ref=dp_kinw_ae_1">Get your Kindle here</a>.</li>
@@ -6028,7 +6031,7 @@ amznJQ.onReady('popover', function() {
     showOnHover: true,
     showCloseButton: false,
     width: 256,
-    literalContent: '<div class="kicsPopover">' + "Based on the print edition (ISBN 9780345535566)." + '</div>',
+    literalContent: '<div class="kicsPopover">' + "Contains real page numbers based on the print edition (ISBN 0393244660)." + '</div>',
     openEventInclude:"CLICK_TRIGGER"
     });
 
@@ -6146,6 +6149,34 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
 
+
+
+
+
+    
+    
+
+
+
+    
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+
+
+
+    
+    
+        
     
     
 
@@ -6206,22 +6237,8 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
+  
 
 
 
@@ -6273,7 +6290,7 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
 
-    <tr class="activeRow bucketBorderTop" id="tmm_B00957T6X6">
+    <tr class="activeRow bucketBorderTop" id="tmm_B00HVJB4VM">
       <td class="tmm_buttonTD">
       </td>
       </td>
@@ -6286,7 +6303,7 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
       <td  class=" price ">
-           $19.99
+           $9.18
        </td>
 
 
@@ -6311,7 +6328,7 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
 
-    <tr class="bucketBorderTop" id="tmm_B008I6ZX1E">
+    <tr class="bucketBorderTop" id="tmm_0393244660">
       <td class="tmm_buttonTD">
       </td>
       </td>
@@ -6319,12 +6336,12 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/George-R-R-Martin-Song-Hardcover/dp/B008I6ZX1E">Hardcover</a>
+           <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393244660">Hardcover</a>
        </td>
 
 
       <td  class=" price ">
-        --
+           $17.46
        </td>
 
 
@@ -6344,94 +6361,18 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
   </tr>
 
 </tbody>
-
-<tbody id="paperback_meta_binding_winner">
-
-
-
-    <tr class="bucketBorderTop" id="tmm_0345535561">
-      <td class="tmm_buttonTD">
-      </td>
-      </td>
-
-
-
-      <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Boxed/dp/0345535561">Paperback</a>
-       </td>
-
-
-      <td  class=" price ">
-           $51.98
-       </td>
-
-
-      <td  class=" noLinkDecoration ">
-       &nbsp;
-       </td>
-
-
-      <td  class="tmm_olpLinks ">
-        --
-       </td>
-
-
-      <td  class="tmm_olpLinks ">
-        --
-       </td>
-  </tr>
-
-</tbody>
-   <tbody id="paperback_meta_binding_body">
+   <tbody id="hardcover_meta_binding_body">
   </tbody>
 <tbody>
-   <tr class=" noLinkDecoration " style="display:none" id="paperback_meta_binding_showMoreLink"><td></td><td colspan="5" ><strong><a href="#">See <span id="paperback_meta_binding_showMoreVariationsCount">#</span> more paperbacks</a></strong></td></tr>
-   <tr class=" noLinkDecoration " style="display:none" id="paperback_meta_binding_showFewerLink"><td></td><td colspan="5" ><strong><a href="#">Show fewer paperbacks</a></strong></td></tr>
-</tbody>
-
-<tbody id="mass_market_paperback_meta_binding_winner">
-
-
-
-    <tr class="bucketBorderTop" id="tmm_0345535529">
-      <td class="tmm_buttonTD">
-      </td>
-      </td>
-
-
-
-      <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Boxed/dp/0345535529">Mass Market Paperback</a>
-       </td>
-
-
-      <td  class=" price ">
-           $26.16
-       </td>
-
-
-      <td  class=" noLinkDecoration ">
-       &nbsp;
-       </td>
-
-
-      <td  class="tmm_olpLinks ">
-        --
-       </td>
-
-
-      <td  class="tmm_olpLinks ">
-        --
-       </td>
-  </tr>
-
+   <tr class=" noLinkDecoration " style="display:none" id="hardcover_meta_binding_showMoreLink"><td></td><td colspan="5" ><strong><a href="#">See <span id="hardcover_meta_binding_showMoreVariationsCount">#</span> more hardcovers</a></strong></td></tr>
+   <tr class=" noLinkDecoration " style="display:none" id="hardcover_meta_binding_showFewerLink"><td></td><td colspan="5" ><strong><a href="#">Show fewer hardcovers</a></strong></td></tr>
 </tbody>
 
 <tbody id="audiobooks_meta_binding_winner">
 
 
 
-    <tr class="bucketBorderTop" id="tmm_0739352962">
+    <tr class="bucketBorderTop" id="tmm_1442370270">
       <td class="tmm_buttonTD">
       </td>
       </td>
@@ -6439,12 +6380,12 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/George-Martin-Song-Audiobook-Bundle/dp/0739352962">Audio, CD, Audiobook</a>
+           <a href="http://www.amazon.com/Flash-Boys-Michael-Lewis/dp/1442370270">Audio, CD, Audiobook, Unabridged</a>
        </td>
 
 
       <td  class=" price ">
-           $306.00
+           $17.54
        </td>
 
 
@@ -6465,11 +6406,11 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 </tbody>
 
-<tbody id="other_meta_binding_winner">
+<tbody id="audiobooks_digital_meta_binding_winner">
 
 
 
-    <tr class="bucketBorderTop" id="tmm_B009B8UKNY">
+    <tr class="bucketBorderTop" id="tmm_B00ICRE1QC">
       <td class="tmm_buttonTD">
       </td>
       </td>
@@ -6477,36 +6418,20 @@ if(typeof setCSMReq == 'function'){setCSMReq('af'); if (typeof addlongPoleTag ==
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/Song-Ice-Fire-Audiobook-set/dp/B009B8UKNY">Unknown Binding</a>
+           <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/B00ICRE1QC">Audible Audio Edition, Unabridged</a>
        </td>
 
 
       <td  class=" price ">
-        --
+           <span class="price">$17.95</span>
        </td>
 
 
-      <td  class=" noLinkDecoration ">
-       &nbsp;
-       </td>
-
-
-      <td  class="tmm_olpLinks ">
-        --
-       </td>
-
-
-      <td  class="tmm_olpLinks ">
-        --
+      <td colspan="3" class=" noLinkDecoration ">
+           <span class="tmm_audibleMessage">or <span class="price">Free</span> with Audible 30-day free trial</span>
        </td>
   </tr>
 
-</tbody>
-   <tbody id="other_meta_binding_body">
-  </tbody>
-<tbody>
-   <tr class=" noLinkDecoration " style="display:none" id="other_meta_binding_showMoreLink"><td></td><td colspan="5" ><strong><a href="#">See <span id="other_meta_binding_showMoreVariationsCount">#</span> more other formats</a></strong></td></tr>
-   <tr class=" noLinkDecoration " style="display:none" id="other_meta_binding_showFewerLink"><td></td><td colspan="5" ><strong><a href="#">Show fewer other formats</a></strong></td></tr>
 </tbody>
 </table>
 </div>
@@ -6524,12 +6449,10 @@ amznJQ.available("twister-media-matrix", function() {
 window._tmm_2 = +new Date();
 TwisterMediaMatrix.initialize({
 "kindle_meta_binding": { "n": "1", "start": "1" },
-"hardcover_meta_binding": { "n": "1", "start": "1" },
-"paperback_meta_binding": { "n": "8", "start": "1" },
-"mass_market_paperback_meta_binding": { "n": "1", "start": "1" },
+"hardcover_meta_binding": { "n": "2", "start": "1" },
 "audiobooks_meta_binding": { "n": "1", "start": "1" },
-"other_meta_binding": { "n": "2", "start": "1" }
-}, "8", "books", "B00957T6X6", "B007QUOZNU", "ebooks_display_on_website", "Loading...", "Error. Please try again.", "http://g-ecx.images-amazon.com/images/G/01/x-locale/twister/tiny-snake._V192199047_.gif", false, "", "");
+"audiobooks_digital_meta_binding": { "n": "1", "start": "2" }
+}, "1", "books", "B00HVJB4VM", "B00HVJS70S", "ebooks_display_on_website", "Loading...", "Error. Please try again.", "http://g-ecx.images-amazon.com/images/G/01/x-locale/twister/tiny-snake._V192199047_.gif", false, "", "");
 });
 });
 }
@@ -6651,14 +6574,14 @@ var disableWinnerPopup;
 <div id="ps-content" class="bucket">
   <h2>Book Description</h2>
   <div id="bookmetadata" class="buying" style="display: none">
-        <input id="pubdate" type="hidden" value="2012-09-10T00:00:00" />
+        <input id="pubdate" type="hidden" value="2014-03-31T00:00:00" />
         <span id="pubdatelabel" class="byLinePipe"></span>
         <span id="pubdatevalue" style="font-weight: bold;"></span>
   </div>
 
   <div class="content">
   <div id="outer_postBodyPS" style="overflow:hidden; z-index: 1; height: 200px;">
-    <div id="postBodyPS">For the first time, all five novels in the epic fantasy series that inspired HBO&rsquo;s <i>Game of Thrones </i>are together in one eBook bundle. An immersive entertainment experience unlike any other, A Song of Ice and Fire has earned George R. R. Martin&mdash;dubbed &ldquo;the American Tolkien&rdquo; by <i>Time</i> magazine&mdash;international acclaim and millions of loyal readers. Now this bundle collects the entire monumental cycle in the most convenient format available:<br /> &#160;<br /> <b>A GAME OF THRONES</b><br /> <b>A CLASH OF KINGS</b><br /> <b>A STORM OF SWORDS</b><br /> <b>A FEAST OF CROWS</b><br /> <b>A DANCE WITH DRAGONS</b><br /> <b>&#160;</b><br /> <b>&ldquo;One of the best series in the history of fantasy.&rdquo;&mdash;<i>Los Angeles Times</i></b><br /> <b><i>&#160;</i></b><br /> Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King&rsquo;s Landing. There Eddard Stark of Winterfell rules in Robert&rsquo;s name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse&mdash;unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season.<br /> &#160;<br /> Yet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen&rsquo;s brothers Jaime and Tyrion of the powerful and wealthy House Lannister&mdash;the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms.<br /> &#160;<br /> Meanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki&mdash;whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys.<br /> <b><i>&#160;</i></b><br /> <b>&ldquo;Long live George Martin . . . a literary dervish, enthralled by complicated characters and vivid language, and bursting with the wild vision of the very best tale tellers.&rdquo;<i>&mdash;The New York Times</i></b></div>
+    <div id="postBodyPS"><p>Four years after his #1 bestseller <em>The Big Short</em>, Michael Lewis returns to Wall Street to report on a high-tech predator stalking the equity markets.</p><br /><p><em>Flash Boys</em> is about a small group of Wall Street guys who figure out that the U.S. stock market has been rigged for the benefit of insiders and that, post&#8211;financial crisis, the markets have become not more free but less, and more controlled by the big Wall Street banks. Working at different firms, they come to this realization separately; but after they discover one another, the flash boys band together and set out to reform the financial markets. This they do by creating an exchange in which high-frequency trading&#8212;source of the most intractable problems&#8212;will have no advantage whatsoever.</p><br /><p>The characters in <em>Flash Boys</em> are fabulous, each completely different from what you think of when you think &#8220;Wall Street guy.&#8221; Several have walked away from jobs in the financial sector that paid them millions of dollars a year. From their new vantage point they investigate the big banks, the world&#8217;s stock exchanges, and high-frequency trading firms as they have never been investigated, and expose the many strange new ways that Wall Street generates profits.</p><br /><p>The light that Lewis shines into the darkest corners of the financial world may not be good for your blood pressure, because if you have any contact with the market, even a retirement account, this story is happening to you. But in the end, <em>Flash Boys</em> is an uplifting read. Here are people who have somehow preserved a moral sense in an environment where you don&#8217;t get paid for that; they have perceived an institutionalized injustice and are willing to go to war to fix it.</p></div>
   </div>
   <div id="psGradient" class="psGradient" style=""></div>
   <div id="psPlaceHolder" style=" height: 20px;">
@@ -6688,7 +6611,7 @@ var disableWinnerPopup;
     }
   </style>
 
-    <div id="postBodyPS">For the first time, all five novels in the epic fantasy series that inspired HBO&rsquo;s <i>Game of Thrones </i>are together in one eBook bundle. An immersive entertainment experience unlike any other, A Song of Ice and Fire has earned George R. R. Martin&mdash;dubbed &ldquo;the American Tolkien&rdquo; by <i>Time</i> magazine&mdash;international acclaim and millions of loyal readers. Now this bundle collects the entire monumental cycle in the most convenient format available:<br /> &#160;<br /> <b>A GAME OF THRONES</b><br /> <b>A CLASH OF KINGS</b><br /> <b>A STORM OF SWORDS</b><br /> <b>A FEAST OF CROWS</b><br /> <b>A DANCE WITH DRAGONS</b><br /> <b>&#160;</b><br /> <b>&ldquo;One of the best series in the history of fantasy.&rdquo;&mdash;<i>Los Angeles Times</i></b><br /> <b><i>&#160;</i></b><br /> Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King&rsquo;s Landing. There Eddard Stark of Winterfell rules in Robert&rsquo;s name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse&mdash;unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season.<br /> &#160;<br /> Yet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen&rsquo;s brothers Jaime and Tyrion of the powerful and wealthy House Lannister&mdash;the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms.<br /> &#160;<br /> Meanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki&mdash;whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys.<br /> <b><i>&#160;</i></b><br /> <b>&ldquo;Long live George Martin . . . a literary dervish, enthralled by complicated characters and vivid language, and bursting with the wild vision of the very best tale tellers.&rdquo;<i>&mdash;The New York Times</i></b></div>
+    <div id="postBodyPS"><p>Four years after his #1 bestseller <em>The Big Short</em>, Michael Lewis returns to Wall Street to report on a high-tech predator stalking the equity markets.</p><br /><p><em>Flash Boys</em> is about a small group of Wall Street guys who figure out that the U.S. stock market has been rigged for the benefit of insiders and that, post&#8211;financial crisis, the markets have become not more free but less, and more controlled by the big Wall Street banks. Working at different firms, they come to this realization separately; but after they discover one another, the flash boys band together and set out to reform the financial markets. This they do by creating an exchange in which high-frequency trading&#8212;source of the most intractable problems&#8212;will have no advantage whatsoever.</p><br /><p>The characters in <em>Flash Boys</em> are fabulous, each completely different from what you think of when you think &#8220;Wall Street guy.&#8221; Several have walked away from jobs in the financial sector that paid them millions of dollars a year. From their new vantage point they investigate the big banks, the world&#8217;s stock exchanges, and high-frequency trading firms as they have never been investigated, and expose the many strange new ways that Wall Street generates profits.</p><br /><p>The light that Lewis shines into the darkest corners of the financial world may not be good for your blood pressure, because if you have any contact with the market, even a retirement account, this story is happening to you. But in the end, <em>Flash Boys</em> is an uplifting read. Here are people who have somehow preserved a moral sense in an environment where you don&#8217;t get paid for that; they have perceived an institutionalized injustice and are willing to go to war to fix it.</p></div>
 </noscript>
 
   </div>
@@ -6716,7 +6639,7 @@ var disableWinnerPopup;
       jQuery("#collapse" +id).show();
       jQuery.ajax({
         url: "/gp/product/utility/ajax/impression-tracking.html",
-        data: {a: "B00957T6X6", ref: "dp_pd_showmore_e"}
+        data: {a: "B00HVJB4VM", ref: "dp_pd_showmore_e"}
       });
     });
   }
@@ -6731,7 +6654,7 @@ var disableWinnerPopup;
       jQuery("#expand" +id).show();
       jQuery.ajax({
         url: "/gp/product/utility/ajax/impression-tracking.html",
-        data: {a: "B00957T6X6", ref: "dp_pd_showless_e"}
+        data: {a: "B00HVJB4VM", ref: "dp_pd_showless_e"}
       });
     });
   }
@@ -7084,7 +7007,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 <li>
-  <div class="new-faceout p13nimp"  id="purchase_B007VQVO60" data-asin="B007VQVO60" data-ref="pd_sim_kstore_1">
+  <div class="new-faceout p13nimp"  id="purchase_B000VKVZR6" data-asin="B000VKVZR6" data-ref="pd_sim_kstore_1">
     
 
 
@@ -7092,10 +7015,10 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="/The-Marechal-Chronicles-Volumes-Fantasy-ebook/dp/B007VQVO60"  class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51Mf5yp3dIL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="/The-Money-Culture-Michael-Lewis-ebook/dp/B000VKVZR6"  class="sim-img-title" > <div class="product-image">
+                       <img src="http://ecx.images-amazon.com/images/I/51VPIoz2mdL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
-                    <span title="The Marechal Chronicles: Volumes I, II, and III (An Erotic Fantasy Tale)">The Marechal Chronicles: Volumes I, II, and &#133;</span> </a>
+                    The Money Culture </a>
 
     <div class="byline">
         <span class="carat">&#8250</span> 
@@ -7109,16 +7032,16 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Aimélie-Aames/e/B006LYRA52">Aimélie Aames</a>
+<a href="http://www.amazon.com/Michael-Lewis/e/B000APZ33E">Michael Lewis</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B007VQVO60"><a href="http://www.amazon.com/The-Marechal-Chronicles-Volumes-Fantasy-ebook/product-reviews/B007VQVO60?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="auiTestSprite s_star_3_5 " title="3.5 out of 5 stars" ><span>3.5 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Marechal-Chronicles-Volumes-Fantasy-ebook/product-reviews/B007VQVO60?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">80</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B000VKVZR6"><a href="http://www.amazon.com/The-Money-Culture-Michael-Lewis-ebook/product-reviews/B000VKVZR6?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9"><span class="auiTestSprite s_star_3_5 " title="3.7 out of 5 stars" ><span>3.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Money-Culture-Michael-Lewis-ebook/product-reviews/B000VKVZR6?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9">37</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
     </div>
     <div class="pricetext">
-        <span class="price" style="margin-right:5px">$4.99</span>
+        <span class="price" style="margin-right:5px">$8.00</span>
     </div>
   </div>
 </li>
@@ -7151,7 +7074,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 <li>
-  <div class="new-faceout p13nimp"  id="purchase_B00BW3AY64" data-asin="B00BW3AY64" data-ref="pd_sim_kstore_2">
+  <div class="new-faceout p13nimp"  id="purchase_B000RH0CA4" data-asin="B000RH0CA4" data-ref="pd_sim_kstore_bsb_2">
     
 
 
@@ -7159,10 +7082,10 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="/The-Divergent-Series-Complete-Collection-ebook/dp/B00BW3AY64"  class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51qyyXnGEmL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="/The-New-Thing-Silicon-Valley-ebook/dp/B000RH0CA4"  class="sim-img-title" > <div class="product-image">
+                       <img src="http://ecx.images-amazon.com/images/I/41IZXFHafnL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
-                    The Divergent Series Complete Collection </a>
+                    The New New Thing: A Silicon Valley Story </a>
 
     <div class="byline">
         <span class="carat">&#8250</span> 
@@ -7175,16 +7098,16 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Veronica-Roth/e/B004FX672S">Veronica Roth</a>
+<a href="http://www.amazon.com/Michael-Lewis/e/B000APZ33E">Michael Lewis</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00BW3AY64"><a href="http://www.amazon.com/The-Divergent-Series-Complete-Collection-ebook/product-reviews/B00BW3AY64?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="auiTestSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Divergent-Series-Complete-Collection-ebook/product-reviews/B00BW3AY64?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">998</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B000RH0CA4"><a href="http://www.amazon.com/The-New-Thing-Silicon-Valley-ebook/product-reviews/B000RH0CA4?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9"><span class="auiTestSprite s_star_4_0 " title="3.8 out of 5 stars" ><span>3.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-New-Thing-Silicon-Valley-ebook/product-reviews/B000RH0CA4?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9">237</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
     </div>
     <div class="pricetext">
-        <span class="price" style="margin-right:5px">$14.99</span>
+        <span class="price" style="margin-right:5px">$8.00</span>
     </div>
   </div>
 </li>
@@ -7205,19 +7128,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <li>
-  <div class="new-faceout p13nimp"  id="purchase_B000QCS8TW" data-asin="B000QCS8TW" data-ref="pd_sim_kstore_3">
+  <div class="new-faceout p13nimp"  id="purchase_B00IN73B9E" data-asin="B00IN73B9E" data-ref="pd_sim_kstore_3">
     
 
 
@@ -7225,92 +7137,13 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW"  class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51yMq34sQEL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="/Stress-Test-Reflections-Financial-Crises-ebook/dp/B00IN73B9E"  class="sim-img-title" > <div class="product-image">
+                       <img src="http://ecx.images-amazon.com/images/I/51nHlsVlSSL._SL500_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
-                    <span title="A Game of Thrones: A Song of Ice and Fire: Book One">A Game of Thrones: A Song of Ice and Fire: &#133;</span> </a>
+                    Stress Test: Reflections on Financial Crises </a>
 
     <div class="byline">
-        <span class="carat">&#8250</span> 
-
-
-
-
-
-
-
-
-
-<a href="http://www.amazon.com/George-R.R.-Martin/e/B000APIGH4">George R.R. Martin</a>
-    </div>
-    <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B000QCS8TW"><a href="http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/product-reviews/B000QCS8TW?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="auiTestSprite s_star_4_5 " title="4.4 out of 5 stars" ><span>4.4 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/product-reviews/B000QCS8TW?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">5,097</a>)</span></span>
-    </div>
-    <div class="binding-platform">
-        Kindle Edition
-    </div>
-    <div class="pricetext">
-        <span class="price" style="margin-right:5px">$4.99</span>
-    </div>
-  </div>
-</li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-  <div class="new-faceout p13nimp"  id="purchase_B004XJRQUQ" data-asin="B004XJRQUQ" data-ref="pd_sim_kstore_4">
-    
-
-
-
-
-
-
-<a href="/Hunger-Games-Trilogy-Suzanne-Collins-ebook/dp/B004XJRQUQ"  class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/41B9tVfXdJL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
-                    </div>
-                    The Hunger Games Trilogy </a>
-
-    <div class="byline">
-        <span class="carat">&#8250</span> 
-
-
-
-
-
-
-
-
-
-<a href="http://www.amazon.com/Suzanne-Collins/e/B001H6V7I0">Suzanne Collins</a>
-    </div>
-    <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B004XJRQUQ"><a href="http://www.amazon.com/Hunger-Games-Trilogy-Suzanne-Collins-ebook/product-reviews/B004XJRQUQ?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="auiTestSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Hunger-Games-Trilogy-Suzanne-Collins-ebook/product-reviews/B004XJRQUQ?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">7,208</a>)</span></span>
+        Timothy F. Geithner
     </div>
     <div class="binding-platform">
         Kindle Edition
@@ -7349,7 +7182,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 <li>
-  <div class="new-faceout p13nimp"  id="purchase_B004JN1D2I" data-asin="B004JN1D2I" data-ref="pd_sim_kstore_5">
+  <div class="new-faceout p13nimp"  id="purchase_B003LSTK8G" data-asin="B003LSTK8G" data-ref="pd_sim_kstore_bsb_4">
     
 
 
@@ -7357,10 +7190,10 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="/Game-Thrones-4-Book-Bundle-Series-ebook/dp/B004JN1D2I"  class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/61BLas1Q35L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="/The-Big-Short-Doomsday-Machine-ebook/dp/B003LSTK8G"  class="sim-img-title" > <div class="product-image">
+                       <img src="http://ecx.images-amazon.com/images/I/41bHaJ00D%2BL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
-                    <span title="A Game of Thrones 4-Book Bundle: A Song of Ice and Fire Series: A Game of Thrones, A Clash of Kings, A Storm of Swords, and A Feast for Crows">A Game of Thrones 4-Book Bundle: A &#133;</span> </a>
+                    The Big Short: Inside the Doomsday Machine </a>
 
     <div class="byline">
         <span class="carat">&#8250</span> 
@@ -7373,16 +7206,16 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/George-R.R.-Martin/e/B000APIGH4">George R.R. Martin</a>
+<a href="http://www.amazon.com/Michael-Lewis/e/B000APZ33E">Michael Lewis</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B004JN1D2I"><a href="http://www.amazon.com/Game-Thrones-4-Book-Bundle-Series-ebook/product-reviews/B004JN1D2I?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="auiTestSprite s_star_4_5 " title="4.4 out of 5 stars" ><span>4.4 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Game-Thrones-4-Book-Bundle-Series-ebook/product-reviews/B004JN1D2I?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">3,616</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B003LSTK8G"><a href="http://www.amazon.com/The-Big-Short-Doomsday-Machine-ebook/product-reviews/B003LSTK8G?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9"><span class="auiTestSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Big-Short-Doomsday-Machine-ebook/product-reviews/B003LSTK8G?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9">1,078</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
     </div>
     <div class="pricetext">
-        <span class="price" style="margin-right:5px">$17.50</span>
+        <span class="price" style="margin-right:5px">$8.00</span>
     </div>
   </div>
 </li>
@@ -7415,7 +7248,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 <li>
-  <div class="new-faceout p13nimp"  id="purchase_B007978OY6" data-asin="B007978OY6" data-ref="pd_sim_kstore_6">
+  <div class="new-faceout p13nimp"  id="purchase_B003E20ZRY" data-asin="B003E20ZRY" data-ref="pd_sim_kstore_bsb_5">
     
 
 
@@ -7423,10 +7256,10 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="/The-Lord-Rings-One-Volume-ebook/dp/B007978OY6"  class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51d4G0sFMzL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="/Liars-Poker-Through-Wreckage-Paperback-ebook/dp/B003E20ZRY"  class="sim-img-title" > <div class="product-image">
+                       <img src="http://ecx.images-amazon.com/images/I/51tKan6mgpL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
-                    The Lord of the Rings: One Volume </a>
+                    <span title="Liar&#39;s Poker: Rising Through the Wreckage on Wall Street (Norton Paperback)">Liar&#39;s Poker: Rising Through the Wreckage &#133;</span> </a>
 
     <div class="byline">
         <span class="carat">&#8250</span> 
@@ -7439,16 +7272,82 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/J.R.R.-Tolkien/e/B000ARC6KA">J.R.R. Tolkien</a>
+<a href="http://www.amazon.com/Michael-Lewis/e/B000APZ33E">Michael Lewis</a>
     </div>
     <div class="rating-price">
-        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B007978OY6"><a href="http://www.amazon.com/The-Lord-Rings-One-Volume-ebook/product-reviews/B007978OY6?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="auiTestSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Lord-Rings-One-Volume-ebook/product-reviews/B007978OY6?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">4,762</a>)</span></span>
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B003E20ZRY"><a href="http://www.amazon.com/Liars-Poker-Through-Wreckage-Paperback-ebook/product-reviews/B003E20ZRY?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9"><span class="auiTestSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Liars-Poker-Through-Wreckage-Paperback-ebook/product-reviews/B003E20ZRY?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9">498</a>)</span></span>
     </div>
     <div class="binding-platform">
         Kindle Edition
     </div>
     <div class="pricetext">
-        <span class="price" style="margin-right:5px">$10.99</span>
+        <span class="price" style="margin-right:5px">$8.00</span>
+    </div>
+  </div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <div class="new-faceout p13nimp"  id="purchase_B00DQ845EA" data-asin="B00DQ845EA" data-ref="pd_sim_kstore_bsb_6">
+    
+
+
+
+
+
+
+<a href="/The-Hard-Thing-About-Things-ebook/dp/B00DQ845EA"  class="sim-img-title" > <div class="product-image">
+                       <img src="http://ecx.images-amazon.com/images/I/51yomjzxUDL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+                    </div>
+                    <span title="The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers">The Hard Thing About Hard Things: Building &#133;</span> </a>
+
+    <div class="byline">
+        <span class="carat">&#8250</span> 
+
+
+
+
+
+
+
+
+
+<a href="http://www.amazon.com/Ben-Horowitz/e/B00HALQ722">Ben Horowitz</a>
+    </div>
+    <div class="rating-price">
+        <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00DQ845EA"><a href="http://www.amazon.com/The-Hard-Thing-About-Things-ebook/product-reviews/B00DQ845EA?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9"><span class="auiTestSprite s_star_5_0 " title="4.8 out of 5 stars" ><span>4.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Hard-Thing-About-Things-ebook/product-reviews/B00DQ845EA?ie=UTF8&refRID=17JJBBQEYZ51RTX0V1B9">80</a>)</span></span>
+    </div>
+    <div class="binding-platform">
+        Kindle Edition
+    </div>
+    <div class="pricetext">
+        <span class="price" style="margin-right:5px">$14.99</span>
     </div>
   </div>
 </li>
@@ -7462,7 +7361,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<div id="purchaseSimsData" class="sims-data" style="display:none" data-baseAsin="B00957T6X6" data-featureId="pd_sim" data-pageId="B00957T6X6" data-pageRequestId="1BHXNQ8EC0BR1NE7XHY9" data-reftag="pd_sim_kstore" data-vt="B00957T6X6" data-wdg="ebooks_display_on_website" data-widgetName="purchase">B007VQVO60,B00BW3AY64,B000QCS8TW,B004XJRQUQ,B004JN1D2I,B007978OY6,B0079KT81G,B00C448DL8,B003G4W49C,B004UI0NPU,B007978PGI,B00CVMHCJW,B004J4WM7M,B002QCJO0M,B00CFRGIEI,B00CCOO1LG,B00IK5TPBC,B000JMKQX0,B00B7NPRY8,B00DG261BG,B00HFE668Y,B004W0HZN4,B00AHP5NY6,B004H1TQBW,B003XVYLDU,B00FJ301X4,B000FC1HBY,B004G606K8,B000FC0Y0Y,B00CCOO1HA,B0088P0ONW,B00F8FG6HI,B00GNCVKGC,B00GU3ATPM,B004TO5KEE,B009F2BA6C,B009G3ZIO0,B00DG26170,B002GYVWAK,B007978P18,B0051AMYTO,B007978PKY,B0011UJM48,B0067AC5KA,B003VQQG8K,B003L77USE,B006ICB68O,B00CVS2J80,B00B6TZGC6,B004EYTK2C,B007QXWCQE,B005XR2H92,B0037KN05C,B009C9C77E,B00EN6LJ2U,B005N8Y4YC,B000O76ON6,B00H1UC4T2,B002DOSBMK,B005GG0MTC,B0072NWJ3Y,B00BFFY6T0</div>
+<div id="purchaseSimsData" class="sims-data" style="display:none" data-baseAsin="B00HVJB4VM" data-featureId="pd_sim" data-pageId="B00HVJB4VM" data-pageRequestId="17JJBBQEYZ51RTX0V1B9" data-reftag="pd_sim_kstore" data-vt="B00HVJB4VM" data-wdg="ebooks_display_on_website" data-widgetName="purchase">B000VKVZR6,B000RH0CA4,B00IN73B9E,B003LSTK8G,B003E20ZRY,B00DQ845EA,B005CRQ2OE,B000RH0C9A,B00CO7GH54,B00I2WNYJW,B00ALBR6JG,B00DPM7ZH6,B006OFHLG6,B00EGWE10S,B000YMDQRS,B00F8F7MJO,B004TSBWYC,B00G1SD7IC,B00G8ELTCK,B00GQ6FOBC,B00F8F0JNU,B00261OOWQ,B00EBRUB02,B00EGJ34BS,B00GL3PZ0K,B008TRU7PE,B00F1W0D90,B00FIN0UT0,B00J3SBHC0,B00HK0DAO6,B00FQUDUKG,B00DMCV624,B00ERQA2K6,B000FC0WP6,B008UYKYZO,B00FUZQYBO,B00F1W0DKE,B00DMCJOY6,B00D97HPQI,B00F8GKG5U,B0035IID08,B0061Q688A,B003CIQ57E,B00H0UT8T2,B00I8KEDO8,B000VWM0MI,B00FCQW7NK,B00HBQWGXK,B00BW54XVO,B00DMCW14G,B00DMCPQUW,B00J351PXE,B00EGJ321U,B00DPM7ZP8,B00IJJUIMY,B008EKORIY,B00DPM7YZY,B007X5ZE4W,B00DX5X7Y0,B00FOPN6VQ,B004IK9CAM,B00BAXFAOW,B00GU1JHIY,B00EHMFC78,B00F1W0DYA,B000FC10QG,B00C5R7CHK,B00EGMQJ8U,B009K6DLAQ,B00IRFNFKW,B00HDSQR68,B00G2ANELO,B00C1N5W84,B0061NT61Y,B00EX4E258,B00C5R71U8,B005CQAJ80,B00GLS4XSA,B00DGZKYIE,B00DPM909C,B004AP9TQM,B00GC53AG8,B008J2AEY8,B00DB3A4VS,B0036S4B2G,B00IHGVPHQ,B00DB361N8,B00F1RE1MK,B007V65R54,B00GMSUUWM,B00AEBEVTQ,B00DPM7ZZS,B006X50OPW,B00GWSXX26,B000FC1KZC,B004H4XCXC,B00DTDFTGU,B000W8HC8I</div>
 
 
 
@@ -7474,7 +7373,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<div style="display:none;" class="p13n-session"  data-marketplaceId="ATVPDKIKX0DER" data-mkt="US" data-pageId="B00957T6X6" data-requestId="1BHXNQ8EC0BR1NE7XHY9" data-session="000-0000000-0000000"></div>
+<div style="display:none;" class="p13n-session"  data-marketplaceId="ATVPDKIKX0DER" data-mkt="US" data-pageId="B00HVJB4VM" data-requestId="17JJBBQEYZ51RTX0V1B9" data-session="000-0000000-0000000"></div>
 
 
 
@@ -7537,7 +7436,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
     
        <h3 class="productDescriptionSource">Review</h3>
        <div class="productDescriptionWrapper">
-       <b>Praise for George R. R. Martin and A Song of Ice and Fire</b><br> &#160;<br> &ldquo;The only fantasy series I&rsquo;d put on a level with J.R.R. Tolkien&rsquo;s The Lord of the Rings . . . It&rsquo;s a fantasy series for hip, smart people, even those who don&rsquo;t read fantasy.&rdquo;&mdash;<i>Chicago Tribune</i><br> &#160;<br> &ldquo;Martin amply fulfills the first volume&rsquo;s promise and continues what seems destined to be one of the best fantasy series ever written.&rdquo;&mdash;<i>The Denver Post, </i>on <i>A Clash of Kings</i><br> &#160;<br> &ldquo;Martin has produced&mdash;is producing, since the series isn&rsquo;t over&mdash;the great fantasy epic of our era. It&rsquo;s an epic for a more profane, more jaded, more ambivalent age than the one Tolkien lived in.&rdquo;&mdash;Lev Grossman, <i>Time</i><br> &#160;<br> &ldquo;Addictive . . . George R. R. Martin has created the unlikely genre of the realpolitik fantasy novel.&rdquo;&mdash;<i>Rolling Stone, </i>on <i>A Feast for Crows</i><br> &#160;<br> &ldquo;Epic fantasy as it should be written: passionate, compelling, convincingly detailed and thoroughly imagined.&rdquo;&mdash;<i>The Washington Post, </i>on <i>A Dance with Dragons</i><br> <i>&#160;</i><br> &ldquo;I always expect the best from George R. R. Martin, and he always delivers.&rdquo;&mdash;Robert Jordan
+       In the hands of Michael Lewis, anything is possible. Sunday Times Lewis is the finest storyteller of our generation -- Malcolm Gladwell
       
       <div class="emptyClear"> </div>
       </div>
@@ -7545,7 +7444,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
     
        <h3 class="productDescriptionSource">About the Author</h3>
        <div class="productDescriptionWrapper">
-       <b>George R. R. Martin</b> is the #1 <i>New York Times</i> bestselling author of many novels, including the acclaimed series A Song of Ice and Fire&mdash;<i>A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, </i>and<i> A Dance with Dragons</i>. As a writer-producer, he has worked on <i>The Twilight Zone, Beauty and the Beast, </i>and various feature films and pilots that were never made. He lives with the lovely Parris in Santa Fe, New Mexico.
+       Michael Lewis is the author of<i> Boomerang</i>, <i>The Big Short</i>, <i>Panic!, Liar&#8217;s Poker, The New New Thing, Moneyball, The Blind Side, </i>and <i>Home Game</i>, among other works. He lives in Berkeley, California.<br /><br /><B>Dylan Baker's</B> films include <I>Happiness, Along Came A Spider,</I> and <I>13 Days.</I> He starred on the TV series <I>Feds</I> and <I>Murder One.</I> Mr. Baker's theater credits include <I>La Bete</I> (Tony & Drama Desk nominations), <I>Eastern Standard</I> (Theatre World Award), and <I>Not About Heroes</I> (Obie Award).
       
       <div class="emptyClear"> </div>
       </div>
@@ -7655,7 +7554,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function () {
 
 
 
-<li><b>File Size:</b> 21198 KB</li>
+<li><b>File Size:</b> 620 KB</li>
 
 
 
@@ -7663,7 +7562,8 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function () {
 
 
 
-<li><b>Print Length:</b> 4272 pages</li>
+<li><b>Print Length:</b> 289 pages</li>
+<li><b>Page Numbers Source ISBN:</b> 0393244660</li>
 
 
 
@@ -7675,7 +7575,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function () {
 
 
 
-<li><b>Publisher:</b> Bantam; Slp edition (September 10, 2012)</li>
+<li><b>Publisher:</b> W. W. Norton & Company; 1 edition (March 31, 2014)</li>
 
 
 
@@ -7695,7 +7595,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function () {
 
 
 <li id="sold-by-merchant">
-  <b>Sold by:</b>&nbsp;Random House LLC
+  <b>Sold by:</b>&nbsp;Amazon Digital Services,  Inc.
 </li>
 
 
@@ -7711,7 +7611,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function () {
 
 
 
-<li><b>ASIN:</b> B00957T6X6</li>
+<li><b>ASIN:</b> B00HVJB4VM</li>
 
 
 
@@ -7758,7 +7658,7 @@ amznJQ.onReady('popover', function() {
   <div class='xrayBullet xrayInfo'>
     <div>
       <a href='#' id='xrayPop' class='kicsPopover'>
-        <span>Not Enabled</span>
+        <span>Enabled</span>
         <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif" border="0" />
       </a>
     </div>
@@ -7771,7 +7671,7 @@ amznJQ.onReady('popover', function() {
     showOnHover: true,
     showCloseButton: false,
     width: 256,
-    literalContent: '<div class="kicsPopover">' + "X-Ray is not available for this item" + '</div>',
+    literalContent: '<div class="kicsPopover">' + "X-Ray is available on the latest Kindle E-readers, Kindle Fire tablets, and the Kindle iOS app." + '</div>',
     openEventInclude:"CLICK_TRIGGER"
     });
 });
@@ -7825,7 +7725,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-#109 Paid in Kindle Store (<a href="http://www.amazon.com/gp/bestsellers/digital-text">See Top 100 Paid in Kindle Store</a>)
+#1 Paid in Kindle Store (<a href="http://www.amazon.com/gp/bestsellers/digital-text">See Top 100 Paid in Kindle Store</a>)
   
 
 
@@ -7834,10 +7734,6 @@ amznJQ.onReady('popover', function() {
 
 
  
-
-
-
-
 
 
 
@@ -7934,15 +7830,15 @@ amznJQ.onReady('popover', function() {
 <ul class="zg_hrsr">
     <li class="zg_hrsr_item">
     <span class="zg_hrsr_rank">#1</span> 
-    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/25">Science Fiction & Fantasy</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/16190">Fantasy</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/16197">Epic</a></b></span>
+    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/9">History</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/6343226011">Modern (16th-21st Centuries)</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/6343232011">21st Century</a></b></span>
     </li>
     <li class="zg_hrsr_item">
     <span class="zg_hrsr_rank">#1</span> 
-    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157028011">Literature & Fiction</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157054011">Genre Fiction</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/157068011">Movie Tie-Ins</a></b></span>
+    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/3">Business & Money</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/2581">Economics</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/2587">Economic Conditions</a></b></span>
     </li>
     <li class="zg_hrsr_item">
     <span class="zg_hrsr_rank">#1</span> 
-    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/668010011">Science Fiction & Fantasy</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/158576011">Fantasy</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/6809433011">TV, Movie, Video Game Adaptations</a></b></span>
+    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/157325011">Nonfiction</a></b></span>
     </li>
 </ul>
 
@@ -7968,7 +7864,7 @@ amznJQ.onReady('popover', function() {
             
             
             
-			<P><div class="bucket">&nbsp;Would you like to <b><a href="https://www.amazon.com/gp/gfix/imageCorrection.html?ie=UTF8&ASIN=B00957T6X6&merchantID=A1RY3N9HW34WKM&storeID=digital-text">give feedback on images</a></b>?</div></P>
+			<P><div class="bucket">&nbsp;Would you like to <b><a href="https://www.amazon.com/gp/gfix/imageCorrection.html?ie=UTF8&ASIN=B00HVJB4VM&merchantID=A3T7DQBB0CKEM6&storeID=digital-text">give feedback on images</a></b>?</div></P>
 
 
 
@@ -8140,96 +8036,6 @@ amznJQ.onReady('popover', function() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
   
   
@@ -8265,14 +8071,14 @@ amznJQ.onReady('popover', function() {
 
 
 
-<div id="acr-dpReviewsSummaryWithQuotes-B00957T6X6" class="txtsmall">
-  <div class="fl acrStars"><span class="swSprite s_starBig_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span>
+<div id="acr-dpReviewsSummaryWithQuotes-B00HVJB4VM" class="txtsmall">
+  <div class="fl acrStars"><span class="swSprite s_starBig_4_0 " title="3.9 out of 5 stars" ><span>3.9 out of 5 stars</span></span>
 
 
 </div>
-  <div class="fl gl5 mt3 txtnormal acrCount">(<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="noTextDecoration" >1,419</a>)</div>
+  <div class="fl gl5 mt3 txtnormal acrCount">(<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="noTextDecoration" >53</a>)</div>
   <div class="clearboth"></div>
-  <div class="gry txtnormal acrRating">4.6 out of 5 stars</div>
+  <div class="gry txtnormal acrRating">3.9 out of 5 stars</div>
 </div>
 
 
@@ -8324,50 +8130,50 @@ amznJQ.onReady('popover', function() {
 
 
 
-<div id="revHist-dpReviewsSummaryWithQuotes-B00957T6X6" style="font-size: 11px; white-space:no-wrap; line-height:19px;" class="txtsmaller">
-  <div class="fl histoRowfive clearboth" title="77% of reviews have 5 stars" >
-      <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6">
+<div id="revHist-dpReviewsSummaryWithQuotes-B00HVJB4VM" style="font-size: 11px; white-space:no-wrap; line-height:19px;" class="txtsmaller">
+  <div class="fl histoRowfive clearboth" title="58% of reviews have 5 stars" >
+      <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM">
       <div class="histoRating fl gr10 txtnormal">5 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
-      <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:74px; border: 0;"></div>
+      <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:56px; border: 0;"></div>
     </div>
-      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">1,096</div>
+      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">31</div>
       </a>
   </div>
   <div class="fl histoRowfour clearboth" title="11% of reviews have 4 stars" >
-      <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6">
+      <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM">
       <div class="histoRating fl gr10 txtnormal">4 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:11px; border: 0;"></div>
     </div>
-      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">159</div>
+      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">6</div>
       </a>
   </div>
-  <div class="fl histoRowthree clearboth" title="5% of reviews have 3 stars" >
-      <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6">
+  <div class="fl histoRowthree clearboth" title="8% of reviews have 3 stars" >
+      <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM">
       <div class="histoRating fl gr10 txtnormal">3 star</div>
+    <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
+      <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:7px; border: 0;"></div>
+    </div>
+      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">4</div>
+      </a>
+  </div>
+  <div class="fl histoRowtwo clearboth" title="6% of reviews have 2 stars" >
+      <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM">
+      <div class="histoRating fl gr10 txtnormal">2 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:5px; border: 0;"></div>
     </div>
-      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">75</div>
+      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">3</div>
       </a>
   </div>
-  <div class="fl histoRowtwo clearboth" title="2% of reviews have 2 stars" >
-      <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6">
-      <div class="histoRating fl gr10 txtnormal">2 star</div>
-    <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
-      <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:2px; border: 0;"></div>
-    </div>
-      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">32</div>
-      </a>
-  </div>
-  <div class="fl histoRowone clearboth" title="4% of reviews have 1 stars" >
-      <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6">
+  <div class="fl histoRowone clearboth" title="17% of reviews have 1 stars" >
+      <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM">
       <div class="histoRating fl gr10 txtnormal">1 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
-      <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:4px; border: 0;"></div>
+      <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:16px; border: 0;"></div>
     </div>
-      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">57</div>
+      <div class="histoCount fl gl10 ltgry txtnormal" style="text-decoration: none;">9</div>
       </a>
   </div>
 </div>
@@ -8381,8 +8187,8 @@ amznJQ.onReady('popover', function() {
 
 </div>
   <div class='fl mt15 clearboth'>
-    <a id='revSAR' href='http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6' class='txtsmall noTextDecoration'>
-      See all 1,419 customer reviews
+    <a id='revSAR' href='http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM' class='txtsmall noTextDecoration'>
+      See all 53 customer reviews
     </a>
     
     
@@ -8415,20 +8221,20 @@ amznJQ.onReady('popover', function() {
 
 
 
-        <li id="quotes-dpReviewsBucketSummary-B00957T6X6-R30EALX875Z3KL-2-0-54">
+        <li id="quotes-dpReviewsBucketSummary-B00HVJB4VM-R123CBDE9MMCLZ-4-1481-154">
             <div class="advice-quote-div">
-              <a href="http://www.amazon.com/review/R30EALX875Z3KL" title="Read the full review by Valarie">
+              <a href="http://www.amazon.com/review/R123CBDE9MMCLZ" title="Read the full review by S. Yang">
                   <div class="advice-quote-left">&#8220;</div>
-                  Once you finish one book, you can't wait for the 
+                  If you have to play the rigged game to add more riches to your money pile that most human beings will never see in their lifetime, I feel sorry for 
                   <span class="advice-lastword">
-                      next.&nbsp;<span class="advice-quote-right"> &#8221;</span>
+                      you.&nbsp;<span class="advice-quote-right"> &#8221;</span>
                   </span>
               </a>
             </div>
             <span class="advice-byline">
-                <span class="advice-author">Valarie</span>|
+                <span class="advice-author">S. Yang</span>|
                     <span class="advice-reviewer-comment">
-                        316 reviewers made a similar statement
+                        4 reviewers made a similar statement
                     </span>
             </span>
         </li>
@@ -8441,20 +8247,20 @@ amznJQ.onReady('popover', function() {
 
 
 
-        <li id="quotes-dpReviewsBucketSummary-B00957T6X6-R1V0N6TYNRHWWT-2-45-47">
+        <li id="quotes-dpReviewsBucketSummary-B00HVJB4VM-R6K63QR4C205Y-2-0-116">
             <div class="advice-quote-div">
-              <a href="http://www.amazon.com/review/R1V0N6TYNRHWWT" title="Read the full review by cholladolphin">
+              <a href="http://www.amazon.com/review/R6K63QR4C205Y" title="Read the full review by Kim Kavin">
                   <div class="advice-quote-left">&#8220;</div>
-                  Have read the books and watched the HBO 
+                  Michael Lewis, as always, does a great job of telling a story that illuminates an incredibly complex business 
                   <span class="advice-lastword">
-                      series.&nbsp;<span class="advice-quote-right"> &#8221;</span>
+                      issue.&nbsp;<span class="advice-quote-right"> &#8221;</span>
                   </span>
               </a>
             </div>
             <span class="advice-byline">
-                <span class="advice-author">cholladolphin</span>|
+                <span class="advice-author">Kim Kavin</span>|
                     <span class="advice-reviewer-comment">
-                        210 reviewers made a similar statement
+                        3 reviewers made a similar statement
                     </span>
             </span>
         </li>
@@ -8462,25 +8268,20 @@ amznJQ.onReady('popover', function() {
 
 
 
-
-
-
-
-
-        <li id="quotes-dpReviewsBucketSummary-B00957T6X6-R1DY5W0IWVEV2L-2-136-140" class="last">
+        <li id="quotes-dpReviewsBucketSummary-B00HVJB4VM-R27ZU2Z35WF2TS-5-1486-115" class="last">
             <div class="advice-quote-div">
-              <a href="http://www.amazon.com/review/R1DY5W0IWVEV2L" title="Read the full review by Lisa Weegar">
+              <a href="http://www.amazon.com/review/R27ZU2Z35WF2TS" title="Read the full review by Brennan Basnicki">
                   <div class="advice-quote-left">&#8220;</div>
-                  The characters are so well developed, and the fact that such a great story can be told from so many different perspectives is just 
+                  I also am not necessarily for or against HFT, but I take offense to someone who misleads others for personal 
                   <span class="advice-lastword">
-                      amazing!&nbsp;<span class="advice-quote-right"> &#8221;</span>
+                      gain.&nbsp;<span class="advice-quote-right"> &#8221;</span>
                   </span>
               </a>
             </div>
             <span class="advice-byline">
-                <span class="advice-author">Lisa Weegar</span>|
+                <span class="advice-author">Brennan Basnicki</span>|
                     <span class="advice-reviewer-comment">
-                        238 reviewers made a similar statement
+                        1 reviewer made a similar statement
                     </span>
             </span>
         </li>
@@ -8546,19 +8347,19 @@ amznJQ.onReady('popover', function() {
 
 
 
-<div id="rev-dpReviewsMostHelpful-R1OCQIE6SIT6I5" class="reviews" >  <div class="gry txtsmall hlp">906 of 987 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_3_0 " title="3.0 out of 5 stars" ><span>3.0 out of 5 stars</span></span>
+<div id="rev-dpReviewsMostHelpful-R25JX2VB8ON9JL" class="reviews" >  <div class="gry txtsmall hlp">154 of 171 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
 
-<a href="http://www.amazon.com/review/R1OCQIE6SIT6I5" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>Cost-effective, but a stupid idea putting 5 entire novels into one eBook</strong></a><span class="gry valignMiddle">
-
-
-
+<a href="http://www.amazon.com/review/R25JX2VB8ON9JL" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>A Great Wall Street Narrative</strong></a><span class="gry valignMiddle">
 
 
 
 
 
-<span class="inlineblock txtsmall">August 23, 2012</span>
+
+
+
+<span class="inlineblock txtsmall">March 31, 2014</span>
 </span></div>  <div class="mt4 ath"><span class="gr10">
     
 
@@ -8568,11 +8369,13 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A3CGHEE89TRYOK" class="noTextDecoration">Kevin Frey</a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A11ANQM0Q6Z04B" class="noTextDecoration">Bookworm9765</a></span>
 </span>
 
 
-</div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation"><span class="gr3 gry formatKey">Format:</span><span class="formatValue">Kindle Edition</span></span></div>  <div class="mt9 reviewText">
+</div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation"><span class="gr3 gry formatKey">Format:</span><span class="formatValue">Hardcover</span></span></div>  <div class="mt9 reviewText">
+
+
 
 
 
@@ -8580,7 +8383,7 @@ amznJQ.onReady('popover', function() {
 
 
 <div class="drkgry">
-  I wanted to read the Song of Ice and Fire series as an eBook on my iPad, and this set was the most cost-effective means of getting the 5 books, so I bought it. I won't comment on the books themselves at this stage because I'm only 10% of the way through the second book, except to say that I was inspired to buy the novels after watching Seasons 1 and 2 of HBO's Game of Thrones television series.<br /><br />The blurb for this ebook does not tell you that what you will receive (unless it has since been changed) is the content of 5 books packaged into one single eBook file. This has got to be one of the most most bone-headed decisions I have come across in a long while. I see one icon in my kindle reader that encompasses all five books. So I don't see the covers of the individual books as depicted on the paperbacks.<br /><br />Secondly, when you have an ebook that is nearly 5,000 pages long, things like trying to scroll to a particular page is not very accurate, and so on. It also means that if I want the eBook on my iPhone, I have to have the entire 5,000 pages on the phone etc.<br /><br />I realise on the one hand my gripe is not that big a deal, but on the other hand it was very frustrating to expect one thing and receive another. The reality is that the publisher has specifically had to go to the trouble of concatenating these books into one eBook rather than just supplying the ebooks separately as you would get if you bought them separately. And I can think of no good reason for doing this.<br /><br />In the end, I discovered by chance that Amazon allows you to get a refund on your ebooks within 7 days of purchase, so I refunded the combined set and bought the eBooks individually. Yes it cost a little more but at least I now have a more manageable collection.
+  <span class="MHRHead">"Flash Boys" has all the qualities you would expect from Michael Lewis. It's a wonderfully-written set of intertwined narratives that make the primary characters come to life. Lewis is able to do this in a way that is perhaps without equal, especially when the topic is complex. In many ways the book seems more like a novel than a nonfiction book: if you enjoy a good story, you won't be disappointed.<br /><br />The main narrative involves Brad Katsuyama, a trader at the Royal Bank of Canada, a relatively obscure firm that is no where near the top tier when it comes to Wall Street trading. Katsuyama discovers that his trades aren't getting filled as he expects, and he becomes suspicious and goes looking for the problem. He ultimately discovers the world of high frequency trading, and the fact that the stock market is essentially rigged by firms that are able to use their speed advantage to game the system and siphon a little money off nearly every trade.<br /><br />The book is a great read, and gives a pretty cohesive overview of high frequency and algorithmic trading. Lewis focuses almost entirely on the speed advantage from shorter fiber paths, but in fact there are many issues beyond that. For example, artificial intelligence is used to build trading algorithms that read special machine-formatted news feeds and place trades almost instantly. If you enjoy this book, you might also like <a href="http://www.amazon.com/The-Lights-Tunnel-Automation-Accelerating/dp/1448659817">The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future</a>, which looks at the more general impact of computers, algorithms and artificial intelligence on the whole economy and society. We are soon going to face huge issues that go way beyond just Wall Street trading.</span><span class="MHRRest" style="display:none">  Lewis doesn't delve much into these broader impacts, but the book does make the main point clear: Wall Street trading has been taken over by machines that operate at speeds far beyond what a human can possibly comprehend. That will make regulating the markets and avoiding the next financial crisis all the more difficult.</span> <a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="MHRExpandLink readMoreLink">Read more &rsaquo;</a>
 </div>
 
 </div>  <div class="clearboth txtsmall gt9 vtStripe">    <div class="fl cmt">
@@ -8588,12 +8391,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-
-
-
-
-
-<a href="http://www.amazon.com/review/R1OCQIE6SIT6I5" class="noTextDecoration">22 Comments</a>
+<a href="http://www.amazon.com/review/R25JX2VB8ON9JL" class="noTextDecoration">1 Comment</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -8605,25 +8403,25 @@ amznJQ.onReady('popover', function() {
 
 
 
-<a id="R1OCQIE6SIT6I5.2115.Helpful.Reviews"></a>
+<a id="R25JX2VB8ON9JL.2115.Helpful.Reviews"></a>
   <div>
    <div class="votingPrompt drkgry fl mr6"><strong>Was this review helpful to you?</strong></div>
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1OCQIE6SIT6I5/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=1F75DF67683CA5D7B896850A1CF2CAE77962422E&voteAnchorName=R1OCQIE6SIT6I5.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R25JX2VB8ON9JL/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=6EF18E75E45824B8A3E432671056C6E7369098A1&voteAnchorName=R25JX2VB8ON9JL.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a>
 </div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1OCQIE6SIT6I5/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=922FC6E12F86B36B1B8169F276C0BF4776EA1FD2&voteAnchorName=R1OCQIE6SIT6I5.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R25JX2VB8ON9JL/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=D31E97565CE6F653C925BBC905C56AFDBDB28FE9&voteAnchorName=R25JX2VB8ON9JL.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a>
 </div>
   </div>
-  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1OCQIE6SIT6I5/Inappropriate/1?ie=UTF8&target=&token=C0A6F5641FD25E786FFF91FEE656C3D4734EAD2D&voteAnchorName=R1OCQIE6SIT6I5.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
+  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R25JX2VB8ON9JL/Inappropriate/1?ie=UTF8&target=&token=A3522F189BC0A255137BBD5060695C86D0A2FD0E&voteAnchorName=R25JX2VB8ON9JL.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
   <div class="clearboth"></div>
 
 
@@ -8640,18 +8438,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<div id="rev-dpReviewsMostHelpful-R2OXMR8NWDGUPL" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">119 of 130 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<div id="rev-dpReviewsMostHelpful-R123CBDE9MMCLZ" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">19 of 20 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
 
-<a href="http://www.amazon.com/review/R2OXMR8NWDGUPL" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>Great story, e-book bundle okay</strong></a><span class="gry valignMiddle">
-
-
-
+<a href="http://www.amazon.com/review/R123CBDE9MMCLZ" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>A true snapshot in a still evolving financial world</strong></a><span class="gry valignMiddle">
 
 
 
 
-<span class="inlineblock txtsmall">December 9, 2012</span>
+
+
+
+<span class="inlineblock txtsmall">April 2, 2014</span>
 </span></div>  <div class="mt4 ath"><span class="gr10">
 
 
@@ -8660,8 +8458,190 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A32NQAUFD1KODZ" class="noTextDecoration">Amazon Customer</a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A1LOQKBMY3IV8D" class="noTextDecoration">S. Yang</a></span>
 </span>
+
+
+</div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation">  <span class="gr3 gry formatKey">Format:</span><span class="formatValue">Hardcover</span><span class="gl7 gr7 gry">|</span></span><span class="inlineblock avpOrVine" ><span class="orange strong avp">Amazon Verified Purchase</span></span></div>  <div class="mt9 reviewText">
+
+
+
+
+
+
+<div class="drkgry">
+  I retired from the hedge fund world and I can tell you that this book is mostly on target.  For those who deny that HFT (high-frequency trading) is a rigged game, either they are un-informed or disingenuous.<br /><br />It wasn't always like this.  There was a time, when a bid was a bid, and an ask was an ask.  If you liked the ask, you could hit the buy button and have a buy order confirmed instantly.  Likewise, if you liked the bid, you could hit it and have a sale order confirmed instantly.  That instant used to be measured in seconds or less.  Then came along the HFT algo.  All of a sudden, a bid is no longer a firm bid, and an ask is no longer a firm ask.  You can hit the bid, but instead of selling instantly, you now become the ask price, and the bid just got lowered by a penny or more, and the market is moving away from you.  Most of the time, the price move is a head fake - an illusion, trying to get you to trade at a price with "scalping" built-in against you.  If you are willing to stick around, the precise price you want will return and you can have your trade.  But other times when execution really matters, it was all real, the price you were willing to trade at just got shifted permanently right before your eyes and somebody "front-run" you.<br /><br />I decided to retire, partly out of disgust, partly out of my lack of financial ambition.  I learned a while ago, if the first million can't make you happy, that you have to accumulate more, you will never be content.  If you have to play the rigged game to add more riches to your money pile that most human beings will never see in their lifetime, I feel sorry for you.  Life is too short for me to play that game.
+</div>
+
+</div>  <div class="clearboth txtsmall gt9 vtStripe">    <div class="fl cmt">
+
+
+
+
+
+
+
+
+
+<a href="http://www.amazon.com/review/R123CBDE9MMCLZ" class="noTextDecoration">4 Comments</a>
+ <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
+
+
+
+
+
+
+
+
+
+<a id="R123CBDE9MMCLZ.2115.Helpful.Reviews"></a>
+  <div>
+   <div class="votingPrompt drkgry fl mr6"><strong>Was this review helpful to you?</strong></div>
+   <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
+
+
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R123CBDE9MMCLZ/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=58C0F133AEDECD13269EE2B46660470BC88DB481&voteAnchorName=R123CBDE9MMCLZ.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
+  <span class="btn-small txtsmall">Yes</span>
+</a>
+</div>
+   <div class="fl mtNegative3 votingButtonReviews noButton" >
+
+
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R123CBDE9MMCLZ/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=55716A7F277B7F8ADD53D2EB3856BC56B17DAA6C&voteAnchorName=R123CBDE9MMCLZ.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
+  <span class="btn-small txtsmall">No</span>
+</a>
+</div>
+  </div>
+  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R123CBDE9MMCLZ/Inappropriate/1?ie=UTF8&target=&token=43395688626542E40F36B9FF8198EE2EA1479B26&voteAnchorName=R123CBDE9MMCLZ.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
+  <div class="clearboth"></div>
+
+
+
+</div>  </div></div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="rev-dpReviewsMostHelpful-RD4QECXCLLHPO" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">43 of 50 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+
+
+<a href="http://www.amazon.com/review/RD4QECXCLLHPO" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>An exciting non-fiction account of Wall Street and the wolf hunters. You won't be able to put it down.</strong></a><span class="gry valignMiddle">
+
+
+
+
+
+
+
+<span class="inlineblock txtsmall">April 1, 2014</span>
+</span></div>  <div class="mt4 ath"><span class="gr10">
+
+
+
+
+
+
+
+<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A1JIPU3E9NKNAN" class="noTextDecoration">Benjamin E. Rosenberg</a></span>
+</span>
+
+
+</div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation">  <span class="gr3 gry formatKey">Format:</span><span class="formatValue">Hardcover</span><span class="gl7 gr7 gry">|</span></span><span class="inlineblock avpOrVine" ><span class="orange strong avp">Amazon Verified Purchase</span></span></div>  <div class="mt9 reviewText">
+
+
+
+
+
+
+<div class="drkgry">
+  That the book is non-fiction but reads like fiction (meaning you just can't put it down) is due to Michael Lewis and his writing style. I happen to be a Computer Engineer and the technology is both impressive and mind numbingly simple. Lewis explains frontrunning and how it works. Clearly the book will fan some flames and get people excited. It should. We're seeming a modern real-time version of the &#34;The Sting&#34; being performed. The bad guys don't have any of the style of Robert Shaw. Brad and the crew who worked at RBC could have kept quiet and made a ton of money. They were already very nicely compensated. That they took the risks they did to expose the system of stock trading and high frequency trading is really quite amazing.<br /><br />I highly recommend the book.
+</div>
+
+</div>  <div class="clearboth txtsmall gt9 vtStripe">    <div class="fl cmt">
+
+
+
+
+
+
+
+
+
+<a href="http://www.amazon.com/review/RD4QECXCLLHPO" class="noTextDecoration">3 Comments</a>
+ <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
+
+
+
+
+
+
+
+
+
+<a id="RD4QECXCLLHPO.2115.Helpful.Reviews"></a>
+  <div>
+   <div class="votingPrompt drkgry fl mr6"><strong>Was this review helpful to you?</strong></div>
+   <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
+
+
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RD4QECXCLLHPO/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=5FCD191AC3528850011358119F421307CB83F238&voteAnchorName=RD4QECXCLLHPO.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
+  <span class="btn-small txtsmall">Yes</span>
+</a>
+</div>
+   <div class="fl mtNegative3 votingButtonReviews noButton" >
+
+
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RD4QECXCLLHPO/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=A504472CAA65D4C0EC916B6E5C633ECD5D82E85D&voteAnchorName=RD4QECXCLLHPO.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
+  <span class="btn-small txtsmall">No</span>
+</a>
+</div>
+  </div>
+  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RD4QECXCLLHPO/Inappropriate/1?ie=UTF8&target=&token=8BE02385F9EE936B138A2AF6C0B233A7E41BCCC3&voteAnchorName=RD4QECXCLLHPO.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
+  <div class="clearboth"></div>
+
+
+
+</div>  </div></div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="rev-dpReviewsMostHelpful-R1Z520W9646OED" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">47 of 63 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+
+
+<a href="http://www.amazon.com/review/R1Z520W9646OED" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>For the confused and innocent</strong></a><span class="gry valignMiddle">
+
+
+
+
+
+
+
+<span class="inlineblock txtsmall">March 31, 2014</span>
+</span></div>  <div class="mt4 ath"><span class="gr10">
+
+
+
+
+
+
+
+<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A8710RWTFG3IY" class="noTextDecoration">Amelia Gremelspacher</a></span>
+</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#tr" class="noTextDecoration" ><span class='c7yBadge TR-5'>TOP 500 REVIEWER</span></a></span>
 
 
 </div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation">  <span class="gr3 gry formatKey">Format:</span><span class="formatValue">Kindle Edition</span><span class="gl7 gr7 gry">|</span></span><span class="inlineblock avpOrVine" ><span class="orange strong avp">Amazon Verified Purchase</span></span></div>  <div class="mt9 reviewText">
@@ -8672,7 +8652,7 @@ amznJQ.onReady('popover', function() {
 
 
 <div class="drkgry">
-  <span class="MHRHead">This series by George RR Martin is one of the best fantasy series I have read in a long time. He has a compelling writing style, and his decision to write about dynasties instead of a certain group of heroes makes this much more interesting than the standard fantasy plot. His characters feel real, the descriptions of their surroundings are rich enough that you can picture them in your mind perfectly, and the plot is consistent and moving. The five stars are for his writing.<br /><br />The e-book bundle I would have rated three stars. I think the e-books are a bit overpriced, but the format is okay. All five books are in one document, but you can move easily between them. For some reason this bundle started on the title page of GoT, and I only found the table of content with the links to the single books when I accidentally moved a page back. I almost returned it, thinking there were no links to the single books, which would have been a major annoyance (I wonder if the same thing happened to the reviewers who gave this only one star because of formatting?). Also, only GoT has real page numbers (misleading advertisement!), which means if you are reading one of the later books, if you jump to page 100, you will be back in GoT. Also, if you go to table of content, you will be on the page with links to each book, so it takes you a few clicks to get to the toc of the book you are currently reading. I'm rarely using this feature, but I can understand it would annoy those who do. It would be nice if the titles of the chapters were in the table of content, that would make it easier to jump back to a certain chapter, or follow the viewpoint of a single character. Like in many other e-books I think the publisher does not see the advantage of the format, and many improvements (e.g.</span><span class="MHRRest" style="display:none"> X-Ray) which would make for an easier read were not done. But since I prefer this to reaching my luggage limit with books, I have to live with it. I also think e-books, which have no paper, printing, storage or shipping cost, should never cost more than the paper copy (the paperback version of this bundle was $7 cheaper when I bought the e-book). I realize the publisher set the price, which is a stupid policy. E-book prices should be flexible and subject to discounts just as paper copies are, the seller should set the price (and pay the publisher just as with paper books). Hopefully, e-book quality and prices will improve in the next years.</span> <a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="MHRExpandLink readMoreLink">Read more &rsaquo;</a>
+  I would first like to say that this book, while reviewed a couple of times as fiction, in fact is true.  The story of trades depending on the speed of data transfer less than a fraction of a blink of an eye can seem surreal.  And of course those people who use this to their advantage preferred it that way.  &#34;Transparency was their enemy.&#34;  The most &#34;democratic market had become, in spirit, something more likea private viewing of a stolen art work.&#34;  The story of Brad Katsuyama and his efforts to understand world of high frequency stock trading exchanges and the story of the creation of this network makes fascinating reading.  It is an opportunity to see how the markets took knowledge, arbitrage techniques, and technology to make the actual market invisible to the uninitiated.  Sometimes the unitiated were in powerful positions.<br /><br />There are any number of reasons to read a work of this sort.  Clearly from this title, I am an outsider of vast distance from this knowledge.  But I think it behooves us to gather that information about our world as is accessable.  Granted this book was obsolete before the presses began, but the motivations and the need for secret screening remains.  This book is clearly written and easy to follow even for the previously confused.  I recommend it.
 </div>
 
 </div>  <div class="clearboth txtsmall gt9 vtStripe">    <div class="fl cmt">
@@ -8680,7 +8660,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<a href="http://www.amazon.com/review/R2OXMR8NWDGUPL" class="noTextDecoration">1 Comment</a>
+<a href="http://www.amazon.com/review/R1Z520W9646OED" class="noTextDecoration">Comment</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -8691,293 +8671,25 @@ amznJQ.onReady('popover', function() {
 
 
 
-<a id="R2OXMR8NWDGUPL.2115.Helpful.Reviews"></a>
+<a id="R1Z520W9646OED.2115.Helpful.Reviews"></a>
   <div>
    <div class="votingPrompt drkgry fl mr6"><strong>Was this review helpful to you?</strong></div>
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2OXMR8NWDGUPL/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=4B3A0BD7EEDC380EAF73E9D20CC9A48209F8629A&voteAnchorName=R2OXMR8NWDGUPL.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1Z520W9646OED/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=AE0B5D8FA7A14FA2F9AC139CDC7EBEE7D9BDE6EB&voteAnchorName=R1Z520W9646OED.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a>
 </div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2OXMR8NWDGUPL/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=7AE775C7EB9473EBD6875898540E900C8EAAB583&voteAnchorName=R2OXMR8NWDGUPL.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
+<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1Z520W9646OED/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwSFZKQjRWTQ&token=1DFC41FD9E3D6A9820D6E24B3E9C9BB046FA76D8&voteAnchorName=R1Z520W9646OED.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a>
 </div>
   </div>
-  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2OXMR8NWDGUPL/Inappropriate/1?ie=UTF8&target=&token=258B4C1FCAB9F31199E9DFD796D99264D58C06FC&voteAnchorName=R2OXMR8NWDGUPL.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
-  <div class="clearboth"></div>
-
-
-
-</div>  </div></div>
-
-
-
-
-
-
-
-
-
-
-
-<div id="rev-dpReviewsMostHelpful-R198MI3UW1T1VE" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">89 of 97 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
-
-
-<a href="http://www.amazon.com/review/R198MI3UW1T1VE" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>Issues in Kindle Edition have been CORRECTED</strong></a><span class="gry valignMiddle">
-
-
-
-
-
-
-
-<span class="inlineblock txtsmall">November 9, 2013</span>
-</span></div>  <div class="mt4 ath"><span class="gr10">
-
-
-
-
-
-
-
-<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A1LMUHXVNBLTGZ" class="noTextDecoration">in1ear</a></span>
-</span>
-
-
-</div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation">  <span class="gr3 gry formatKey">Format:</span><span class="formatValue">Kindle Edition</span><span class="gl7 gr7 gry">|</span></span><span class="inlineblock avpOrVine" ><span class="orange strong avp">Amazon Verified Purchase</span></span></div>  <div class="mt9 reviewText">
-
-
-
-
-
-
-<div class="drkgry">
-  Please note date of my review. I am using a Fire HD (previous gen) 16Gb.<br />As of this date the criticisms of the Kindle edition collection (mostly from a year and a half ago) have been corrected. X Ray works perfectly, covers of each individual book can be viewed, The maps can be enlarged by double tapping or expanding the distance of your fingers while touching the screen. and the TOC works perfectly for both individual books and chapters within the books using the GO TO function.I'm not sure when others purchased the collection mentioning the &#34;high&#34; cost but the current price is great and is cheaper than buying separately (either Kindle edition, or paperbacks) I too was introduced to G.O.T. through the HBO series. These books are better.
-</div>
-
-</div>  <div class="clearboth txtsmall gt9 vtStripe">    <div class="fl cmt">
-
-
-
-
-
-
-
-
-
-<a href="http://www.amazon.com/review/R198MI3UW1T1VE" class="noTextDecoration">15 Comments</a>
- <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
-
-
-
-
-
-
-
-
-
-<a id="R198MI3UW1T1VE.2115.Helpful.Reviews"></a>
-  <div>
-   <div class="votingPrompt drkgry fl mr6"><strong>Was this review helpful to you?</strong></div>
-   <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
-
-
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R198MI3UW1T1VE/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=6F0EBB8F65791B423CF5D1A9DD151BA72F782794&voteAnchorName=R198MI3UW1T1VE.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
-  <span class="btn-small txtsmall">Yes</span>
-</a>
-</div>
-   <div class="fl mtNegative3 votingButtonReviews noButton" >
-
-
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R198MI3UW1T1VE/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=B46F13A5ECFA186F32FB76143B533A6C7117C57E&voteAnchorName=R198MI3UW1T1VE.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
-  <span class="btn-small txtsmall">No</span>
-</a>
-</div>
-  </div>
-  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R198MI3UW1T1VE/Inappropriate/1?ie=UTF8&target=&token=9FA95F8980EC0CFFECC993935D0ECF265EC39E61&voteAnchorName=R198MI3UW1T1VE.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
-  <div class="clearboth"></div>
-
-
-
-</div>  </div></div>
-
-
-
-
-
-
-
-
-
-
-
-<div id="rev-dpReviewsMostHelpful-RLQFTC7ZQQ4GZ" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">42 of 47 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_3_0 " title="3.0 out of 5 stars" ><span>3.0 out of 5 stars</span></span>
-
-
-<a href="http://www.amazon.com/review/RLQFTC7ZQQ4GZ" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>Love the books, hate the packaging</strong></a><span class="gry valignMiddle">
-
-
-
-
-
-
-
-<span class="inlineblock txtsmall">January 30, 2013</span>
-</span></div>  <div class="mt4 ath"><span class="gr10">
-
-
-
-
-
-
-
-<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A1AN4DLU2QW2V4" class="noTextDecoration">RKC</a></span>
-</span>
-
-
-</div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation">  <span class="gr3 gry formatKey">Format:</span><span class="formatValue">Kindle Edition</span><span class="gl7 gr7 gry">|</span></span><span class="inlineblock avpOrVine" ><span class="orange strong avp">Amazon Verified Purchase</span></span></div>  <div class="mt9 reviewText">
-
-
-
-
-
-
-<div class="drkgry">
-  My only complaint is that these books come as one single huge file, rather than as five separate ones.  It makes searching and organizing more difficult than it needs to be, and when I eventually purchase the as-yet-unwritten sequels, it will look like I have three books by GRRM rather than seven.
-</div>
-
-</div>  <div class="clearboth txtsmall gt9 vtStripe">    <div class="fl cmt">
-
-
-
-
-<a href="http://www.amazon.com/review/RLQFTC7ZQQ4GZ" class="noTextDecoration">Comment</a>
- <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
-
-
-
-
-
-
-
-
-
-<a id="RLQFTC7ZQQ4GZ.2115.Helpful.Reviews"></a>
-  <div>
-   <div class="votingPrompt drkgry fl mr6"><strong>Was this review helpful to you?</strong></div>
-   <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
-
-
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RLQFTC7ZQQ4GZ/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=1595276FD8E0778280DAAFD4CEF6BB5FED5834F7&voteAnchorName=RLQFTC7ZQQ4GZ.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
-  <span class="btn-small txtsmall">Yes</span>
-</a>
-</div>
-   <div class="fl mtNegative3 votingButtonReviews noButton" >
-
-
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RLQFTC7ZQQ4GZ/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=385A798149F6F8A1CD426E82A670C7BD543510A3&voteAnchorName=RLQFTC7ZQQ4GZ.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
-  <span class="btn-small txtsmall">No</span>
-</a>
-</div>
-  </div>
-  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RLQFTC7ZQQ4GZ/Inappropriate/1?ie=UTF8&target=&token=B8B2136B1E094D999817D1BDDC1D2A027DA7E869&voteAnchorName=RLQFTC7ZQQ4GZ.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
-  <div class="clearboth"></div>
-
-
-
-</div>  </div></div>
-
-
-
-
-
-
-
-
-
-
-
-<div id="rev-dpReviewsMostHelpful-R2EVUQB8QJZ8QD" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">244 of 308 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span class="swSprite s_star_1_0 " title="1.0 out of 5 stars" ><span>1.0 out of 5 stars</span></span>
-
-
-<a href="http://www.amazon.com/review/R2EVUQB8QJZ8QD" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>Besides so expensive, also problems with navigation & NO real page numbers</strong></a><span class="gry valignMiddle">
-
-
-
-
-
-
-
-<span class="inlineblock txtsmall">September 28, 2012</span>
-</span></div>  <div class="mt4 ath"><span class="gr10">
-
-
-
-
-
-
-
-<span class="txtsmall"><span class="gry">By</span> <a href="/gp/pdp/profile/A36DLJKA1VR2SM" class="noTextDecoration">B. H. Smith</a></span>
-</span>
-
-
-</div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation"><span class="gr3 gry formatKey">Format:</span><span class="formatValue">Kindle Edition</span></span></div>  <div class="mt9 reviewText">
-
-
-
-
-
-
-<div class="drkgry">
-  My first review, and unfortunately it's a negative one. Despite the shocking high cost, I bought this set and picked up reading in book 2 from my spot in the physical book (which I'd bought recently from amazon before buying a Kindle). However, despite the advertising, the ebook did not contain real page numbers, and it was a huge pain to find my spot. Also, navigation to the various maps and appendices in the 5 books is cumbersome and poorly organized. For instance, viewing the appendix for book 5 loses my reading place in book 2, since it's "further." I can't zoom in on the maps, either, which is unacceptable. And this combo does not have X-Ray enabled (though the individually-purchased books do), which is essential for a series like this. Going to the Table of Contents takes you to a master table of contents at the beginning of the ebook rather than the TOC for the individual book you're reading, just making it all more cumbersome. I'm perplexed why this page also says the total page numbers are 819 for all 5 books. Finally, after persevering for a few days, I have returned the bundle tonight, very disappointed with amazon. If they fix these problems, deliver as advertised (and reduce the cost), I will probably try it again. Update: once Amazon adds real page numbers - as advertised! - and enables X-Ray, I will buy it today! How can I get this feedback to the publishers??
-</div>
-
-</div>  <div class="clearboth txtsmall gt9 vtStripe">    <div class="fl cmt">
-
-
-
-
-
-
-
-
-
-<a href="http://www.amazon.com/review/R2EVUQB8QJZ8QD" class="noTextDecoration">13 Comments</a>
- <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
-
-
-
-
-
-
-
-
-
-<a id="R2EVUQB8QJZ8QD.2115.Helpful.Reviews"></a>
-  <div>
-   <div class="votingPrompt drkgry fl mr6"><strong>Was this review helpful to you?</strong></div>
-   <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
-
-
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2EVUQB8QJZ8QD/Helpful/1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=0AA625EF088891AE9A302721EDF755100EA162D2&voteAnchorName=R2EVUQB8QJZ8QD.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="Yes">
-  <span class="btn-small txtsmall">Yes</span>
-</a>
-</div>
-   <div class="fl mtNegative3 votingButtonReviews noButton" >
-
-
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2EVUQB8QJZ8QD/Helpful/-1?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjAwOTU3VDZYNg&token=A8399E9E46B159554E6C41E2D6059C1B52B3A241&voteAnchorName=R2EVUQB8QJZ8QD.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="cr-btn btn-sec border-one rounded-standard" title="No">
-  <span class="btn-small txtsmall">No</span>
-</a>
-</div>
-  </div>
-  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2EVUQB8QJZ8QD/Inappropriate/1?ie=UTF8&target=&token=CE43EF2D356E15DEBAD44BFE063DEA6B50051716&voteAnchorName=R2EVUQB8QJZ8QD.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
+  <div class="votingMessage fl mr2"><a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1Z520W9646OED/Inappropriate/1?ie=UTF8&target=&token=0E213AB7E4904D2D6A2C191BB52AD7431D2676D2&voteAnchorName=R1Z520W9646OED.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000"></a></div>
   <div class="clearboth"></div>
 
 
@@ -9006,9 +8718,9 @@ amznJQ.onReady('popover', function() {
 
 <div>
   <b class="h3color txtsmall">&rsaquo;</b>
-  <a id="seeAllReviewsUrl" href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="txtlarge noTextDecoration">
+  <a id="seeAllReviewsUrl" href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="txtlarge noTextDecoration">
     <strong>
-      See all 1,419 customer reviews (newest first)
+      See all 53 customer reviews (newest first)
     </strong>
   </a>
 </div>
@@ -9030,7 +8742,7 @@ amznJQ.onReady('popover', function() {
 
     </div>
     <div class="pr7 mb30" style="width: 305px;" id="revMRLContainer">
-      <div style="padding-bottom: 20px" id="ADPlaceholder"><script type='text/javascript'>var paCusRevAllURL = "http://product-ads-portal.amazon.com/gp/synd/?asin=B00957T6X6&pAsin=&gl=351&sq=&sa=&se=&noo=&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=1BHXNQ8EC0BR1NE7XHY9&ts=1396495991&h=DCA37A0456B2395BDE87CDC5AF003FDEC8C2783E";</script></div>
+      <div style="padding-bottom: 20px" id="ADPlaceholder"><script type='text/javascript'>var paCusRevAllURL = "http://product-ads-portal.amazon.com/gp/synd/?asin=B00HVJB4VM&pAsin=&gl=351&sq=&sa=&se=&noo=&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=17JJBBQEYZ51RTX0V1B9&ts=1396495993&h=AABFB59CB049F81218BA7D74883484D54045F901";</script></div>
       <div>
 
 
@@ -9040,16 +8752,16 @@ amznJQ.onReady('popover', function() {
 <div id='revMRRL'>
 
 
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt14" title="Read the full review by Diane Neman" >  <div id="rev-dpReviewsMostRecent-R4IIE1BZ1IKLY" class="block">    <div class="ttl"><span class="swSprite s_star_4_0 " title="4.0 out of 5 stars" ><span>4.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt14" title="Read the full review by Amazon Customer" >  <div id="rev-dpReviewsMostRecent-R3833LLMDBS12N" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>Loved it</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>Stunning Revelations!</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  This is a great set of books.  Loved that it includes maps and family histories at the end.  I would have given it 5 stars but the books are bundled together and reads like 1 big... <span class="readMoreLink" >Read more</span>
+  I just read the entire book in one day; it's that compelling. As a former day trader I can tell you MY OPINION is the story Mr. <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9061,18 +8773,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 1 hour ago by Diane Neman</span>
+<span class="green txtsmall">Published 37 minutes ago by Amazon Customer</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by olliewood" >  <div id="rev-dpReviewsMostRecent-R25OHCVZ7KPK3X" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by Mercenary Trader" >  <div id="rev-dpReviewsMostRecent-R1U7EPZNKRKTR7" class="block">    <div class="ttl"><span class="swSprite s_star_1_0 " title="1.0 out of 5 stars" ><span>1.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>This item is a PAPERBACK</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>"Dumb Tourist": Flash Boys is a Travesty</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  Why am I reading reviews for whiny e-book users under the paperback boxed set? Can I get a review of the paperbacks and keep the kindle reviews for the kindle product maybe? <span class="readMoreLink" >Read more</span>
+  I am (or sad to say, was) a huge Michael Lewis fan. Liar&#8217;s Poker, The Blind Side and The Big Short are all classics. <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9084,18 +8796,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 2 hours ago by olliewood</span>
+<span class="green txtsmall">Published 1 hour ago by Mercenary Trader</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by Lauren Jenkins" >  <div id="rev-dpReviewsMostRecent-R2JELU8Q2J83GA" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by Charles W. Houseworth" >  <div id="rev-dpReviewsMostRecent-RX3DV6FSKUQGQ" class="block">    <div class="ttl"><span class="swSprite s_star_1_0 " title="1.0 out of 5 stars" ><span>1.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>fantastic series.</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>Long Way from Liar's Poker</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  These books suck you in and won't let you go. They transport the reader to a fantasy world of magic and action.
+  Watch out when Michael Lewis uncharacteristically hurries a book to market, this time with 60 Minutes, the New York Times, and the liberal press in tow. <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9107,18 +8819,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 6 hours ago by Lauren Jenkins</span>
+<span class="green txtsmall">Published 2 hours ago by Charles W. Houseworth</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by Amanda Morrow" >  <div id="rev-dpReviewsMostRecent-R4NIRROJ8633V" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by been there, saw it" >  <div id="rev-dpReviewsMostRecent-RFRWE3DKMO1LD" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>WHOOOO</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>Yet One More Must Read from Lewis</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  BEST SERIES EVER!  Love it.  Awesome to get all 5 huge books into a kindle and be able to carry it around everywhere.
+  Just as he did in Liars' Poker, and the Big Short, Michael Lewis again shown his flashlight on the cockroaches who inhabit Wall Street.  It will be fun watching them run! <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9130,18 +8842,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 8 hours ago by Amanda Morrow</span>
+<span class="green txtsmall">Published 4 hours ago by been there, saw it</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by Pat Hodges" >  <div id="rev-dpReviewsMostRecent-RJF7LHNFTC4GR" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by Brennan Basnicki" >  <div id="rev-dpReviewsMostRecent-R27ZU2Z35WF2TS" class="block">    <div class="ttl"><span class="swSprite s_star_1_0 " title="1.0 out of 5 stars" ><span>1.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>so glad i treated myself</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>Sensationalization Sells</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  This was a purchase I made for myself and I am currently enjoying it. Most of my Amazon purchases are made as gifts but this was a gift I gave to myself and I am enjoying it... <span class="readMoreLink" >Read more</span>
+  The Big Short is one of the better books I have read (I would give it a 4 star rating). I also think Michael has done great work exposing various aspects of Wall Street. <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9153,18 +8865,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 8 hours ago by Pat Hodges</span>
+<span class="green txtsmall">Published 5 hours ago by Brennan Basnicki</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by C. Bongard" >  <div id="rev-dpReviewsMostRecent-R14NSJZMLCGW41" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by Robert J. Ruttenberg" >  <div id="rev-dpReviewsMostRecent-R2TKGKP1E40RC9" class="block">    <div class="ttl"><span class="swSprite s_star_3_0 " title="3.0 out of 5 stars" ><span>3.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>Amazing Book series</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>he's written better books</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  Amazing Book series, anyone that enjoys the HBO's Game of Thrones should read the books and get even deeper in the lore. <span class="readMoreLink" >Read more</span>
+  I have been waiting for this book because Michael Lewis has always written great books. Not this time. Very average
 </div>
 
 
@@ -9176,18 +8888,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 12 hours ago by C. Bongard</span>
+<span class="green txtsmall">Published 8 hours ago by Robert J. Ruttenberg</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by topcop5615" >  <div id="rev-dpReviewsMostRecent-R1AQ2R4XVQDGIE" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by Jeff Tran" >  <div id="rev-dpReviewsMostRecent-R2SO0VG76NOPUC" class="block">    <div class="ttl"><span class="swSprite s_star_1_0 " title="1.0 out of 5 stars" ><span>1.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>A True Must Read for Everyone.</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>Paid Ads which have no useful information.</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  I love the series, the adventure and not knowing what will happen next keeps the reader on edge and wanting more and more.
+  I love Liar's poker and Big short. But this book really destroyed Michael's credit.  The book basically has no information on the really HFT world. <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9199,18 +8911,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 13 hours ago by topcop5615</span>
+<span class="green txtsmall">Published 10 hours ago by Jeff Tran</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by Joey Block" >  <div id="rev-dpReviewsMostRecent-R3A34RHPFJCBE1" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by B. Revzin" >  <div id="rev-dpReviewsMostRecent-R3LKVQILGUVHAF" class="block">    <div class="ttl"><span class="swSprite s_star_1_0 " title="1.0 out of 5 stars" ><span>1.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>Good stuff right here</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>An embarrassingly uninformed story of the equity market</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  It's so good! I hope they make a movie or at least a hbo series about it. Winter is coming!
+  The book follows the story of one man, Brad Katsuyama, an equity trader for the Royal Bank of Canada. <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9222,18 +8934,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 15 hours ago by Joey Block</span>
+<span class="green txtsmall">Published 13 hours ago by B. Revzin</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by Donna Withrow" >  <div id="rev-dpReviewsMostRecent-R189EKLE5XXP9E" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by GARY TAYLOR" >  <div id="rev-dpReviewsMostRecent-RM5QOJZNGVS39" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>Purchases</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>Stunning. A Wall Street tale of betrayal and hope. Stranger than...</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  I needed some books for reading and these fit the bill.  I found the series to be highly interesting and wanted to read the books that inspired it.
+  Michael Lewis has delivered what we have come to expect: a lucid, well researched, non-fiction novel about our money culture which is both frightening and funny. <span class="readMoreLink" >Read more</span>
 </div>
 
 
@@ -9245,18 +8957,18 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 17 hours ago by Donna Withrow</span>
+<span class="green txtsmall">Published 18 hours ago by GARY TAYLOR</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series-ebook/product-reviews/B00957T6X6" class="reviewTitle inlineblock mt17" title="Read the full review by Andrea Ulrich" >  <div id="rev-dpReviewsMostRecent-RY07JMKNNN8EB" class="block">    <div class="ttl"><span class="swSprite s_star_4_0 " title="4.0 out of 5 stars" ><span>4.0 out of 5 stars</span></span>
+<a href="http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/product-reviews/B00HVJB4VM" class="reviewTitle inlineblock mt17" title="Read the full review by C. M. Wilcox" >  <div id="rev-dpReviewsMostRecent-R3P4J7DGLZ9FY" class="block">    <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span>
 
 
-<span class="txtlarge gl3 valignMiddle"><strong>Such a Great Series!!!</strong></span></div>    <div class="reviewText">
+<span class="txtlarge gl3 valignMiddle"><strong>Thank You Michael Lewis - on behalf of the little people.</strong></span></div>    <div class="reviewText">
 
 
 
 
 <div class="drkgry">
-  A friend of mine turned me on the HBO series and I really liked it. When I found out it was a series of books I couldn't wait to get it started.
+  The criticism of this book by those who would defend such a scam, is most telling.  Thank you Michael Lewis. Hope this helps turn the tide and prevent another great depression.
 </div>
 
 
@@ -9268,7 +8980,7 @@ amznJQ.onReady('popover', function() {
 
 
 
-<span class="green txtsmall">Published 20 hours ago by Andrea Ulrich</span>
+<span class="green txtsmall">Published 20 hours ago by C. M. Wilcox</span>
 </div>  </div></a>
 
 
@@ -9310,7 +9022,7 @@ amznJQ.onReady('popover', function() {
     </div>
   </div>
   <div class="clearboth">
-    <input type="checkbox" name="idx.asin" value="B00957T6X6" checked> 
+    <input type="checkbox" name="idx.asin" value="B00HVJB4VM" checked> 
     <input type="hidden" name="search-alias" value="community-reviews"/>
     
     <span class="tiny"> 
@@ -9479,7 +9191,6 @@ if (typeof(loadState) != "undefined" && !loadState) {
 
 
 
-
       
 
 
@@ -9547,7 +9258,7 @@ ImageBlockWeblabs["bookLargeImage"] = 0;
 amznJQ.available('ImageBlockATF', function() {
 amznJQ.onCompletion('amznJQ.criticalFeature', function() {
 
-    var data = {"indexToColor":["initial"],"visualDimensions":["color_name"],"productGroupID":"ebooks_display_on_website","newVideoMissing":0,"useIV":1,"useChildVideos":1,"numColors":1,"defaultColor":"initial","logMetrics":0,"staticStrings":{"playVideo":"Click to play video","rollOverToZoom":"Roll over image to zoom in","images":"Images","video":"video","touchToZoom":"Touch the image to zoom in","videos":"Videos","close":"Close","pleaseSelect":"Please select","clickToExpand":"Click to open expanded view","allMedia":"All Media"},"gIsNewTwister":0,"title":"George R. R. Martin's A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons","ivRepresentativeAsin":{},"mainImageSizes":[["300","300"],["300","300"]],"isQuickview":0,"ipadVideoSizes":[[300,300],[300,300]],"colorToAsin":{},"showLITBOnClick":1,"stretchyGoodnessWidth":[1280],"videoSizes":[[300,300],[300,300]],"autoplayVideo":0,"hoverZoomIndicator":"","sitbReftag":"sib_dp_kd","useHoverZoom":0,"staticImages":{"spinner":"http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-large_labeled._V192238949_.gif","zoomOut":"http://g-ecx.images-amazon.com/images/G/01/detail-page/cursors/zoom-out._V184888738_.bmp","hoverZoomIcon":"http://g-ecx.images-amazon.com/images/G/01/img11/apparel/UX/DP/icon_zoom._V138923886_.png","zoomIn":"http://g-ecx.images-amazon.com/images/G/01/detail-page/cursors/zoom-in._V184888790_.bmp","videoSWFPath":"http://g-ecx.images-amazon.com/images/G/01/Quarterdeck/en_US/video/20110518115040892/Video._V178668404_.swf","zoomLensBackground":"http://g-ecx.images-amazon.com/images/G/01/apparel/rcxgs/tile._V211431200_.gif","arrow":"http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/light/sprite-vertical-popover-arrow._V186877868_.png","videoThumbIcon":"http://g-ecx.images-amazon.com/images/G/01/Quarterdeck/en_US/images/video._V183716339_SS30_.gif"},"videos":[],"gPreferChildVideos":1,"altsOnLeft":0,"ivImageSetKeys":{"initial":0},"useHoverZoomIpad":"","isUDP":0,"alwaysIncludeVideo":1,"widths":0,"maxAlts":7,"useChromelessVideoPlayer":0};
+    var data = {"indexToColor":["initial"],"visualDimensions":["color_name"],"productGroupID":"ebooks_display_on_website","newVideoMissing":0,"useIV":1,"useChildVideos":1,"numColors":1,"defaultColor":"initial","logMetrics":0,"staticStrings":{"playVideo":"Click to play video","rollOverToZoom":"Roll over image to zoom in","images":"Images","video":"video","touchToZoom":"Touch the image to zoom in","videos":"Videos","close":"Close","pleaseSelect":"Please select","clickToExpand":"Click to open expanded view","allMedia":"All Media"},"gIsNewTwister":0,"title":"Flash Boys: A Wall Street Revolt","ivRepresentativeAsin":{},"mainImageSizes":[["300","300"],["300","300"]],"isQuickview":0,"ipadVideoSizes":[[300,300],[300,300]],"colorToAsin":{},"showLITBOnClick":1,"stretchyGoodnessWidth":[1280],"videoSizes":[[300,300],[300,300]],"autoplayVideo":0,"hoverZoomIndicator":"","sitbReftag":"sib_dp_kd","useHoverZoom":0,"staticImages":{"spinner":"http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-large_labeled._V192238949_.gif","zoomOut":"http://g-ecx.images-amazon.com/images/G/01/detail-page/cursors/zoom-out._V184888738_.bmp","hoverZoomIcon":"http://g-ecx.images-amazon.com/images/G/01/img11/apparel/UX/DP/icon_zoom._V138923886_.png","zoomIn":"http://g-ecx.images-amazon.com/images/G/01/detail-page/cursors/zoom-in._V184888790_.bmp","videoSWFPath":"http://g-ecx.images-amazon.com/images/G/01/Quarterdeck/en_US/video/20110518115040892/Video._V178668404_.swf","zoomLensBackground":"http://g-ecx.images-amazon.com/images/G/01/apparel/rcxgs/tile._V211431200_.gif","arrow":"http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/light/sprite-vertical-popover-arrow._V186877868_.png","videoThumbIcon":"http://g-ecx.images-amazon.com/images/G/01/Quarterdeck/en_US/images/video._V183716339_SS30_.gif"},"videos":[],"gPreferChildVideos":1,"altsOnLeft":0,"ivImageSetKeys":{"initial":0},"useHoverZoomIpad":"","isUDP":0,"alwaysIncludeVideo":1,"widths":0,"maxAlts":7,"useChromelessVideoPlayer":0};
 
     data["customerImages"] = eval('[]');
 
@@ -9721,101 +9432,6 @@ var precacheDetailImages = function(imageUrls, pids) {
 
 
 
-
-<script>
-  amznJQ.onReady('lazyLoadLib', function() {
-    amznJQ.available('popover', function() {
-      jQuery("#wtpop").amazonPopoverTrigger({
-        showOnHover: false,
-        showCloseButton: true,
-        literalContent: '<p>Book Extras are community editable data which includes series information, character descriptions, important places, memorable quotes and more. The content is added, edited and maintained by Amazon customers and the <a href="http://www.shelfari.com?amatc=kdp-help" target="_blank">Shelfari.com</a> community.</p><p>Shelfari is a community-powered encyclopedia for book lovers. Create a virtual bookshelf, discover new books, connect with friends and learn more about your favorite books - all for free. To learn more or to add Book Extras, visit <a href="http://www.shelfari.com?amatc=kdp-help" target="_blank">Shelfari</a>.</p>',
-        title: "What are Book Extras?"
-      });
-    });
-  });
-  
-  amznJQ.onReady('lazyLoadLib', function () {
-    jQuery('#book_extras_div').lazyLoadContent({
-      url : "/gp/bookExtras/?ASIN=B00957T6X6&dp=KDP",
-      metrics : true,
-      name : 'book_extras_div',
-      cache : false,
-      threshold : 400,
-      retry : 3
-    });
-  });
-
-  function expandBookExtraSection(id) {
-    amznJQ.onReady('jQuery', function() {
-      jQuery("#bookExtras" + id + " .ifExpanded").show();
-      jQuery("#expandBookExtras" + id).hide();
-      jQuery("#collapseBookExtras" + id).show();
-      /* Commented out until Forester JS interface is ready - expected ~2-27-12
-      if (window.ue) {
-        var params = {};
-        params [id] = "Expand";
-        ue.log(params, "Shelfari-BookExtras");
-      }*/
-    });
-  }
-
-  function collapseBookExtraSection(id) {
-    amznJQ.onReady('jQuery', function() {
-      jQuery("#bookExtras" + id + " .ifExpanded").hide();
-      jQuery("#collapseBookExtras" + id).hide();
-      jQuery("#expandBookExtras" + id).show();
-      /* Commented out until Forester JS interface is ready - expected ~2-27-12
-      if (window.ue) {
-        var params = {};
-        params [id] = "Collapse";
-        ue.log(params, "Shelfari-BookExtras");
-      }*/
-    });
-  }
-</script>
-
-<div class="measure-feature-size">
-  <!-- BOOK EXTRAS -->
-  <style type="text/css">
-  <!--
-	.be blockquote, .be h3, .be li, .be ol, .be p, .be li div p { font-size: 100%; margin: 0; list-style: none; padding: 0 }
-	.be h3 { line-height: 1.3em }
-	.be ul ol, .be ul ul, .be ul p, .be li div { margin-left: 15px }
-	.be blockquote, .be cite, .be h2 { display: inline }
-	.be cite a { font-style: italic }
-	.be cite:before { content: "- " }
-	.be ul li { padding-bottom: 1em }
-	.be li li { padding-bottom: .2em }
-	.be .be_bullets li { list-style: disc; }
-	.be .be_p, .be li div p { padding-bottom: .4em }
-	.be .be_pad_top { padding-top: .4em }
-	.be ol.be_inner { margin-left: 0 }
-	.be .bold, .be b a { font-weight: 800 }
-	.be h3 span { font-size: 12px; font-weight: 400 }
-	.be acronym { border-bottom: 1px dotted #999 }
-	.be .s_expandChevron, .be .s_collapseChevron { margin-right: 5px }
-	.be .s_extLink { margin-left: 2px }
-	.be #be_ex_trigger { margin: 0 0 10px 0; }
-  -->
-  </style>
-
-  <hr class="bucketDivider" noshade="true" size="1">
-
-  <div class="bucket be">
-    <h2>Book Extras from the Shelfari Community</h2>
-    <span class="tiny nowrap">(<a id="wtpop" href="javascript:void(0)">What's this?</a>)</span>
-    <div class="content">
-      <div id="book_extras_div">
-        <div width="100%" style="display: none;" class="loading_ind">
-    <img style="padding: 8px 0px 20px 100px;" src="http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-large_boxed._V192195297_.gif"/>
-</div>
-      </div>
-      <div id="book_extras_track"></div>
-      
-<p>To add, correct, or read more Book Extras for <a href="http://www.shelfari.com/books/30544312/A-Game-of-Thrones-5-Book-Bundle-A-Song-of-Ice-and-Fire-Series-A-?amatc=kdp-c" target="_blank">A Game of Thrones 5-Book Bundle: A Song of Ice and Fire Series: A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons<span class="swSprite s_extLink">&nbsp;</span></a>, visit Shelfari, an Amazon.com company.</p>
-    </div>
-  </div>
-</div>
 
 
 
@@ -10197,13 +9813,13 @@ span.kar_beta {
 
       <div class="author_page_link content">
         <span class="carat">&rsaquo;</span> 
-        <a href="http://www.amazon.com/George-R.-R.-Martin/e/B000APIGH4">
-          Visit Amazon's George R. R. Martin Page
+        <a href="http://www.amazon.com/Michael-Lewis/e/B000APZ33E">
+          Visit Amazon's Michael Lewis Page
         </a>
       </div>
       <div class="content" style="float:left;width:100px;">
         <div class="authorImageSingle">
-          <a href="http://www.amazon.com/George-R.-R.-Martin/e/B000APIGH4">
+          <a href="http://www.amazon.com/Michael-Lewis/e/B000APZ33E">
             
 
 
@@ -10221,7 +9837,7 @@ span.kar_beta {
   <div id="cmuRemoteImageBanner" class="h3color">
     
   </div>
-  <img src="http://g-ecx.images-amazon.com/images/G/01/ciu/9c/a4/ce81e73f58ec0a7d936214.L._SX80_.jpg" width="80" alt="George R. R. Martin" class="cmuImage" id="cmuImg" height="53" border="0" />
+  <img src="http://g-ecx.images-amazon.com/images/G/01/ciu/3a/fe/26f14eb77bf30ad8956eff.L._SX80_.jpg" width="80" alt="Michael Lewis" class="cmuImage" id="cmuImg" height="120" border="0" />
 </div>
 
 
@@ -10236,10 +9852,512 @@ span.kar_beta {
       <div class="mainContent">
         
   
-      George R.R. Martin sold his first story in 1971 and has been writing professionally since then. He spent ten years in Hollywood as a writer-producer, working on The Twilight Zone, Beauty and the Beast, and various feature films and television pilots that were never made. In the mid '90s he returned to prose, his first love, and began work on his epic fantasy series, A Song of Ice and Fire. He has been in the Seven Kingdoms ever since. Whenever he's allowed to leave, he returns to Santa Fe, New Mexico, where he lives with the lovely Parris, and two cats named Augustus and Caligula, who think they run the place.<br/><br/><br/>
+      Michael Lewis, the author of Boomerang, Liar's Poker, The New New Thing, Moneyball, The Blind Side, Panic, Home Game and The Big Short, among other works, lives in Berkeley, California, with his wife, Tabitha Soren, and their three children. 
 
 
       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -12488,7 +12606,7 @@ span.kar_beta {
     <h3>Amazon Author Rank<span class="kar_beta">beta</span>&nbsp;</h3>
     <span class="tiny">(<a id="karWhatsThis" href="#">What's this?</a>)</span>
     <div class="overallRank">
-        #12&nbsp;Overall
+        #2&nbsp;Overall
         (<a href="http://www.amazon.com/author-rank">See top 100 authors</a>)
     </div>
 
@@ -12498,86 +12616,62 @@ span.kar_beta {
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
-                <a href="http://www.amazon.com/author-rank/Literature-Fiction/books/17">Literature & Fiction</a>
-                <span>></span>
-                <a href="http://www.amazon.com/author-rank/Genre-Fiction/books/10134">Genre Fiction</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Action-Adventure/books/720360">Action & Adventure</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Business-Money/books/3">Business & Money</a></b>
         </div>
         <div class="nodeRank">
         <span class="rank">#1</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
                 <span>></span>
-                <a href="http://www.amazon.com/author-rank/Literature-Fiction/digital-text/157028011">Literature & Fiction</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Action-Adventure/digital-text/157055011">Action & Adventure</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Business-Money/digital-text/154821011">Business & Money</a></b>
         </div>
         <div class="nodeRank">
         <span class="rank">#1</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
-                <a href="http://www.amazon.com/author-rank/Science-Fiction-Fantasy/books/25">Science Fiction & Fantasy</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Fantasy/books/16190">Fantasy</a></b>
+                <b><a href="http://www.amazon.com/author-rank/History/books/9">History</a></b>
         </div>
         <div class="nodeRank">
         <span class="rank">#2</span>
         <span>in</span>
-                <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Science-Fiction-Fantasy/books/25">Science Fiction & Fantasy</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#2</span>
+        <span class="rank">#3</span>
         <span>in</span>
-                <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Fantasy/digital-text/158576011">Fantasy</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a></b>
         </div>
         <div class="nodeRank">
         <span class="rank">#1</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
-                <a href="http://www.amazon.com/author-rank/Literature-Fiction/books/17">Literature & Fiction</a>
-                <span>></span>
-                <a href="http://www.amazon.com/author-rank/Genre-Fiction/books/10134">Genre Fiction</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Action-Adventure/books/720360">Action & Adventure</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Business-Money/books/3">Business & Money</a></b>
         </div>
         <div class="nodeRank">
         <span class="rank">#1</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
                 <span>></span>
-                <a href="http://www.amazon.com/author-rank/Literature-Fiction/digital-text/157028011">Literature & Fiction</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Action-Adventure/digital-text/157055011">Action & Adventure</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Business-Money/digital-text/154821011">Business & Money</a></b>
         </div>
         <div class="nodeRank">
         <span class="rank">#1</span>
         <span>in</span>
                 <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
                 <span>></span>
-                <a href="http://www.amazon.com/author-rank/Science-Fiction-Fantasy/books/25">Science Fiction & Fantasy</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Fantasy/books/16190">Fantasy</a></b>
+                <b><a href="http://www.amazon.com/author-rank/History/books/9">History</a></b>
         </div>
         <div class="nodeRank">
         <span class="rank">#2</span>
         <span>in</span>
-                <a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Science-Fiction-Fantasy/books/25">Science Fiction & Fantasy</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Books-Featured-Categories/books/51546011">Books</a></b>
         </div>
         <div class="nodeRank">
-        <span class="rank">#2</span>
+        <span class="rank">#3</span>
         <span>in</span>
-                <a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a>
-                <span>></span>
-                <b><a href="http://www.amazon.com/author-rank/Fantasy/digital-text/158576011">Fantasy</a></b>
+                <b><a href="http://www.amazon.com/author-rank/Kindle-eBooks/digital-text/154606011">Kindle eBooks</a></b>
         </div>
     </div>
 </div>
@@ -12766,202 +12860,6 @@ span.kar_beta {
 
 
 
-<div id="cpsims-feature" class="">
-<hr class="bucketDivider">
-<div class="bucket cpsims" id="vtpsims">
-
-
-    <h2>What Other Items Do Customers Buy After Viewing This Item?</h2>
-    
-  <ul class="content small">
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-  <div class="asinDetails">
-  
-
-
-
-
-
-
-<a href="/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW"   id="pd_cp_kstore_0_B000QCS8TW" > <img src="http://ecx.images-amazon.com/images/I/51yMq34sQEL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
-                    <span class="cpAsinTitle">A Game of Thrones: A Song of Ice and Fire: Book One</span> </a>
-<span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by George R.R. Martin</span>&nbsp;Kindle Edition</span>
-    <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B000QCS8TW"><a href="http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/product-reviews/B000QCS8TW?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="swSprite s_star_4_5 " title="4.4 out of 5 stars" ><span>4.4 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/product-reviews/B000QCS8TW?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">5,097</a>)</span></span><br>
-  <div class="price">$4.99</div>
-  </div>
-</li>
-<div class="vtp-clear"> </div>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-  <div class="asinDetails">
-  
-
-
-
-
-
-
-<a href="/Feast-Crows-Song-Fire-Book-ebook/dp/B000FCKGPC"   id="pd_cp_kstore_1_B000FCKGPC" > <img src="http://ecx.images-amazon.com/images/I/51bprdU98nL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
-                    <span class="cpAsinTitle">A Feast for Crows: A Song of Ice and Fire: Book Four</span> </a>
-<span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by George R.R. Martin</span>&nbsp;Kindle Edition</span>
-    <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B000FCKGPC"><a href="http://www.amazon.com/Feast-Crows-Song-Fire-Book-ebook/product-reviews/B000FCKGPC?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="swSprite s_star_3_5 " title="3.6 out of 5 stars" ><span>3.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Feast-Crows-Song-Fire-Book-ebook/product-reviews/B000FCKGPC?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">2,950</a>)</span></span><br>
-  <div class="price">$4.99</div>
-  </div>
-</li>
-<div class="vtp-clear"> </div>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-  <div class="asinDetails">
-  
-
-
-
-
-
-
-<a href="/Dance-Dragons-Song-Fire-Book-ebook/dp/B003YL4LYI"   id="pd_cp_kstore_2_B003YL4LYI" > <img src="http://ecx.images-amazon.com/images/I/51eOjlOiugL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
-                    <span class="cpAsinTitle">A Dance with Dragons: A Song of Ice and Fire: Book Five</span> </a>
-<span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by George R.R. Martin</span>&nbsp;Kindle Edition</span>
-    <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B003YL4LYI"><a href="http://www.amazon.com/Dance-Dragons-Song-Fire-Book-ebook/product-reviews/B003YL4LYI?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="swSprite s_star_3_5 " title="3.7 out of 5 stars" ><span>3.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Dance-Dragons-Song-Fire-Book-ebook/product-reviews/B003YL4LYI?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">5,757</a>)</span></span><br>
-  <div class="price">$4.99</div>
-  </div>
-</li>
-<div class="vtp-clear"> </div>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-  <div class="asinDetails">
-  
-
-
-
-
-
-
-<a href="/The-Divergent-Series-Complete-Collection-ebook/dp/B00BW3AY64"   id="pd_cp_kstore_3_B00BW3AY64" > <img src="http://ecx.images-amazon.com/images/I/51qyyXnGEmL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
-                    <span class="cpAsinTitle">The Divergent Series Complete Collection</span> </a>
-<span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Veronica Roth</span>&nbsp;Kindle Edition</span>
-    <br>
-    <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00BW3AY64"><a href="http://www.amazon.com/The-Divergent-Series-Complete-Collection-ebook/product-reviews/B00BW3AY64?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9"><span class="swSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Divergent-Series-Complete-Collection-ebook/product-reviews/B00BW3AY64?ie=UTF8&refRID=1BHXNQ8EC0BR1NE7XHY9">998</a>)</span></span><br>
-  <div class="price">$14.99</div>
-  </div>
-</li>
-<div class="vtp-clear"> </div>
-
-
-  </ul>
-  <div class="simFooter"><b><span class="caretnext">&rsaquo;</span> <a href="/George-Martins-Thrones-5-Book-Series-ebook/sim/B00957T6X6/2">Explore similar items</a></b></div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
 
   
@@ -12974,7 +12872,7 @@ span.kar_beta {
 <script type="text/javascript">
   amznJQ.onReady('lazyLoadLib', function() {
     jQuery('#snhPhlContainer').lazyLoadContent({
-      url: "/gp/kcw/features/notes-and-highlights-lazyload.html?ASIN=B00957T6X6",
+      url: "/gp/kcw/features/notes-and-highlights-lazyload.html?ASIN=B00HVJB4VM",
       metrics: true,
       name: 'snhphl',
       cache: false
@@ -13042,22 +12940,6 @@ span.kar_beta {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 
 
@@ -13085,367 +12967,24 @@ span.kar_beta {
 
 
 
-<div id="cf-forums-cel" class="celwidget">
+<div id="cf-forums-empty-cel" class="celwidget">
 <hr class="bucketDivider" size="1" noshade="noshade">
 <a name="CustomerDiscussions"></a>
-
 <div class="cmPage">
-  <div class="cfBucketTitle">
-    <h2>Forums</h2>
-    
-
-  </div>
-
   <div class="customerForumsBucket">
-
-    <div class="cfRightColumn">
-        <div class="cfSearchBucket">
-          
-  
-  
-
-
-
-
-
-
-<div class="cdSearchInputBox">
-   
-<div class="cdSearchBoxWide">
-  <div class="cdSearchInputTitle">
-    Search Customer Discussions
-  </div>
-
-  
-  
-
-
-
-
-
-
-<script>
-  function cdCheckSearchInput(form) {
-    var query = '' + form.cdQuery.value;
-    if ( (query == '') || (query.match(/^\s*$/)) ) {
-      alert("You must use at least one search term to perform a search.");
-      return false;
-    }
-    return true;
-  }
-</script>
-
-
-<div class="cdSearchQueryBox">
- <form method="get" name="cdSearchQuery" id="cdSearchQueryBox" action="/gp/communities/search/ref=cm_cd_search_basic_dp" onsubmit="return cdCheckSearchInput(this);">
-  <div>
-    <input class="cdSearchInputField" type="text" name="cdQuery" title="Search Customer Discussions" value="" maxlength="254" />
-
-    
-
-    <input type="hidden" name="cdPage" value="1" />
-    <span class="dboards-btn btn-input btn-sec rounded-standard"><input class="btn-small" type="submit" title="Go" value="Go"></span>
-  </div>
-
-  <div class="cdSearchContextBucket">
-    <div class="cdSearchAllContextString">Search all Amazon discussions</div>
-  </div>
-  <span class="cdHelperSpan"></span>
- </form>
-</div>
-
-
-</div>  
-
-</div>
- 
-
-
-
-
-
-
-
-
-        </div>
-        <br />
+    <div class="cfBucketTitle">
+      <h2>Forums</h2> 
     </div>
-
-    <div class="cfLeftColumn">
-      <div class="cfThreadGrid">
-        <table cellspacing="0" cellpadding="0">
-          <tbody>
-            <tr>
-              <th>
-                Topic
-              </th>
-              <th>
-                From this Discussion
-              </th>
-            </tr>
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr class="cfTitleAndBestReply">
-  <td class="title">
-    <a href="http://www.amazon.com/Can-anyone-help-kindle-edition/forum/Fx1TCACQZFASKSN/Tx1SB4DUIDTL0S/1?_encoding=UTF8&amp;asin=B00957T6X6">Can anyone help with the kindle edition????</a>
-  </td>  
-  <td class="bestReply">
-    <div>
-      I bought this bundle a while ago and after i noticed exactly the same thing i returned(it was in the 7 days period) it and bought them separately . The individual books have summary info. But you can also do something else.... i found it by pure luck on the internet. Search with google &quot;game...&nbsp;<a href="http://www.amazon.com/Can-anyone-help-kindle-edition/forum/Fx1TCACQZFASKSN/Tx1SB4DUIDTL0S/1?_encoding=UTF8&amp;asin=B00957T6X6&amp;cdSort=oldest#Mx2CV3RFX2FNBDO">Read more</a>
-    </div>
-    <div class="cfBestReplyByLine">
-      <span class="cfAuthorByLine">
-         
-
-Oct 14, 2013
-
-
-
-
- by Torok Istvan&nbsp;|&nbsp;
-      </span>
-      <span class="cfSeeAllPosts">
-        <a href="http://www.amazon.com/Can-anyone-help-kindle-edition/forum/Fx1TCACQZFASKSN/Tx1SB4DUIDTL0S/1?_encoding=UTF8&amp;asin=B00957T6X6">See all 3 posts</a>
-      </span>
-    </div>
-  </td>
-</tr>
-
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr class="cfTitleAndBestReply">
-  <td class="title">
-    <a href="http://www.amazon.com/Rip/forum/Fx1TCACQZFASKSN/Tx21XVQJGPT5TAX/1?_encoding=UTF8&amp;asin=B00957T6X6">Rip</a>
-  </td>  
-  <td class="bestReply">
-    <div>
-      You're so right, I mean $6 can barely buy a cheap lunch.
-    </div>
-    <div class="cfBestReplyByLine">
-      <span class="cfAuthorByLine">
-         
-Sep 10, 2012
-
-
-
-
- by A. Whitaker&nbsp;|&nbsp;
-      </span>
-      <span class="cfSeeAllPosts">
-        <a href="http://www.amazon.com/Rip/forum/Fx1TCACQZFASKSN/Tx21XVQJGPT5TAX/1?_encoding=UTF8&amp;asin=B00957T6X6">See all 2 posts</a>
-      </span>
-    </div>
-  </td>
-</tr>
-
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr class="cfTitleAndBestReply">
-  <td class="title">
-    <a href="http://www.amazon.com/X-ray-not-working/forum/Fx1TCACQZFASKSN/TxTNZFYAYDB3J7/1?_encoding=UTF8&amp;asin=B00957T6X6">X-ray not working</a>
-  </td>  
-  <td class="bestReply">
-    <div>
-      I know this response is a bit late but it seems they may have disabled the x-ray. While reading reviews someone noted that the x-ray worked on their Kindle Fire HD but they then got a Paperwhite and realized that x-ray has been disabled. I checked the product details and it does say &quot;X-ray:...&nbsp;<a href="http://www.amazon.com/X-ray-not-working/forum/Fx1TCACQZFASKSN/TxTNZFYAYDB3J7/1?_encoding=UTF8&amp;asin=B00957T6X6&amp;cdSort=oldest#Mx1UR11SE3V6NFG">Read more</a>
-    </div>
-    <div class="cfBestReplyByLine">
-      <span class="cfAuthorByLine">
-         
-Feb 28, 2014
-
-
-
-
- by Kayjenx&nbsp;|&nbsp;
-      </span>
-      <span class="cfSeeAllPosts">
-        <a href="http://www.amazon.com/X-ray-not-working/forum/Fx1TCACQZFASKSN/TxTNZFYAYDB3J7/1?_encoding=UTF8&amp;asin=B00957T6X6">See all 2 posts</a>
-      </span>
-    </div>
-  </td>
-</tr>
-
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr class="cfTitleAndBestReply">
-  <td class="title">
-    <a href="http://www.amazon.com/many-pages-confusion-please-help-/forum/Fx1TCACQZFASKSN/Tx28BPUFRM6L6C1/1?_encoding=UTF8&amp;asin=B00957T6X6">How many pages? Page confusion please help.</a>
-  </td>  
-  <td class="bestReply">
-    <div>
-      My answer might be too late for you.  This book doesn't have page numbers; it's using location.  All five books are included in the download. None are missing.
-    </div>
-    <div class="cfBestReplyByLine">
-      <span class="cfAuthorByLine">
-         
-11 days ago
-
-
-
-
- by Lynn&nbsp;|&nbsp;
-      </span>
-      <span class="cfSeeAllPosts">
-        <a href="http://www.amazon.com/many-pages-confusion-please-help-/forum/Fx1TCACQZFASKSN/Tx28BPUFRM6L6C1/1?_encoding=UTF8&amp;asin=B00957T6X6">See all 2 posts</a>
-      </span>
-    </div>
-  </td>
-</tr>
-
-              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr class="cfTitleAndBestReply">
-  <td class="title">
-    <a href="http://www.amazon.com/No-Real-Page-Numbers/forum/Fx1TCACQZFASKSN/Tx2AUQG2BFF9H6G/1?_encoding=UTF8&amp;asin=B00957T6X6">No Real Page Numbers</a>
-  </td>  
-  <td class="bestReply">
-    <div>
-      Font size really shouldn't matter as long as when they scanned it in, they put in page breaks.  Not a terribly difficult thing to do.  Seems to be a common problem with most Digital Media.  Laziness.
-    </div>
-    <div class="cfBestReplyByLine">
-      <span class="cfAuthorByLine">
-         
-Nov 29, 2013
-
-
-
-
- by Kryloc&nbsp;|&nbsp;
-      </span>
-      <span class="cfSeeAllPosts">
-        <a href="http://www.amazon.com/No-Real-Page-Numbers/forum/Fx1TCACQZFASKSN/Tx2AUQG2BFF9H6G/1?_encoding=UTF8&amp;asin=B00957T6X6">See all 5 posts</a>
-      </span>
-    </div>
-  </td>
-</tr>
-
-              
-
-
-
-
-
-
-
-
-<tr class="cfTitleAndBestReplyBorder">
-  <td class="title">
-    <a href="http://www.amazon.com/Number-of-files-X-Ray-Enabled/forum/Fx1TCACQZFASKSN/TxK14819D1C140/1?_encoding=UTF8&amp;asin=B00957T6X6">Number of files? X-Ray Enabled?</a>
-  </td>  
-  <td class="reply">
-    <span class="cfAnswerQuestion">
-      <a href="http://www.amazon.com/Number-of-files-X-Ray-Enabled/forum/Fx1TCACQZFASKSN/TxK14819D1C140/1?_encoding=UTF8&amp;asin=B00957T6X6">Be the first to reply</a>
-    </span>
-  </td>
-</tr>
-
-          </tbody>
-        </table>
+    <div class="cfNoDiscussionsBucket">
+      <div class="cfNoDiscussionsHeading">
+        There are no discussions about this product yet.
       </div>
-    </div>
-
-    <div class="cfBottomBucket">
-        <div class="cfSeeAllDiscussions">
-          <span class="cfCaret">&#155;</span><a href="http://www.amazon.com/George-Martins-Thrones-5-Book-Series/forum/Fx1TCACQZFASKSN/-/1?_encoding=UTF8&amp;asin=B00957T6X6">See all 8 discussions</a>
+      <div class="cfNoDiscussionsStartNew">
+        <div class="cfNoDiscussionsCTA">
+          Be the first to discuss this product with the community.
         </div>
-
-      <div class="cfPostButton">
-          
+        <div class="cfPostButton">
+            
 
 
 
@@ -13488,17 +13027,15 @@ Nov 29, 2013
 
     
 
-      <input type="hidden" name="cdBirth" value="1396495991" />
+      <input type="hidden" name="ASIN" value="B00HVJB4VM" />
+      <input type="hidden" name="cdBirth" value="1396495993" />
       <input type="hidden" name="cdClientIP" value="72.225.198.134" />
-      <input type="hidden" name="cdForumTitle" value="" />
-      <input type="hidden" name="cdSFormFields" value="cdBirth:cdClientIP:cdForumTitle:cdSFormFields:encodedForumTitle:forumID:originInstanceID:originTypeID:redirectTarget:threadType" />
-      <input type="hidden" name="encodedForumTitle" value="" />
-      <input type="hidden" name="forumID" value="Fx1TCACQZFASKSN" />
-      <input type="hidden" name="originInstanceID" value="B00957T6X6" />
+      <input type="hidden" name="cdSFormFields" value="ASIN:cdBirth:cdClientIP:cdSFormFields:originInstanceID:originTypeID:redirectTarget:threadType" />
+      <input type="hidden" name="originInstanceID" value="B00HVJB4VM" />
       <input type="hidden" name="originTypeID" value="1" />
-      <input type="hidden" name="redirectTarget" value="aHR0cDovL3d3dy5hbWF6b24uY29tL0dlb3JnZS1NYXJ0aW5zLVRocm9uZXMtNS1Cb29rLVNlcmllcy9mb3J1bS9GeDFUQ0FDUVpGQVNLU04vLS8xP19lbmNvZGluZz1VVEY4JmFzaW49QjAwOTU3VDZYNg" />
+      <input type="hidden" name="redirectTarget" value="aHR0cDovL3d3dy5hbWF6b24uY29tL0ZsYXNoLUJveXMtV2FsbC1TdHJlZXQtUmV2b2x0LWVib29rL2RwL0IwMEhWSkI0Vk0_X2VuY29kaW5nPVVURjgmY2RQYWdlPTEmbm9MTD0x" />
       <input type="hidden" name="threadType" value="Normal" />
-    <input type="hidden" name="cdSecureFormToken" value="gJgf6WZBlmLH2d6Gyh8dNDYjwddbyjuWNw2uRn8AAAADAAAAAFM81ndyYXcAAAAA" />
+    <input type="hidden" name="cdSecureFormToken" value="gNB2KvpQUfYztMXxqEI5FoX4ttlt//0S18o3CzwAAAADAAAAAFM81nlyYXcAAAAA" />
 
 
         <div class="cdFormRow" 
@@ -13575,9 +13112,9 @@ Nov 29, 2013
 
 
 
+        </div>
       </div>
-  </div>
-  <br class="cfClear">
+    </div>
   </div>
 </div>
 </div>
@@ -13592,20 +13129,6 @@ Nov 29, 2013
 
   });
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -13655,13 +13178,9 @@ Nov 29, 2013
   
   <div class="content">
   <ul>
-   <li><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> > <a href="/Literature-Fiction-Books/b?ie=UTF8&amp;node=17">Literature & Fiction</a> > <a href="/Genre-Fiction-Literature-Books/b?ie=UTF8&amp;node=10134">Genre Fiction</a> > <a href="/Action-Adventure-Genre-Fiction-Books/b?ie=UTF8&amp;node=720360">Action & Adventure</a></li>
-   <li><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> > <a href="/Literature-Fiction-Books/b?ie=UTF8&amp;node=17">Literature & Fiction</a> > <a href="/Genre-Fiction-Literature-Books/b?ie=UTF8&amp;node=10134">Genre Fiction</a> > <a href="/Movie-Tie-Ins-Genre-Fiction-Books/b?ie=UTF8&amp;node=4497">Movie Tie-Ins</a></li>
-   <li><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> > <a href="/Science-Fiction-Fantasy-Books/b?ie=UTF8&amp;node=25">Science Fiction & Fantasy</a> > <a href="/Fantasy-Science-Fiction-Books/b?ie=UTF8&amp;node=16190">Fantasy</a> > <a href="/Epic-Fantasy-Science-Fiction-Books/b?ie=UTF8&amp;node=16197">Epic</a></li>
-   <li><a href="/Kindle-Store/b?ie=UTF8&amp;node=133140011">Kindle Store</a> > <a href="/Kindle-eBooks/b?ie=UTF8&amp;node=154606011">Kindle eBooks</a> > <a href="/Literature-Fiction-Kindle-eBooks/b?ie=UTF8&amp;node=157028011">Literature & Fiction</a> > <a href="/Action-Adventure-Fiction-eBooks-Kindle/b?ie=UTF8&amp;node=157055011">Action & Adventure</a> > <a href="/b?ie=UTF8&amp;node=7588728011">Fantasy</a></li>
-   <li><a href="/Kindle-Store/b?ie=UTF8&amp;node=133140011">Kindle Store</a> > <a href="/Kindle-eBooks/b?ie=UTF8&amp;node=154606011">Kindle eBooks</a> > <a href="/Literature-Fiction-Kindle-eBooks/b?ie=UTF8&amp;node=157028011">Literature & Fiction</a> > <a href="/Genre-Fiction-eBooks-Kindle/b?ie=UTF8&amp;node=157054011">Genre Fiction</a> > <a href="/b?ie=UTF8&amp;node=157068011">Movie Tie-Ins</a></li>
-   <li><a href="/Kindle-Store/b?ie=UTF8&amp;node=133140011">Kindle Store</a> > <a href="/Kindle-eBooks/b?ie=UTF8&amp;node=154606011">Kindle eBooks</a> > <a href="/Science-Fiction-Fantasy-Kindle-eBooks/b?ie=UTF8&amp;node=668010011">Science Fiction & Fantasy</a> > <a href="/Fantasy-eBooks/b?ie=UTF8&amp;node=158576011">Fantasy</a> > <a href="/Epic-Fantasy-eBooks-Kindle/b?ie=UTF8&amp;node=158580011">Epic</a></li>
-   <li><a href="/Kindle-Store/b?ie=UTF8&amp;node=133140011">Kindle Store</a> > <a href="/Kindle-eBooks/b?ie=UTF8&amp;node=154606011">Kindle eBooks</a> > <a href="/Science-Fiction-Fantasy-Kindle-eBooks/b?ie=UTF8&amp;node=668010011">Science Fiction & Fantasy</a> > <a href="/Fantasy-eBooks/b?ie=UTF8&amp;node=158576011">Fantasy</a> > <a href="/b?ie=UTF8&amp;node=6809433011">TV, Movie, Video Game Adaptations</a></li>
+   <li><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> > <a href="/Business-Investing-Books/b?ie=UTF8&amp;node=3">Business & Money</a> > <a href="/Economics-Business-Investing-Books/b?ie=UTF8&amp;node=2581">Economics</a> > <a href="/Economic-Conditions-Economics-Books/b?ie=UTF8&amp;node=2587">Economic Conditions</a></li>
+   <li><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> > <a href="/History-Books/b?ie=UTF8&amp;node=9">History</a> > <a href="/b?ie=UTF8&amp;node=6343226011">Modern (16th-21st Centuries)</a> > <a href="/b?ie=UTF8&amp;node=6343232011">21st Century</a></li>
+   <li><a href="/Kindle-Store/b?ie=UTF8&amp;node=133140011">Kindle Store</a> > <a href="/Kindle-eBooks/b?ie=UTF8&amp;node=154606011">Kindle eBooks</a> > <a href="/Business-Money-Kindle-eBooks/b?ie=UTF8&amp;node=154821011">Business & Money</a> > <a href="/Economics-Business-Investing-eBooks-Kindle/b?ie=UTF8&amp;node=154849011">Economics</a> > <a href="/b?ie=UTF8&amp;node=154855011">Economic Conditions</a></li>
   </ul>
   </div>
 </div>
@@ -14720,7 +14239,7 @@ text-decoration:none !important;
         if (1==0) {
           return;
         }
-            var directLink = "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00957T6X6%3Fie%3DUTF8%26ref_%3Dcustrec_signin_redirect_same_page";
+            var directLink = "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00HVJB4VM%3Fie%3DUTF8%26ref_%3Dcustrec_signin_redirect_same_page";
             //var domArray= $("#sign-in-tooltip-body .a-button a , #nav_your_account_flyout a.nav-action-button , .cust-rec-tooltip-nav-flyout a.nav-action-button");
             //returnUrl = custrecReturnURL($);
             replaceLink("#sign-in-tooltip-body .a-button a , #nav_your_account_flyout a.nav-action-button , .cust-rec-tooltip-nav-flyout a.nav-action-button", $, directLink);
@@ -14815,7 +14334,7 @@ text-decoration:none !important;
       showCloseButton: true,
       closeText: "Close",
       width: 490,
-      destination: "/gp/digital/fiona/detail/kics-popups/?asin=B00957T6X6&isKDK=0&isSub=0&isBlog=0&country=US&popupId=kinwbuy"
+      destination: "/gp/digital/fiona/detail/kics-popups/?asin=B00HVJB4VM&isKDK=0&isSub=0&isBlog=0&country=US&popupId=kinwbuy"
     });
 
     jQuery("#kinwsam").amazonPopoverTrigger({
@@ -14831,7 +14350,7 @@ text-decoration:none !important;
       showCloseButton: true,
       closeText: "Close",
       width: 490,
-      destination: "/gp/digital/fiona/detail/kics-popups/?asin=B00957T6X6&isKDK=0&isSub=0&isBlog=0&country=US&popupId=kinwsam"
+      destination: "/gp/digital/fiona/detail/kics-popups/?asin=B00HVJB4VM&isKDK=0&isSub=0&isBlog=0&country=US&popupId=kinwsam"
     });
 
     jQuery("#kinwdft").amazonPopoverTrigger({
@@ -14847,7 +14366,7 @@ text-decoration:none !important;
       showCloseButton: true,
       closeText: "Close",
       width: 490,
-      destination: "/gp/digital/fiona/detail/kics-popups/?asin=B00957T6X6&isKDK=0&isSub=0&isBlog=0&country=US&popupId=kinwdft"
+      destination: "/gp/digital/fiona/detail/kics-popups/?asin=B00HVJB4VM&isKDK=0&isSub=0&isBlog=0&country=US&popupId=kinwdft"
     });
 
       jQuery("#kinwshopnow").amazonPopoverTrigger({
@@ -15007,8 +14526,8 @@ text-decoration:none !important;
 
 <div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><ul><li class="nav_first"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088" class="nav_a">Conditions of Use</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" class="nav_a">Privacy Notice</a></li><li><a href="/interestbasedads" class="nav_a">Interest-Based Ads</a></li><li class="nav_last">© 1996-2014, Amazon.com, Inc. or its affiliates</li></ul></div>
 </div>
-<!-- whfh-T0B9/FDxTON6vDQuxWBf+ezaFpKg7Yj27//mUzKAqf2J6XQXVLHg0O976kPmPoz4 rid-1BHXNQ8EC0BR1NE7XHY9 -->
-<div id="sis_pixel_r2" style="height:1px;"></div><script>(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&old_oo=0&cb=1396495992238" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});</script>
+<!-- whfh-Yw0hdgIiBBwQkZh6umaituTs+tYYQHZY+BgrUkY6Jbo+wu42rry+3GWkA8bBzBsg rid-17JJBBQEYZ51RTX0V1B9 -->
+<div id="sis_pixel_r2" style="height:1px;"></div><script>(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&old_oo=0&cb=1396495993703" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});</script>
 
 
 
